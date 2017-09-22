@@ -7,14 +7,14 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    private Button companylogin;
+    private Button companyLogin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        companylogin = (Button) findViewById(R.id.company_login);
-        companylogin.setOnClickListener(new View.OnClickListener() {
+        companyLogin = (Button) findViewById(R.id.company_login);
+        companyLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i=new Intent(MainActivity.this, companylogin.class);
