@@ -2311,7 +2311,6 @@ containing a value of this type.
         public static final int basic=0x7f0b000f;
         public static final int beginning=0x7f0b0022;
         public static final int bottom=0x7f0b002a;
-        public static final int button=0x7f0b0061;
         public static final int buttonPanel=0x7f0b0036;
         public static final int cancel_action=0x7f0b006a;
         public static final int chains=0x7f0b0010;
@@ -2319,6 +2318,8 @@ containing a value of this type.
         public static final int chronometer=0x7f0b0072;
         public static final int collapseActionView=0x7f0b0026;
         public static final int company_login=0x7f0b0065;
+        public static final int company_password=0x7f0b0060;
+        public static final int company_userid=0x7f0b005f;
         public static final int contentPanel=0x7f0b0039;
         public static final int custom=0x7f0b0040;
         public static final int customPanel=0x7f0b003f;
@@ -2326,7 +2327,6 @@ containing a value of this type.
         public static final int default_activity_button=0x7f0b0032;
         public static final int disableHome=0x7f0b0015;
         public static final int edit_query=0x7f0b0051;
-        public static final int emailaddress=0x7f0b005f;
         public static final int end=0x7f0b0023;
         public static final int end_padder=0x7f0b007c;
         public static final int expand_activities_button=0x7f0b0030;
@@ -2343,6 +2343,7 @@ containing a value of this type.
         public static final int line3=0x7f0b007a;
         public static final int listMode=0x7f0b0012;
         public static final int list_item=0x7f0b0033;
+        public static final int login_button=0x7f0b0061;
         public static final int media_actions=0x7f0b006c;
         public static final int middle=0x7f0b0024;
         public static final int multiply=0x7f0b001c;
@@ -2355,7 +2356,6 @@ containing a value of this type.
         public static final int packed=0x7f0b000c;
         public static final int parent=0x7f0b0009;
         public static final int parentPanel=0x7f0b0038;
-        public static final int password=0x7f0b0060;
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
         public static final int radio=0x7f0b0048;
@@ -2387,6 +2387,7 @@ containing a value of this type.
         public static final int src_atop=0x7f0b001e;
         public static final int src_in=0x7f0b001f;
         public static final int src_over=0x7f0b0020;
+        public static final int sso_login=0x7f0b007d;
         public static final int status_bar_latest_event_content=0x7f0b006b;
         public static final int student_login=0x7f0b0064;
         public static final int submenuarrow=0x7f0b0049;
@@ -2464,7 +2465,8 @@ containing a value of this type.
         public static final int select_dialog_item_material=0x7f04002c;
         public static final int select_dialog_multichoice_material=0x7f04002d;
         public static final int select_dialog_singlechoice_material=0x7f04002e;
-        public static final int support_simple_spinner_dropdown_item=0x7f04002f;
+        public static final int sso_page=0x7f04002f;
+        public static final int support_simple_spinner_dropdown_item=0x7f040030;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

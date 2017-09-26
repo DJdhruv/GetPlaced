@@ -22,40 +22,42 @@
         android:layout_height="350dp"
         android:background="#ffffff"
         android:layout_centerVertical="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="55dp">
+        android:layout_centerHorizontal="true">
+
         <EditText
-            android:id="@+id/emailaddress"
+            android:id="@+id/company_userid"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
+            android:fontFamily="monospace"
+            android:hint="Login"
             android:inputType="textEmailAddress"
-            android:layout_marginBottom="57dp"
-            android:layout_above="@+id/password"
-            android:layout_centerHorizontal="true" />
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="33dp" />
 
 
         <EditText
-            android:id="@+id/password"
+            android:id="@+id/company_password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
+            android:hint="Password"
             android:inputType="textPassword"
-            android:layout_marginBottom="24dp"
-            android:layout_above="@+id/button"
-            android:layout_alignStart="@+id/emailaddress" />
+            android:layout_alignTop="@+id/company_userid"
+            android:layout_alignStart="@+id/company_userid"
+            android:layout_marginTop="54dp" />
 
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/login_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Login"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="56dp" />
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
     </RelativeLayout>
 
 
