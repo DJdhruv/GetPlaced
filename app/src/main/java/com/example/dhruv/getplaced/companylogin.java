@@ -3,6 +3,8 @@ package com.example.dhruv.getplaced;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.content.Intent;
+
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -44,6 +46,7 @@ public class companylogin extends AppCompatActivity {
             public void onClick(View view) {
                 USERID = userid.getText().toString();
                 PASSWORD = password.getText().toString();
+
 
             }
         });

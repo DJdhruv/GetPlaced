@@ -33,21 +33,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Student Login"
-        android:textSize="20sp"
+        android:textSize="20dp"
         android:paddingLeft="90dp"
         android:paddingRight="90dp"
         android:background="#0077B5"
         android:textColor="#ffffff"
         android:layout_above="@+id/company_login"
         android:layout_alignStart="@+id/company_login"
-        android:layout_marginBottom="15dp" />ImageView
+        android:layout_marginBottom="15dp" />
 
     <Button
         android:id="@+id/company_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Company Login"
-        android:textSize="20sp"
+        android:textSize="20dp"
         android:textColor="#0077B5"
         android:background="#ffffff"
         android:paddingLeft="90dp"
@@ -55,5 +55,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="41dp" />
+
 
 </RelativeLayout>
