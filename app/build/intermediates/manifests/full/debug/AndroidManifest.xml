@@ -15,7 +15,6 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/logo"
-        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
@@ -27,6 +26,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.dhruv.getplaced.companylogin" />
+        <activity android:name="com.example.dhruv.getplaced.student_home" />
     </application>
 
 </manifest>
