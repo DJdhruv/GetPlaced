@@ -11,3 +11,6 @@ public class student_home extends AppCompatActivity {
         setContentView(R.layout.activity_student_home);
     }
 }
+
+
+
