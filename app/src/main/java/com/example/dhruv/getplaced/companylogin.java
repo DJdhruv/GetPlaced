@@ -3,6 +3,8 @@ package com.example.dhruv.getplaced;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.content.Intent;
+
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -17,7 +19,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.StringReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -44,6 +45,7 @@ public class companylogin extends AppCompatActivity {
             public void onClick(View view) {
                 USERID = userid.getText().toString();
                 PASSWORD = password.getText().toString();
+
 
             }
         });
@@ -109,6 +111,7 @@ public class companylogin extends AppCompatActivity {
         @Override
         protected void onPostExecute(String result) {
             super.onPostExecute(result);
+            Test.setText(result);
             JSONString = result;
         }
     }

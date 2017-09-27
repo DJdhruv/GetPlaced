@@ -12,18 +12,30 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        android:text="Hire Fresh Talent"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="28dp"
-        android:text="TextView" />
+        android:layout_centerHorizontal="true" />
 
     <RelativeLayout
         android:layout_width="250dp"
-        android:layout_height="350dp"
+        android:layout_height="400dp"
         android:background="#ffffff"
-        android:layout_marginStart="53dp"
-        android:layout_centerVertical="true"
-        android:layout_alignParentStart="true">
+        android:id="@+id/relativeLayout"
+        android:layout_marginTop="45dp"
+        android:layout_alignTop="@+id/company_logo"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#d50000"
+            android:layout_marginBottom="42dp"
+            android:layout_above="@+id/company_userid"
+            android:layout_centerHorizontal="true" />
 
         <EditText
             android:id="@+id/company_userid"
@@ -31,11 +43,10 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:fontFamily="monospace"
-            android:hint="Login"
-            android:inputType="textEmailAddress"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="33dp" />
+            android:hint="User ID"
+            android:inputType="textPersonName"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
 
 
         <EditText
@@ -46,9 +57,9 @@
             android:ems="10"
             android:hint="Password"
             android:inputType="textPassword"
-            android:layout_alignTop="@+id/company_userid"
+            android:layout_below="@+id/company_userid"
             android:layout_alignStart="@+id/company_userid"
-            android:layout_marginTop="54dp" />
+            android:layout_marginTop="16dp" />
 
 
         <Button
@@ -57,9 +68,33 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Login"
-            android:layout_centerVertical="true"
+            android:textColor="#ffffff"
+            android:background="#0077B5"
+            android:layout_above="@+id/button"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="11dp" />
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:textSize="10sp"
+            android:text="New User ! Click Here"
+            android:stateListAnimator="@null"
+            android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true" />
     </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/company_logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/company"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+
 
 
 </RelativeLayout>
