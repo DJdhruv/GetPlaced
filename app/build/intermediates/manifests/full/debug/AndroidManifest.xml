@@ -34,10 +34,17 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.dhruv.getplaced.companylogin" />
-        <activity android:name="com.example.dhruv.getplaced.studenthome" />
         <activity android:name="com.example.dhruv.getplaced.companyhome" />
-        <activity android:name="com.example.dhruv.getplaced.JobofferFragment" />
+        <activity android:name="com.example.dhruv.getplaced.student_home" />
         <activity android:name="com.example.dhruv.getplaced.AddOffer" />
+        <activity android:name="com.example.dhruv.getplaced.studentlogin" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.dhruv.getplaced.StudentRegistration" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

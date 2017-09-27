@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
         "source": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
