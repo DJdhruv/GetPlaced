@@ -9,6 +9,7 @@
         android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <meta-data
         android:name="android.support.VERSION"
@@ -23,7 +24,6 @@
         android:allowBackup="true"
         android:icon="@mipmap/logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.dhruv.getplaced.MainActivity" >
@@ -34,7 +34,10 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.dhruv.getplaced.companylogin" />
-        <activity android:name="com.example.dhruv.getplaced.student_home" />
+        <activity android:name="com.example.dhruv.getplaced.studenthome" />
+        <activity android:name="com.example.dhruv.getplaced.companyhome" />
+        <activity android:name="com.example.dhruv.getplaced.JobofferFragment" />
+        <activity android:name="com.example.dhruv.getplaced.AddOffer" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

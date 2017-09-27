@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
@@ -19,7 +19,7 @@ MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.andro
 	android:name
 		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:7:5-23:19
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:8:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dell/.android/build-cache/5c5c8dea1fcb86cf05bfb154047eda29db16f5d2/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/AndroidManifest.xml:29:5-20
@@ -37,15 +37,13 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/dell/.android/bui
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/dell/.android/build-cache/6b03b7b19510535d10d30e2cc0378ae6d60303ef/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/dell/.android/build-cache/cde016113496cb879defd7db48ad0b5edc079fcf/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
 		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:12:9-35
-	android:roundIcon
-		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:9:9-36
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:10:9-36
 	android:theme
 		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.dhruv.getplaced.MainActivity
@@ -66,10 +64,22 @@ activity#com.example.dhruv.getplaced.companylogin
 ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:21:9-50
 	android:name
 		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:21:19-47
-activity#com.example.dhruv.getplaced.student_home
-ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:9-59
+activity#com.example.dhruv.getplaced.studenthome
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:19-47
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:19-46
+activity#com.example.dhruv.getplaced.companyhome
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:19-46
+activity#com.example.dhruv.getplaced.JobofferFragment
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.example.dhruv.getplaced.AddOffer
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:19-43
 uses-sdk
 INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dell/.android/build-cache/5c5c8dea1fcb86cf05bfb154047eda29db16f5d2/output/AndroidManifest.xml:5:5-7:41

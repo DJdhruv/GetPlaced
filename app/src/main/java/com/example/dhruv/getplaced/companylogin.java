@@ -5,14 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Intent;
 
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
 import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
@@ -33,7 +31,7 @@ public class companylogin extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_companylogin);
+        setContentView(R.layout.activity_company_login);
 
         login = (Button)findViewById(R.id.login_button);
         userid = (EditText)findViewById(R.id.company_userid);
@@ -45,7 +43,7 @@ public class companylogin extends AppCompatActivity {
             public void onClick(View view) {
                 USERID = userid.getText().toString();
                 PASSWORD = password.getText().toString();
-
+                startActivity(new Intent(companylogin.this,companyhome.class));
 
             }
         });
