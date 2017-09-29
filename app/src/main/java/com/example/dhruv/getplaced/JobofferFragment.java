@@ -2,11 +2,14 @@ package com.example.dhruv.getplaced;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.ImageButton;
@@ -35,54 +38,27 @@ public class JobofferFragment extends Fragment {
             }
         });
         offers = (ListView) rootView.findViewById(R.id.offerlist);
-        List<String> listofoffers = new ArrayList<String>();
+        final List<String> listofoffers = new ArrayList<String>();
         listofoffers.add("foo");
         listofoffers.add("bar");
+
         ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(getActivity(),android.R.layout.simple_list_item_1,
                 listofoffers );
 
         offers.setAdapter(arrayAdapter);
+       offers.setOnItemClickListener(new OnItemClickListener() {
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                String Offername=listofoffers.get(position);
+                Intent myIntent = new Intent(getActivity(),OfferDetails.class);
+                myIntent.putExtra("OfferName",Offername);
+                startActivity(myIntent);
+            }
+        });
 
         return rootView;
+
     }
-    class CompanyListAdapter extends BaseAdapter {
-        public Context context;
-        public String offerlist[];
 
-        public LayoutInflater inflter;
-
-        public CompanyListAdapter(Context applicationContext, String[] offerlist) {
-            this.context = applicationContext;
-            this.offerlist = offerlist;
-
-            inflter = (LayoutInflater.from(applicationContext));
-        }
-
-        @Override
-        public int getCount() {
-            return offerlist.length;
-        }
-
-        @Override
-        public Object getItem(int position) {
-            return null;
-        }
-
-        @Override
-        public long getItemId(int position) {
-            return 0;
-        }
-
-        @Override
-        public View getView(int i, View view, ViewGroup viewgroup) {
-            view = inflter.inflate(R.layout.company_offerlist_item, null);
-            TextView offer = (TextView) view.findViewById(R.id.offer);
-
-            offer.setText(offerlist[i]);
-
-            return view;
-        }
-    }
 
 
 

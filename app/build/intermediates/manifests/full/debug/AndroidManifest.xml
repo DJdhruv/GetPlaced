@@ -45,6 +45,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.dhruv.getplaced.StudentRegistration" />
+        <activity android:name="com.example.dhruv.getplaced.OfferDetails" />
+        <activity android:name="com.example.dhruv.getplaced.StudentProfileForCompany" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

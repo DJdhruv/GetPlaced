@@ -29,7 +29,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StudentRegistration"></activity>
+        <activity android:name=".StudentRegistration" />
+        <activity android:name=".OfferDetails" />
+        <activity android:name=".StudentProfileForCompany"></activity>
     </application>
 
 </manifest>
