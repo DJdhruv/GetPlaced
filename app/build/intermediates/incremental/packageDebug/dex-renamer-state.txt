@@ -1,4 +1,7 @@
-#Fri Sep 29 11:56:41 IST 2017
-base.0=/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sat Sep 30 15:07:34 IST 2017
+base.0=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_078e79cc6f4237281db1535d4dd3d2f5ee107465
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1617add787cbe2fd561d31c08d47979f622ecde4/classes.dex
+base.1=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1617add787cbe2fd561d31c08d47979f622ecde4
+file.0=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_078e79cc6f4237281db1535d4dd3d2f5ee107465/classes.dex

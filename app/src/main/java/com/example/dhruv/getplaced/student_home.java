@@ -17,6 +17,10 @@ public class student_home extends AppCompatActivity {
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
         tabLayout.setupWithViewPager(viewPager);
+        /*
+        setting logo for tab layout
+         */
+        tabLayout.getTabAt(2).setIcon(R.mipmap.logo);
     }
 }
 

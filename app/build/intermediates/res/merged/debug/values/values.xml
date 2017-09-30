@@ -755,6 +755,7 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_comapany__home">Company_Home</string>
+    <string name="title_activity_comitemclick">comitemclick</string>
     <string name="title_activity_company__home">Company_Home</string>
     <string name="title_activity_main2">Main2Activity</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

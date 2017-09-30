@@ -15,7 +15,7 @@ public class AddOffer extends AppCompatActivity {
     private RadioButton intern,job;
     private TextView comment;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Busudo apt-get install lib32stdc++6ndle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_offer);
         comment=(TextView) findViewById(R.id.comment);

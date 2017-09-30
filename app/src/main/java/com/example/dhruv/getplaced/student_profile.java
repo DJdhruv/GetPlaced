@@ -12,12 +12,12 @@ import android.view.ViewGroup;
 
 public class student_profile extends Fragment {
     public student_profile(){
-
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.studentprofile, container, false);
         return rootView;
+
     }
 }

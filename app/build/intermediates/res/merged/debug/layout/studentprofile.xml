@@ -1,12 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#0077B5"
+        android:id="@+id/linearLayout">
+
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/profile" />
+
+    </LinearLayout>
+
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/studentname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="studentprofile" />
-</LinearLayout>
+        android:layout_marginTop="55dp"
+        android:textSize="15dp"
+        android:text="DHRUV JAGLAN"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignStart="@+id/emailaddress" />
+
+    <TextView
+        android:id="@+id/emailaddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:text="Email -  dhruvjaglan2@gmail.com"
+        android:layout_below="@+id/studentname"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+
+
+</RelativeLayout>

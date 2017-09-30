@@ -30,6 +30,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".StudentRegistration" />
+        <activity
+            android:name=".comitemclick"
+            android:label="@string/title_activity_comitemclick"
+            android:theme="@style/AppTheme"></activity>
+        <activity android:name=".StudentRegistration" />
         <activity android:name=".OfferDetails" />
         <activity android:name=".StudentProfileForCompany"></activity>
     </application>

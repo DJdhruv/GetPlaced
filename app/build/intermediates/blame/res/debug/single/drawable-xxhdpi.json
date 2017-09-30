@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/company.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/company.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/add.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/add.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/add.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/company.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/company.png"
     }
 ]

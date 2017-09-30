@@ -45,6 +45,11 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.dhruv.getplaced.StudentRegistration" />
+        <activity
+            android:name="com.example.dhruv.getplaced.comitemclick"
+            android:label="@string/title_activity_comitemclick"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.dhruv.getplaced.StudentRegistration" />
         <activity android:name="com.example.dhruv.getplaced.OfferDetails" />
         <activity android:name="com.example.dhruv.getplaced.StudentProfileForCompany" />
         <activity

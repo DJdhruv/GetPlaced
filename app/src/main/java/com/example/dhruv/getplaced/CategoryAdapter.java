@@ -16,16 +16,20 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Override
     public Fragment getItem(int position) {
         if(position==0)return new student_profile();
+        else if(position==1)return new studentquery();
+        else if (position==2)return new studentnotification();
         else return new company_list();
     }
 
     @Override
     public int getCount() {
-        return 2;
+        return 4;
     }
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) return "profile";
+        else if(position==1) return "query";
+        else if (position==2) return null;
         else return "list";
     }
 
