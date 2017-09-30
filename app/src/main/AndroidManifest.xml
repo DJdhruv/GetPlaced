@@ -20,7 +20,7 @@
         </activity>
         <activity android:name=".companylogin" />
         <activity android:name=".companyhome" />
-        <activity android:name=".student_home" />
+        <activity android:name=".StudentHome" />
         <activity android:name=".AddOffer" />
         <activity android:name=".studentlogin">
             <intent-filter>

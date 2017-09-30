@@ -35,7 +35,7 @@
         </activity>
         <activity android:name="com.example.dhruv.getplaced.companylogin" />
         <activity android:name="com.example.dhruv.getplaced.companyhome" />
-        <activity android:name="com.example.dhruv.getplaced.student_home" />
+        <activity android:name="com.example.dhruv.getplaced.StudentHome" />
         <activity android:name="com.example.dhruv.getplaced.AddOffer" />
         <activity android:name="com.example.dhruv.getplaced.studentlogin" >
             <intent-filter>

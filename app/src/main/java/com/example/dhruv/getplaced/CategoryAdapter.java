@@ -15,10 +15,10 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        if(position==0)return new student_profile();
-        else if(position==1)return new studentquery();
-        else if (position==2)return new studentnotification();
-        else return new company_list();
+        if(position==0)return new StudentProfileFragment();
+        else if(position==1)return new StudentQueryFragment();
+        else if (position==2)return new StudentNotificationFragment();
+        else return new CompanyListFragment();
     }
 
     @Override

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:textSize="12dp"
+        android:fontFamily="@string/common_google_play_services_enable_title"
+        android:id="@+id/heading"
+        android:textColor="#0077B5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Company heading" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bywhom"
+        android:text="dhruv"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/content"
+        android:text="content goes hwere"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:id="@+id/time"
+        android:text="1 min ago"/>
+</LinearLayout>

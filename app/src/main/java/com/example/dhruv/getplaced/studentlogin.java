@@ -39,7 +39,7 @@ public class studentlogin extends AppCompatActivity {
        login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(studentlogin.this, student_home.class);
+                Intent i=new Intent(studentlogin.this, StudentHome.class);
                 i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(i);
             }
