@@ -24,10 +24,12 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.example.dhruv.getplaced.R.id.saveedit;
+
 public class ResumeMaker extends AppCompatActivity {
     private ListView headings;
     private Button saveresume;
-    final List<String> detailslist=new ArrayList<String>();
+    final List<String> codelist=new ArrayList<String>();
 
     String header="\\documentclass[10pt]{article}\n" +
             "\\usepackage[a4paper,bottom = 0.6in,left = 0.75in,right = 0.75in,top = 0.5in]{geometry}\n" +
@@ -61,13 +63,13 @@ public class ResumeMaker extends AppCompatActivity {
         headinglist.add("Add Heading");
         pointslist.add("");
         headinglist.add(" Scholastic Achievements");
-        detailslist.add("\\section*{ Scholastic Achievements\\xfilll[0pt]{0.5pt}}\n" +
+       codelist.add("\\section*{ Scholastic Achievements\\xfilll[0pt]{0.5pt}}\n" +
                 "\\vspace{-7pt}\n" +
                 "\\begin{itemize}\n");
 
         pointslist.add("");
         headinglist.add(" Projects");
-        detailslist.add("\\section*{ Projects\\xfilll[0pt]{0.5pt}}\n"+
+       codelist.add("\\section*{ Projects\\xfilll[0pt]{0.5pt}}\n"+
                 "\\vspace{-5pt}\n\\begin{itemize}\n");
         pointslist.add("");
         final ResumeAdapter resumeAdapter=new ResumeAdapter(this,headinglist,pointslist);
@@ -77,8 +79,8 @@ public class ResumeMaker extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String latexcode=header;
-                for(int i=0;i<detailslist.size();i++){
-                    latexcode=latexcode+detailslist.get(i)+"\\end{itemize}\n" +"\\vspace{-15pt}";
+                for(int i=0;i<codelist.size();i++){
+                    latexcode=latexcode+codelist.get(i)+"\\end{itemize}\n" +"\\vspace{-15pt}";
 
                 }
                 latexcode=latexcode+"\\end{document}";
@@ -162,7 +164,9 @@ public class ResumeMaker extends AppCompatActivity {
             TextView heading = (TextView) view.findViewById(R.id.heading);
             final TextView Points = (TextView) view.findViewById(R.id.points);
             final ImageButton Add=(ImageButton) view.findViewById(R.id.add1);
+            final ImageButton edit=(ImageButton) view.findViewById(R.id.edit);
             final Button save=(Button) view.findViewById(R.id.save);
+            final Button saveedit=(Button) view.findViewById(R.id.saveedit);
             final Button discard=(Button) view.findViewById(R.id.discard);
             final EditText details=(EditText) view.findViewById(R.id.details);
             Points.setText(points.get(i));
@@ -196,7 +200,7 @@ public class ResumeMaker extends AppCompatActivity {
                     @Override
                     public void onClick(View view) {
                         headings.add(details.getText().toString());
-                        detailslist.add("\\section*{ details.getText().toString()\\xfilll[0pt]{0.5pt}}\n" +
+                        codelist.add("\\section*{"+ details.getText().toString()+"\\xfilll[0pt]{0.5pt}}\n" +
                                 "\\vspace{-5pt}\n\\begin{itemize}\n");
                         points.add("");
                         details.setText("");
@@ -227,16 +231,45 @@ public class ResumeMaker extends AppCompatActivity {
 
                     }
                 });
+                edit.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        details.setText(points.get(i));
+                        details.setVisibility(View.VISIBLE);
+                        discard.setVisibility(View.VISIBLE);
+                        saveedit.setVisibility(View.VISIBLE);
+                    }
+                });
+                saveedit.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        points.set(i,details.getText().toString());
+                        Points.setText(points.get(i));
+                        details.setText("");
+                        String temp[]=points.get(i).split("\n");
+                        String newcode=codelist.get(i-1).substring(0,codelist.get(i-1).indexOf("\n")+1);
+                        newcode=newcode+"\\vspace{-7pt}\n" +
+                                "\\begin{itemize}\n";
+                        for(int j=0;j<temp.length;j++){
+                            newcode=newcode+"\\item "+temp[j]+"\n";
+                        }
+                        codelist.set(i-1,newcode);
+                        details.setVisibility(View.GONE);
+                        discard.setVisibility(View.GONE);
+                        saveedit.setVisibility(View.GONE);
+                    }
+                });
                 save.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                       detailslist.set(i-1,detailslist.get(i-1)+"\\item "+details.getText().toString()+"\n");
-                        points.set(i, points.get(i) + details.getText());
+                       codelist.set(i-1,codelist.get(i-1)+"\\item "+details.getText().toString()+"\n");
+                        points.set(i, points.get(i) + details.getText()+"\n");
                         Points.setText(points.get(i));
                         details.setText("");
                         details.setVisibility(View.GONE);
                         discard.setVisibility(View.GONE);
                         save.setVisibility(View.GONE);
+                        edit.setVisibility(View.VISIBLE);
 
                     }
                 });
@@ -247,6 +280,7 @@ public class ResumeMaker extends AppCompatActivity {
                         details.setVisibility(View.GONE);
                         discard.setVisibility(View.GONE);
                         save.setVisibility(View.GONE);
+                        saveedit.setVisibility(View.GONE);
 
                     }
                 });
@@ -262,6 +296,11 @@ public class ResumeMaker extends AppCompatActivity {
                             Add.setVisibility(View.VISIBLE);
                         } else {
                             Add.setVisibility(View.GONE);
+                        }
+                        if (edit.getVisibility() == View.GONE) {
+                            if(!Points.getText().toString().isEmpty())edit.setVisibility(View.VISIBLE);
+                        } else {
+                            edit.setVisibility(View.GONE);
                         }
 
                         save.setVisibility(View.GONE);

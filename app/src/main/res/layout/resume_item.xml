@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginBottom="10dp"
 
         />
 
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/heading"
-
+        android:layout_marginLeft="10dp"
         android:layout_centerHorizontal="true"
 
         android:visibility="gone"/>
@@ -37,7 +37,21 @@
         app:srcCompat="@drawable/add"
         android:scaleType="fitCenter"
         android:background="@null"
+        android:layout_marginTop="-10dp"
         android:layout_marginEnd="22dp"
+        android:layout_below="@+id/points"
+        android:layout_alignParentEnd="true" />
+    <ImageButton
+        android:id="@+id/edit"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:visibility="gone"
+        android:layout_weight="1"
+        android:layout_marginTop="-10dp"
+        app:srcCompat="@drawable/edit"
+        android:scaleType="fitCenter"
+        android:background="@null"
+        android:layout_marginEnd="65dp"
         android:layout_below="@+id/points"
         android:layout_alignParentEnd="true" />
     <EditText
@@ -45,38 +59,56 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/points"
+
         android:visibility="gone"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="29dp"
+        android:layout_marginTop="19dp"
         android:ems="10"
+
         android:inputType="textMultiLine" />
 
     <Button
         android:id="@+id/save"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:textSize="10dp"
         android:background="#4CAF79"
         android:textColor="#ffffff"
         android:layout_below="@+id/details"
         android:text="Save"
         android:visibility="gone"
-        android:layout_marginBottom="20dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginStart="60dp" />
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="110dp" />
+    <Button
+        android:id="@+id/saveedit"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:textSize="10dp"
+        android:background="#4CAF79"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/details"
+        android:text="Save"
+        android:visibility="gone"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="110dp" />
 
     <Button
         android:id="@+id/discard"
         android:textColor="#ffffff"
         android:background="#d50000"
-        android:layout_marginTop="20dp"
-        android:layout_width="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:textSize="10dp"
+        android:layout_marginBottom="10dp"
+
         android:text="Discard"
         android:visibility="gone"
         android:layout_below="@+id/details"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="60dp" />
+        android:layout_marginEnd="110dp" />
 
 
 
