@@ -33,10 +33,11 @@
         <activity
             android:name=".comitemclick"
             android:label="@string/title_activity_comitemclick"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme" />
         <activity android:name=".StudentRegistration" />
         <activity android:name=".OfferDetails" />
-        <activity android:name=".StudentProfileForCompany"></activity>
+        <activity android:name=".StudentProfileForCompany" />
+        <activity android:name=".ResumeMaker" />
     </application>
 
 </manifest>
