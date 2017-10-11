@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/company.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/company.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\company.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\company.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/add.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/edit.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/edit.png"
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\company.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-hdpi\\company.png"
     }
 ]

@@ -21,11 +21,11 @@
             android:text=""
             android:textColor="#d50000"
             android:layout_marginBottom="42dp"
-            android:layout_above="@+id/company_userid"
+            android:layout_above="@+id/userid"
             android:layout_centerHorizontal="true" />
 
         <EditText
-            android:id="@+id/company_userid"
+            android:id="@+id/userid"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -37,15 +37,15 @@
 
 
         <EditText
-            android:id="@+id/company_password"
+            android:id="@+id/password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
             android:hint="Password"
             android:inputType="textPassword"
-            android:layout_below="@+id/company_userid"
-            android:layout_alignStart="@+id/company_userid"
+            android:layout_below="@+id/userid"
+            android:layout_alignStart="@+id/userid"
             android:layout_marginTop="16dp" />
 
 

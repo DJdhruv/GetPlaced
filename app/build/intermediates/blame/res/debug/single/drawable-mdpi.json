@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/edit.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/edit.png"
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/company.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/company.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/add.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\company.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\company.png"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\company.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\company.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
     }
 ]

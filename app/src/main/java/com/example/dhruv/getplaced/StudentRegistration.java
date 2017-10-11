@@ -1,5 +1,6 @@
 package com.example.dhruv.getplaced;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -14,15 +15,25 @@ public class StudentRegistration extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Intent i = getIntent();
+        String FirstName = i.getStringExtra("FirstName");
+        String LastName = i.getStringExtra("LastName");
+        String LDAP = i.getStringExtra("LDAP");
         setContentView(R.layout.activity_student_registration);
         comment=(TextView) findViewById(R.id.comment);
         submit=(Button) findViewById(R.id.submit);
+
         firstname=(EditText) findViewById(R.id.firstname);
+        firstname.setText(FirstName);
+
         lastname=(EditText) findViewById(R.id.lastname);
+        lastname.setText(LastName);
+
         email=(EditText) findViewById(R.id.email);
         contact=(EditText) findViewById(R.id.phone);
         userid=(EditText) findViewById(R.id.userid);
-        password=(EditText) findViewById(R.id.password);
+        userid.setText(LDAP);
+        contact=(EditText) findViewById(R.id.phone);
         confirmpassword=(EditText) findViewById(R.id.confirmpassword);
         submit.setOnClickListener(new View.OnClickListener() {
             @Override

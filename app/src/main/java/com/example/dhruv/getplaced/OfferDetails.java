@@ -4,17 +4,17 @@ import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.test.suitebuilder.TestMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.CheckBox;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.example.dhruv.getplaced.R;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,9 +35,15 @@ public class OfferDetails extends AppCompatActivity {
         studentlist.add("Aditya Jadhav");
         studentlist.add("Dhruv Jaglan");
         Bundle extras= getIntent().getExtras();
+        String[] OfferList = extras.getStringArray("OfferList");
+
         ShortListAdapter shortListAdapter=new ShortListAdapter(this,studentlist);
         students.setAdapter(shortListAdapter);
-        offer.setText(extras.getString("OfferName"));
+        offer.setText("");
+        String[] field=new String[]{"Role","Requirements","Description","Allowed Branches"};
+        for(int i=0; i<OfferList.length; i++){
+            offer.setText(offer.getText()+field[i]+" : "+OfferList[i]+"\n");
+        }
 
 
         students.setOnItemClickListener(new OnItemClickListener() {

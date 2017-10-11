@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/edit.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxxhdpi/edit.png"
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\add.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/add.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxxhdpi/add.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\company.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\company.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/company.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxxhdpi/company.png"
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\edit.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\add.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\edit.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Documents\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\company.png",
+        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-xxxhdpi\\company.png"
     }
 ]
