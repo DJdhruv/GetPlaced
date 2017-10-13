@@ -22,7 +22,9 @@ public class StudentProfileFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), ResumeMaker.class);
                 i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-
+                i.putExtra("FontSize","10");
+                i.putExtra("HeadingSize","Large");
+                i.putExtra("itemsep","Normal");
                 startActivity(i);
             }
         });

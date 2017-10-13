@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dhruv.getplaced.ResumeSettings">
+    <TextView
+        android:id="@+id/sett"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textColor="#0077B5"
+        android:textSize="30dp"
+        android:layout_marginTop="25dp"
+
+        android:layout_alignParentTop="true"
+        />
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_below="@+id/sett"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Heading Size"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="20dp"
+
+        />
+    <RadioGroup
+        android:id="@+id/headinggroup"
+        android:layout_below="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="-110dp"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+
+        >
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Small"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:layout_marginLeft="10dp"
+            android:text="Normal"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textSize="15dp"
+            android:text="Large"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textSize="15dp"
+            android:text="Extra Large"/>
+
+    </RadioGroup>
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Font Size:"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_below="@id/headinggroup"
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="20dp"
+
+         />
+    <TextView
+        android:id="@+id/fontsize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10 pt"
+        android:textSize="20dp"
+        android:textColor="#000000"
+
+
+        android:layout_above="@+id/fontsizebar"
+        android:layout_toEndOf="@+id/textView15"
+        android:layout_marginStart="5dp" />
+
+    <SeekBar
+        android:id="@+id/fontsizebar"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView15"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Line Separation"
+        android:layout_marginLeft="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/fontsizebar"
+         />
+
+    <Button
+        android:id="@+id/applysettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:textColor="#ffffff"
+        android:background="#4CAF79"
+        android:text="Apply" />
+
+    <RadioGroup
+        android:id="@+id/itemsepgroup"
+        android:layout_below="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-110dp"
+
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        >
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Extra Small"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Small"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:layout_marginLeft="10dp"
+            android:text="Normal"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textSize="15dp"
+            android:text="Large"/>
+
+    </RadioGroup>
+</RelativeLayout>

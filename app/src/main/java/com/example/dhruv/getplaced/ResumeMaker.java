@@ -2,10 +2,13 @@ package com.example.dhruv.getplaced;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,6 +21,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import org.w3c.dom.Text;
 
@@ -29,52 +33,106 @@ import static com.example.dhruv.getplaced.R.id.saveedit;
 public class ResumeMaker extends AppCompatActivity {
     private ListView headings;
     private Button saveresume;
+    private ImageButton settings;
     final List<String> codelist=new ArrayList<String>();
-
-    String header="\\documentclass[10pt]{article}\n" +
-            "\\usepackage[a4paper,bottom = 0.6in,left = 0.75in,right = 0.75in,top = 0.5in]{geometry}\n" +
-            "\\usepackage{graphicx}\n" +
-            "\\usepackage{amsmath}\n" +
-            "\\usepackage{array}\n" +
-            "\\usepackage{enumitem}\n" +
-            "\\usepackage{wrapfig}\n" +
-            "\\usepackage{titlesec}\n" +
-            "\\usepackage[colorlinks=false]{hyperref}\n" +
-            "\\usepackage{verbatim}\n" +
-            "\\newcommand{\\xfilll}[2][1ex]{\n" +
-            "\\dimen0=#2\\advance\\dimen0 by #1\n" +
-            "\\leaders\\hrule height \\dimen0 depth -#1\\hfill}\n" +
-            "\\titleformat{\\section}{\\LARGE\\scshape\\raggedright}{}{0em}{}\n" +
-            "\\renewcommand\\labelitemi{\\raisebox{0.4ex}{\\tiny$\\bullet$}}\n" +
-            "\\renewcommand{\\labelitemii}{$\\cdot$}\n" +
-            "\\pagenumbering{gobble}\\begin{document}\n" +
-            "\t\\vspace*{4.5cm}";
+    final List<String> headinglist=new ArrayList<String>();
+    final List<String> pointslist=new ArrayList<String>();
+    String fontsize,itemsep,headingsize;
 
 
+    public void ApplySettings(){
+        Bundle extras=getIntent().getExtras();
+        fontsize=extras.getString("FontSize");
+        String Itemsep=extras.getString("itemsep");
+        if(Itemsep.equals("Extra Small"))itemsep="-0.75mm";
+        else if(Itemsep.equals("Small"))itemsep="-0.5mm";
+        else if(Itemsep.equals("Normal"))itemsep="0mm";
+        else itemsep="0.25mm";
+        String Headingsize=extras.getString("HeadingSize");
+        if(Headingsize.equals("Small")) headingsize="large";
+        else if(Headingsize.equals("Normal")) headingsize="Large";
+        else if (Headingsize.equals("Large")) headingsize="LARGE";
+        else headingsize="huge";
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resume_maker);
-
+        ApplySettings();
+        final String header="\\documentclass["+fontsize+"pt]{article}\n" +
+                "\\usepackage[a4paper,bottom = 0.6in,left = 0.75in,right = 0.75in,top = 0.5in]{geometry}\n" +
+                "\\usepackage{graphicx}\n" +
+                "\\usepackage{amsmath}\n" +
+                "\\usepackage{array}\n" +
+                "\\usepackage{enumitem}\n" +
+                "\\usepackage{wrapfig}\n" +
+                "\\usepackage{titlesec}\n" +
+                "\\usepackage[colorlinks=false]{hyperref}\n" +
+                "\\usepackage{verbatim}\n" +
+                "\\newcommand{\\xfilll}[2][1ex]{\n" +
+                "\\dimen0=#2\\advance\\dimen0 by #1\n" +
+                "\\leaders\\hrule height \\dimen0 depth -#1\\hfill}\n" +
+                "\\titleformat{\\section}{\\"+headingsize+"\\scshape\\raggedright}{}{0em}{}\n" +
+                "\\renewcommand\\labelitemi{\\raisebox{0.4ex}{\\tiny$\\bullet$}}\n" +
+                "\\renewcommand{\\labelitemii}{$\\cdot$}\n" +
+                "\\pagenumbering{gobble}\\begin{document}\n" +
+                "\t\\vspace*{4.5cm}";
         headings=(ListView) findViewById(R.id.headings);
-        final List<String> headinglist=new ArrayList<String>();
-        final List<String> pointslist=new ArrayList<String>();
+
         headinglist.add("Add Heading");
         pointslist.add("");
         headinglist.add(" Scholastic Achievements");
-       codelist.add("\\section*{ Scholastic Achievements\\xfilll[0pt]{0.5pt}}\n" +
+        codelist.add("\\section*{ Scholastic Achievements\\xfilll[0pt]{0.5pt}}\n" +
                 "\\vspace{-7pt}\n" +
-                "\\begin{itemize}\n");
+                "\\begin{itemize}[itemsep="+itemsep+"]\n");
 
         pointslist.add("");
         headinglist.add(" Projects");
-       codelist.add("\\section*{ Projects\\xfilll[0pt]{0.5pt}}\n"+
-                "\\vspace{-5pt}\n\\begin{itemize}\n");
+        codelist.add("\\section*{ Projects\\xfilll[0pt]{0.5pt}}\n"+
+                "\\vspace{-5pt}\n\\begin{itemize}[itemsep="+itemsep+"]\n");
         pointslist.add("");
-        final ResumeAdapter resumeAdapter=new ResumeAdapter(this,headinglist,pointslist);
+        final ResumeAdapter resumeAdapter=new ResumeAdapter(this);
         headings.setAdapter(resumeAdapter);
         saveresume =(Button) findViewById(R.id.saveresume);
+        headings.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
+            @Override
+            public boolean onItemLongClick(AdapterView<?> arg0, View arg1,
+                                           final int pos, long id) {
+                // TODO Auto-generated method stub
+
+                Log.v("long clicked","pos: " + pos);
+                AlertDialog alertDialog = new AlertDialog.Builder(ResumeMaker.this).create();
+                alertDialog.setTitle("Alert");
+                alertDialog.setMessage("Are you Sure you want to delete"+headinglist.get(pos));
+                alertDialog.setButton(AlertDialog.BUTTON_POSITIVE, "OK",
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                if(pos==0){
+                                    Toast.makeText(ResumeMaker.this, "You Can't Delete Add Heading",
+                                            Toast.LENGTH_SHORT).show();
+                                }
+                                else {
+                                    Toast.makeText(ResumeMaker.this, "Succesfully Deleted "+headinglist.get(pos),
+                                            Toast.LENGTH_SHORT).show();
+                                    headinglist.remove(pos);
+                                    pointslist.remove(pos);
+                                    codelist.remove(pos - 1);
+                                    dialog.dismiss();
+                                    resumeAdapter.notifyDataSetChanged();
+                                }
+                            }
+                        });
+                alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE, "CANCEL",
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                            }
+                        });
+                alertDialog.show();
+                return true;
+            }
+        });
         saveresume.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -98,6 +156,15 @@ public class ResumeMaker extends AppCompatActivity {
                 }
             }
         });
+        settings=(ImageButton) findViewById(R.id.settings);
+        settings.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(ResumeMaker.this,ResumeSettings.class);
+                startActivity(i);
+            }
+        });
+
 
 
 
@@ -130,22 +197,23 @@ public class ResumeMaker extends AppCompatActivity {
         code=code.replace("\n","%0A");
         return code;
     }
+
     public class ResumeAdapter extends BaseAdapter {
         public Context context;
-        public List<String> headings;
-        public List<String> points;
+        //public List<String> headings;
+        //public List<String> points;
         public LayoutInflater inflter;
 
-        public ResumeAdapter(Context applicationContext, List<String> names,List<String> p) {
+        public ResumeAdapter(Context applicationContext) {
             this.context = applicationContext;
-            this.headings = names;
-            this.points=p;
+            //this.headings = names;
+            //this.points=p;
             inflter = (LayoutInflater.from(applicationContext));
         }
 
         @Override
         public int getCount() {
-            return headings.size();
+            return headinglist.size();
         }
 
         @Override
@@ -169,8 +237,8 @@ public class ResumeMaker extends AppCompatActivity {
             final Button saveedit=(Button) view.findViewById(R.id.saveedit);
             final Button discard=(Button) view.findViewById(R.id.discard);
             final EditText details=(EditText) view.findViewById(R.id.details);
-            Points.setText(points.get(i));
-            heading.setText(headings.get(i));
+            Points.setText(pointslist.get(i));
+            heading.setText(headinglist.get(i));
             if(i==0){
                 heading.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -199,10 +267,10 @@ public class ResumeMaker extends AppCompatActivity {
                 save.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        headings.add(details.getText().toString());
+                        headinglist.add(details.getText().toString());
                         codelist.add("\\section*{"+ details.getText().toString()+"\\xfilll[0pt]{0.5pt}}\n" +
-                                "\\vspace{-5pt}\n\\begin{itemize}\n");
-                        points.add("");
+                                "\\vspace{-5pt}\n\\begin{itemize}[itemsep="+itemsep+"]\n");
+                        pointslist.add("");
                         details.setText("");
                         details.setVisibility(View.GONE);
                         discard.setVisibility(View.GONE);
@@ -234,7 +302,7 @@ public class ResumeMaker extends AppCompatActivity {
                 edit.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        details.setText(points.get(i));
+                        details.setText(pointslist.get(i));
                         details.setVisibility(View.VISIBLE);
                         discard.setVisibility(View.VISIBLE);
                         saveedit.setVisibility(View.VISIBLE);
@@ -243,13 +311,13 @@ public class ResumeMaker extends AppCompatActivity {
                 saveedit.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        points.set(i,details.getText().toString());
-                        Points.setText(points.get(i));
+                        pointslist.set(i,details.getText().toString());
+                        Points.setText(pointslist.get(i));
                         details.setText("");
-                        String temp[]=points.get(i).split("\n");
+                        String temp[]=pointslist.get(i).split("\n");
                         String newcode=codelist.get(i-1).substring(0,codelist.get(i-1).indexOf("\n")+1);
                         newcode=newcode+"\\vspace{-7pt}\n" +
-                                "\\begin{itemize}\n";
+                                "\\begin{itemize}[itemsep="+itemsep+"]\n";
                         for(int j=0;j<temp.length;j++){
                             newcode=newcode+"\\item "+temp[j]+"\n";
                         }
@@ -263,8 +331,8 @@ public class ResumeMaker extends AppCompatActivity {
                     @Override
                     public void onClick(View view) {
                        codelist.set(i-1,codelist.get(i-1)+"\\item "+details.getText().toString()+"\n");
-                        points.set(i, points.get(i) + details.getText()+"\n");
-                        Points.setText(points.get(i));
+                        pointslist.set(i, pointslist.get(i) + details.getText()+"\n");
+                        Points.setText(pointslist.get(i));
                         details.setText("");
                         details.setVisibility(View.GONE);
                         discard.setVisibility(View.GONE);

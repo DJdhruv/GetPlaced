@@ -43,11 +43,11 @@
         android:layout_alignParentEnd="true" />
     <ImageButton
         android:id="@+id/edit"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
         android:visibility="gone"
         android:layout_weight="1"
-        android:layout_marginTop="-10dp"
+        android:layout_marginTop="-8dp"
         app:srcCompat="@drawable/edit"
         android:scaleType="fitCenter"
         android:background="@null"

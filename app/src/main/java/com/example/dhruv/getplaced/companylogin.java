@@ -71,7 +71,7 @@ public class companylogin extends AppCompatActivity {
     public class sendGet extends AsyncTask<String,String,String>{
         @Override
         protected String doInBackground(String...params){
-            String url = "http://192.168.0.101:8000/login/company/?format=json";
+            String url = "http://192.168.0.105:8001/login/company/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

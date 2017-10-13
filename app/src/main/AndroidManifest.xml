@@ -38,6 +38,7 @@
         <activity android:name=".OfferDetails" />
         <activity android:name=".StudentProfileForCompany" />
         <activity android:name=".ResumeMaker" />
+        <activity android:name=".ResumeSettings"></activity>
     </application>
 
 </manifest>

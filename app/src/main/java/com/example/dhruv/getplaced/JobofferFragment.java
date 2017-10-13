@@ -65,7 +65,8 @@ public class JobofferFragment extends Fragment {
         new sendGet().execute();
 
         dialog = ProgressDialog.show(getContext(), "",
-                "Loading. Please wait...", true);
+                "Loadin[g. Please wait...", true);
+
 
 
         return rootView;
@@ -75,7 +76,8 @@ public class JobofferFragment extends Fragment {
     public class sendGet extends AsyncTask<String,String,String> {
         @Override
         protected String doInBackground(String...params){
-            String url = "http://192.168.0.101:8000/companies/company/?format=json&?q="+USERID;
+
+            String url = "http://192.168.0.105:8001/companies/company/?format=json&?q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
