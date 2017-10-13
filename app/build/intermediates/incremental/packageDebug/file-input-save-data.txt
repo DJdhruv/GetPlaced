@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Oct 13 16:33:48 IST 2017
+#Fri Oct 13 16:55:43 IST 2017
 210.set=ANDROID_RESOURCE
 282.file=/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/resources-debug.ap_/res/drawable-v21/notification_action_background.xml
 14.set=ANDROID_RESOURCE
