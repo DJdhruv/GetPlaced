@@ -36,11 +36,11 @@ public class MainActivity extends AppCompatActivity {
         companyLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(MainActivity.this, ResumeMaker.class);
-                i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                i.putExtra("FontSize","10");
+                Intent i=new Intent(MainActivity.this, companylogin.class);
+
+                /*i.putExtra("FontSize","10");
                 i.putExtra("HeadingSize","Large");
-                i.putExtra("itemsep","Normal");
+                i.putExtra("itemsep","Normal");*/
                 startActivity(i);
             }
         });

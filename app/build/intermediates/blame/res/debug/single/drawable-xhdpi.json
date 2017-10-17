@@ -12,6 +12,10 @@
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/edit.png"
     },
     {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/next.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/next.png"
+    },
+    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/company.png",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/company.png"
     }

@@ -56,16 +56,28 @@
         android:layout_alignParentEnd="true" />
     <EditText
         android:id="@+id/details"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
         android:layout_below="@+id/points"
-
+        android:textSize="15dp"
         android:visibility="gone"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="19dp"
+        android:layout_marginTop="15dp"
         android:ems="10"
 
         android:inputType="textMultiLine" />
+    <ImageButton
+        android:id="@+id/next"
+        android:scaleType="fitCenter"
+        android:background="@null"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:visibility="gone"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="20dp"
+        app:srcCompat="@drawable/next"
+        android:layout_alignTop="@+id/details" />
 
     <Button
         android:id="@+id/save"
@@ -109,6 +121,7 @@
         android:layout_below="@+id/details"
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="110dp" />
+
 
 
 

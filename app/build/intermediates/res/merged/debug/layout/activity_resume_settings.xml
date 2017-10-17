@@ -52,20 +52,20 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15dp"
+            android:textSize="19dp"
             android:layout_marginLeft="10dp"
             android:text="Normal"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:textSize="15dp"
+            android:textSize="23dp"
             android:text="Large"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:textSize="15dp"
+            android:textSize="27dp"
             android:text="Extra Large"/>
 
     </RadioGroup>
@@ -152,19 +152,19 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15dp"
+            android:textSize="19dp"
             android:text="Small"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15dp"
+            android:textSize="23dp"
             android:layout_marginLeft="10dp"
             android:text="Normal"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:textSize="15dp"
+            android:textSize="27dp"
             android:text="Large"/>
 
     </RadioGroup>
