@@ -167,32 +167,78 @@ public class ResumeMaker extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String latexcode=header;
+                List<String> empty=new ArrayList<String>();
+                for(int i=0;i<codelist.size();i++){
+                    if(pointslist.get(i+1).equals(""))empty.add(headinglist.get(i+1));
+                }
+
                 for(int i=0;i<codelist.size();i++){
                     // latexcode=latexcode+codelist.get(i)+"\\end{itemize}\n" +"\\vspace{-15pt}";
-                    if(headinglist.get(i+1).equals("Projects")||
-                            headinglist.get(i+1).equals("Key Projects")||
-                            headinglist.get(i+1).equals("Technical Skills")||
-                            headinglist.get(i+1).equals("Key Courses Undertaken")||
-                            headinglist.get(i+1).equals("Positions Of Responsibility")){
-                        latexcode=latexcode+codelist.get(i)+"\\vspace{-5pt}\n";
-                    }
-                    else{
-                        latexcode=latexcode+codelist.get(i)+"\\end{itemize}\n" +"\\vspace{-18pt}";
+                    if(!pointslist.get(i+1).equals("")) {
+                        if (headinglist.get(i + 1).equals("Projects") ||
+                                headinglist.get(i + 1).equals("Key Projects") ||
+                                headinglist.get(i + 1).equals("Technical Skills") ||
+                                headinglist.get(i + 1).equals("Key Courses Undertaken") ||
+                                headinglist.get(i + 1).equals("Positions Of Responsibility")) {
+                            latexcode = latexcode + codelist.get(i) + "\\vspace{-5pt}\n";
+                        } else {
+                            latexcode = latexcode + codelist.get(i) + "\\end{itemize}\n" + "\\vspace{-18pt}";
+                        }
                     }
                 }
                 latexcode=latexcode+"\\end{document}";
-                String convertedcode=Convert(latexcode);
-                Uri uri=Uri.parse("https://latexonline.cc/compile?text="+convertedcode);
-                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.setPackage("com.android.chrome");
-                try {
-                    startActivity(intent);
-                } catch (ActivityNotFoundException ex) {
-                    // Chrome browser presumably not installed so allow user to choose instead
-                    intent.setPackage(null);
-                    startActivity(intent);
+                final String convertedcode=Convert(latexcode);
+                if(empty.isEmpty()) {
+                    Uri uri = Uri.parse("https://latexonline.cc/compile?text=" + convertedcode);
+                    Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    intent.setPackage("com.android.chrome");
+                    try {
+                        startActivity(intent);
+                    } catch (ActivityNotFoundException ex) {
+                        // Chrome browser presumably not installed so allow user to choose instead
+                        intent.setPackage(null);
+                        startActivity(intent);
+                    }
                 }
+                else{
+                    //Log.v("check","ENTERED IN ELSE");
+                    String message="You have left ";
+                    for(int i=0;i<empty.size();i++){
+                        message=message+empty.get(i)+", ";
+                    }
+                    message=message+" fields empty. Are you sure you want to continue.";
+                    AlertDialog alertDialog = new AlertDialog.Builder(ResumeMaker.this).create();
+                    alertDialog.setTitle("Warning");
+                    alertDialog.setMessage(message);
+                    alertDialog.setButton(AlertDialog.BUTTON_POSITIVE, "YES",
+                            new DialogInterface.OnClickListener() {
+                                public void onClick(DialogInterface dialog, int which) {
+                                    Uri uri = Uri.parse("https://latexonline.cc/compile?text=" + convertedcode);
+                                    Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                                    intent.setPackage("com.android.chrome");
+                                    try {
+                                        startActivity(intent);
+                                    } catch (ActivityNotFoundException ex) {
+                                        // Chrome browser presumably not installed so allow user to choose instead
+                                        intent.setPackage(null);
+                                        startActivity(intent);
+                                    }
+                                    dialog.dismiss();
+
+                                }
+                            });
+                    alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE, "NO",
+                            new DialogInterface.OnClickListener() {
+                                public void onClick(DialogInterface dialog, int which) {
+                                    dialog.dismiss();
+                                }
+                            });
+                    alertDialog.show();
+
+
+               }
             }
         });
         settings=(ImageButton) findViewById(R.id.settings);
