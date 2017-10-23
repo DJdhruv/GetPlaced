@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5b2c2bd8aa20178f30e3766f676b121d3652382">
+        <dex dex="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1575a62fbdd998d53f4eaf80c780941bd1b1e25b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_379c5392ff9a22616149157862b4b332e35a4881\classes.dex" />
+    </item>
+
+</items>

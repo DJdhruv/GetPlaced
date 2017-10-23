@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout-v16/notification_template_custom_big.xml"
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

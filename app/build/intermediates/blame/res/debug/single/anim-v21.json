@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

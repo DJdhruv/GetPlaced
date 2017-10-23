@@ -55,7 +55,7 @@ public class studentlogin extends AppCompatActivity {
     private EditText edit;
     private EditText userid, password;
     private Button login,newuser;
-    private String USERID, PASSWORD;
+    public static String USERID, PASSWORD;
     private String JSONString;
 
     @Override
@@ -427,7 +427,7 @@ public class studentlogin extends AppCompatActivity {
     public class sendGetLogin extends AsyncTask<String,String,String>{
         @Override
         protected String doInBackground(String...params){
-            String url = "http://192.168.0.105:8001/students/student/?format=json";
+            String url = "http://192.168.0.109:8000/students/student/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
