@@ -1,23 +1,48 @@
 package com.example.dhruv.getplaced;
 
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListView;
+import android.widget.TextClock;
+import android.widget.TextView;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+import static com.example.dhruv.getplaced.studentlogin.USERID;
 
 
 public class StudentProfileFragment extends Fragment {
     private Button makeresume;
+    public TextView name;
+    public TextView userid;
+    public TextView email;
+    public TextView contact;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_studentprofile, container, false);
         makeresume=(Button) rootView.findViewById(R.id.createresume);
+        name = (TextView)rootView.findViewById(R.id.studentname);
+        userid = (TextView)rootView.findViewById(R.id.userid);
+        contact = (TextView)rootView.findViewById(R.id.contactnumber);
+        email = (TextView)rootView.findViewById(R.id.emailaddress);
+        new sendGet().execute();
         makeresume.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), ResumeMaker.class);
@@ -30,7 +55,66 @@ public class StudentProfileFragment extends Fragment {
         });
 
 
-        return rootView;
 
+        return rootView;
+    }
+
+    public class sendGet extends AsyncTask<String,String,String> {
+        @Override
+        protected String doInBackground(String...params){
+
+            String url = "http://192.168.0.109:8000/students/student/?format=json&q="+USERID;
+            HttpURLConnection con = null;
+            BufferedReader in = null;
+            try {
+                URL obj = new URL(url);
+                con = (HttpURLConnection) obj.openConnection();
+
+                con.setRequestMethod("GET");
+
+                int responseCode = con.getResponseCode();
+                in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+                String inputLine;
+                StringBuffer response = new StringBuffer();
+
+                while ((inputLine = in.readLine()) != null) {
+                    response.append(inputLine);
+                }
+                in.close();
+
+                return response.toString();
+            } catch (MalformedURLException e){
+                e.printStackTrace();
+            } catch (IOException e){
+                e.printStackTrace();
+            } finally {
+                if(con != null){
+                    con.disconnect();
+                }
+                try{
+                    if(in != null){
+                        in.close();
+                    }
+                } catch (IOException e){
+                    e.printStackTrace();
+                }
+            }
+            return null;
+        }
+        @Override
+        protected void onPostExecute(String result){
+            try {
+                JSONArray jsonArray = new JSONArray(result);
+                JSONObject jsonObject = jsonArray.getJSONObject(0);
+                name.setText(jsonObject.getString("name").toString());
+                userid.setText(jsonObject.getString("userid").toString());
+                contact.setText(jsonObject.getString("contact_number").toString());
+                email.setText(jsonObject.getString("email").toString());
+            } catch (JSONException e) {
+                Log.e("teesfs","sdfsfds");
+            }
+            super.onPostExecute(result);
+            return;
+        }
     }
 }
