@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oauth.properties",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\raw\\oauth.properties"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oauth.properties",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\raw\\oauth.properties"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oauth.properties",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\raw\\oauth.properties"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oauth.properties",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\raw\\oauth.properties"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/raw/oauth.properties",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/raw/oauth.properties"
     }
 ]

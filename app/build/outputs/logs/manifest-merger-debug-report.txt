@@ -1,180 +1,180 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:20:5-66
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:8:5-44:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Aditya Jadhav\.android\build-cache\2282ffdfe5eadd47c3ec8cb01679bd2613269472\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c4087f5407cbdf0a3e9e8ec4599cd3d26c72eda3\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:29:5-20
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:8:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dell/.android/build-cache/5c5c8dea1fcb86cf05bfb154047eda29db16f5d2/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dell/.android/build-cache/81bdc70230fdc809f967ee72d392b09475cfea50/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dell/.android/build-cache/bac8e95450b328943e7f6f7dfb5c777dfd247306/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/dell/.android/build-cache/2d04445b5fa0129ad519675518d45d6b62d8fdd9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dell/.android/build-cache/2e4bc2d8ae88a6fcb1a7a5c10b46dbf930cd0001/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dell/.android/build-cache/a4072deae9bed76e2dcbbb1d1d636b86c361e3aa/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/dell/.android/build-cache/0a8f765183cd5d6aad4bf00785b05dd8d413ade9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dell/.android/build-cache/04dacb292278db7cc6c39ddc460fd94e559d9bc3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dell/.android/build-cache/3bc82d03de8e3382db06039d116d4b042597ae33/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dell/.android/build-cache/a217a45944da24c65fba161ecc250c425555cb29/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dell/.android/build-cache/6b03b7b19510535d10d30e2cc0378ae6d60303ef/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/dell/.android/build-cache/cde016113496cb879defd7db48ad0b5edc079fcf/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:10:9-36
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:10:9-36
 	android:theme
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.dhruv.getplaced.MainActivity
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.dhruv.getplaced.companylogin
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:22:9-50
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:9-50
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:19-47
 activity#com.example.dhruv.getplaced.companyhome
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:23:9-49
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:9-49
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:23:19-46
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:19-46
 activity#com.example.dhruv.getplaced.StudentHome
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:24:9-49
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:9-49
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:24:19-46
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:19-46
 activity#com.example.dhruv.getplaced.AddOffer
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:25:9-46
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:9-46
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:25:19-43
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:19-43
 activity#com.example.dhruv.getplaced.studentlogin
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:26:9-32:20
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:26:19-47
 activity#com.example.dhruv.getplaced.StudentRegistration
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:33:9-57
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:33:9-57
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:33:19-54
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:33:19-54
 activity#com.example.dhruv.getplaced.comitemclick
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:34:9-37:47
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:34:9-37:47
 	android:label
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:36:13-64
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:36:13-64
 	android:theme
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:37:13-44
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:37:13-44
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:35:13-41
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:35:13-41
 activity#com.example.dhruv.getplaced.OfferDetails
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:39:9-50
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:39:9-50
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:39:19-47
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:39:19-47
 activity#com.example.dhruv.getplaced.StudentProfileForCompany
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:40:9-62
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:40:9-62
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:40:19-59
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:40:19-59
 activity#com.example.dhruv.getplaced.ResumeMaker
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:41:9-42:54
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:41:9-42:54
 	android:windowSoftInputMode
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:42:13-52
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:42:13-52
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:41:19-46
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:41:19-46
 activity#com.example.dhruv.getplaced.ResumeSettings
-ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:43:9-61
+ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:43:9-61
 	android:name
-		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:43:19-49
+		ADDED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:43:19-49
 uses-sdk
-INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Aditya Jadhav\.android\build-cache\2282ffdfe5eadd47c3ec8cb01679bd2613269472\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\a723d218835521bdf4e1709502240b448c25f63f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c4087f5407cbdf0a3e9e8ec4599cd3d26c72eda3\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dell/.android/build-cache/5c5c8dea1fcb86cf05bfb154047eda29db16f5d2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dell/.android/build-cache/81bdc70230fdc809f967ee72d392b09475cfea50/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dell/.android/build-cache/bac8e95450b328943e7f6f7dfb5c777dfd247306/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/dell/.android/build-cache/3ac87ebe4495d63218b6c3a0fb69d4f15603eb85/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/dell/.android/build-cache/2d04445b5fa0129ad519675518d45d6b62d8fdd9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dell/.android/build-cache/2e4bc2d8ae88a6fcb1a7a5c10b46dbf930cd0001/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dell/.android/build-cache/a4072deae9bed76e2dcbbb1d1d636b86c361e3aa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/dell/.android/build-cache/0a8f765183cd5d6aad4bf00785b05dd8d413ade9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dell/.android/build-cache/04dacb292278db7cc6c39ddc460fd94e559d9bc3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dell/.android/build-cache/3bc82d03de8e3382db06039d116d4b042597ae33/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dell/.android/build-cache/a217a45944da24c65fba161ecc250c425555cb29/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dell/.android/build-cache/6b03b7b19510535d10d30e2cc0378ae6d60303ef/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/dell/.android/build-cache/cde016113496cb879defd7db48ad0b5edc079fcf/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\a723d218835521bdf4e1709502240b448c25f63f\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dell/.android/build-cache/81bdc70230fdc809f967ee72d392b09475cfea50/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dell/.android/build-cache/bac8e95450b328943e7f6f7dfb5c777dfd247306/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/dell/.android/build-cache/3ac87ebe4495d63218b6c3a0fb69d4f15603eb85/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/dell/.android/build-cache/2d04445b5fa0129ad519675518d45d6b62d8fdd9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/dell/.android/build-cache/0a8f765183cd5d6aad4bf00785b05dd8d413ade9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dell/.android/build-cache/04dacb292278db7cc6c39ddc460fd94e559d9bc3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dell/.android/build-cache/3bc82d03de8e3382db06039d116d4b042597ae33/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dell/.android/build-cache/a217a45944da24c65fba161ecc250c425555cb29/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dell/.android/build-cache/6b03b7b19510535d10d30e2cc0378ae6d60303ef/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/dell/.android/build-cache/cde016113496cb879defd7db48ad0b5edc079fcf/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:19:22-76
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:19:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dell/.android/build-cache/e3a9af9510dc155efcc3b26fa1a58c7153d079b7/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dell/.android/build-cache/99a971ef25b314574bf839332effd2ace262dda6/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dell/.android/build-cache/a4072deae9bed76e2dcbbb1d1d636b86c361e3aa/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dell/.android/build-cache/a4072deae9bed76e2dcbbb1d1d636b86c361e3aa/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dell/.android/build-cache/a4072deae9bed76e2dcbbb1d1d636b86c361e3aa/output/AndroidManifest.xml:20:20-65

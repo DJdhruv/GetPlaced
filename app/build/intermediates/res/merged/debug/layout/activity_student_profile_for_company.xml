@@ -1,19 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.dhruv.getplaced.StudentProfileForCompany">
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#0077B5"
+        android:id="@+id/linearLayout1">
+
+
+        <ImageView
+            android:id="@+id/Profilepicture"
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
 
     <TextView
-        android:id="@+id/name"
+        android:id="@+id/Studentname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:textColor="#0077B5"
-        android:textSize="25dp"
-        android:layout_marginTop="33dp"
-        android:text="" />
+        android:layout_marginTop="55dp"
+        android:textSize="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginStart="40dp"
+
+         />
+
+    <TextView
+        android:id="@+id/Userid"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Studentname"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+
+    <TextView
+        android:id="@+id/Emailaddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/Userid"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+
+
+    <TextView
+        android:id="@+id/Contactnumber"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Emailaddress"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+    <TextView
+        android:id="@+id/Department"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Contactnumber"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+    <TextView
+        android:id="@+id/Program"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Department"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+
+
+
+
 </RelativeLayout>
