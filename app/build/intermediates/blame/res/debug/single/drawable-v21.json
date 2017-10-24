@@ -1,66 +1,98 @@
 [
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     }
 ]

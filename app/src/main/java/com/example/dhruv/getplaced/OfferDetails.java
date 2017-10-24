@@ -16,6 +16,9 @@ import android.widget.TextView;
 
 import com.example.dhruv.getplaced.R;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,6 +27,7 @@ import static android.media.CamcorderProfile.get;
 public class OfferDetails extends AppCompatActivity {
     private ListView students;
     private TextView offer;
+    public JSONArray applicants;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,9 +35,9 @@ public class OfferDetails extends AppCompatActivity {
         students=(ListView) findViewById(R.id.appliedstudents);
         offer=(TextView) findViewById(R.id.offerdetails);
         final List<String> studentlist=new ArrayList<String>();
-        studentlist.add("Akshay Patidar");
+        /*studentlist.add("Akshay Patidar");
         studentlist.add("Aditya Jadhav");
-        studentlist.add("Dhruv Jaglan");
+        studentlist.add("Dhruv Jaglan");*/
         Bundle extras= getIntent().getExtras();
         String[] OfferList = extras.getStringArray("OfferList");
 
@@ -41,18 +45,34 @@ public class OfferDetails extends AppCompatActivity {
         students.setAdapter(shortListAdapter);
         offer.setText("");
         String[] field=new String[]{"Role","Requirements","Description","Allowed Branches"};
-        for(int i=0; i<OfferList.length; i++){
+        for(int i=0; i<OfferList.length -1; i++){
             offer.setText(offer.getText()+field[i]+" : "+OfferList[i]+"\n");
+
+        }
+
+        try {
+            applicants=new JSONArray(OfferList[OfferList.length-1]);
+            for(int i=0;i<applicants.length();i++){
+                studentlist.add(applicants.getJSONObject(i).getString("name").toString());
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
 
 
         students.setOnItemClickListener(new OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                String Name=studentlist.get(position);
+               // String Name=studentlist.get(position);
                 Intent myIntent = new Intent(OfferDetails.this,StudentProfileForCompany.class);
-
-                myIntent.putExtra("Name",Name);
+                String userid="";
+                try {
+                    userid = applicants.getJSONObject(position).getString("userid").toString();
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+               // myIntent.putExtra("Name",Name);
+                myIntent.putExtra("userid",userid);
                 startActivity(myIntent);
             }
         });

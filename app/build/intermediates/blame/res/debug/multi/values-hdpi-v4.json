@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,33 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

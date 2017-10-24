@@ -63,7 +63,7 @@ public class StudentProfileFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.109:8000/students/student/?format=json&q="+USERID;
+            String url = "http://192.168.0.105:8000/students/student/?format=json&q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
