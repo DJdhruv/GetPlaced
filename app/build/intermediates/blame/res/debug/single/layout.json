@@ -1,31 +1,55 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_offer_details.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_offer_details.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_company_profile.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_company_profile.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/company_listitem.xml",
@@ -44,226 +68,6 @@
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_resume_settings.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_resume_settings.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_login.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_login.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/spinner_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentquery.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentquery.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_profile_for_company.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_profile_for_company.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_companylist.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_companylist.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_job_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_job_offer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offer_details.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_offer_details.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_student_profile_for_company.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_student_profile_for_company.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\company_listitem.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\company_listitem.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_company_home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_add_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_add_offer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/resume_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/resume_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentnotification.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentnotification.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_company_profile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_company_profile.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentquery.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentquery.xml"
     },
@@ -272,196 +76,8 @@
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/query_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/query_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_companylist.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_companylist.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentquery.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentquery.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_maker.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_resume_maker.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentnotification.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentnotification.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentprofile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentprofile.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\company_offer_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\company_offer_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_company_home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_company_home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\query_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\query_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offer_details.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_offer_details.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_student_login.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_student_login.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/sso_page.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/sso_page.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comitemclick.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_comitemclick.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentprofile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentprofile.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\company_offer_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\company_offer_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_company_home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_add_offer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_offer_details.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_offer_details.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_login.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_login.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_resume_settings.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_resume_settings.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
@@ -472,356 +88,76 @@
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\query_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\query_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/query_item.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/query_item.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/company_offer_item.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/company_offer_item.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/spinner_item.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_settings.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_resume_settings.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_job_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_job_offer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_company_login.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_company_login.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_companylist.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_companylist.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resume_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\resume_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_companylist.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_companylist.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_home.xml"
-    },
-    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_comitemclick.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_comitemclick.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sso_page.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\sso_page.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resume_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\resume_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentprofile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentprofile.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_resume_maker.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_resume_maker.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_settings.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_resume_settings.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_login.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_company_login.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\company_listitem.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\company_listitem.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_profile_for_company.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_profile_for_company.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_company_profile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_company_profile.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sso_page.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\sso_page.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resume_maker.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_resume_maker.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comitemclick.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_comitemclick.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_registration.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_registration.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_registration.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_student_registration.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\activity_add_offer.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_login.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\activity_company_login.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
@@ -840,28 +176,36 @@
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_company_profile.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_company_profile.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shortlist_students.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\shortlist_students.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_job_offer.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_job_offer.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_company_home.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_company_home.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_student_registration.xml",
@@ -872,59 +216,99 @@
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_student_login.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_student_login.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\.android\\build-cache\\61f8351ee50039983def4b7de30f33d1f378b2df\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_job_offer.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_job_offer.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/sso_page.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/sso_page.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_studentnotification.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\fragment_studentnotification.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_resume_maker.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_resume_maker.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_student_profile_for_company.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_student_profile_for_company.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\801ca77557c3ab3a2f9c3986782fbe23fce4ef0b\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shortlist_students.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\layout\\shortlist_students.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_add_offer.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_add_offer.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\.android\\build-cache\\f393c026961f3ac9038d9b607a1d57ba6b1487b4\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/resume_item.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/resume_item.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentnotification.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentnotification.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentprofile.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentprofile.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_part_chronometer.xml"
     }
 ]

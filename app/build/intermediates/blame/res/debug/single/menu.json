@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\menu\\menu_main2.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_comapany__home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\menu\\menu_comapany__home.xml"
-    },
-    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/menu/menu_comapany__home.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/menu/menu_comapany__home.xml"
     },
@@ -16,23 +8,7 @@
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/menu/menu_main2.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_comapany__home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\menu\\menu_comapany__home.xml"
-    },
-    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/menu/menu_company__home.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/menu/menu_company__home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\menu\\menu_main2.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_company__home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\menu\\menu_company__home.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_company__home.xml",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\menu\\menu_company__home.xml"
     }
 ]

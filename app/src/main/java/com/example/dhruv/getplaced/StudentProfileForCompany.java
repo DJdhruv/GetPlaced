@@ -18,7 +18,9 @@ import android.widget.ListView;
 import android.widget.TextClock;
 import android.widget.TextView;
 
+
 import com.squareup.picasso.Picasso;
+
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -31,27 +33,33 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import static com.example.dhruv.getplaced.studentlogin.USERID;
 
-//import static com.example.dhruv.getplaced.studentlogin.USERID;
 
 public class StudentProfileForCompany extends AppCompatActivity {
     public TextView name;
     public TextView userid;
     public TextView email;
+
     public TextView contact,program,department;
     String Userid;
     public ImageView profilepic;
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_student_profile_for_company);
         Bundle extras = getIntent().getExtras();
+
         Userid=extras.getString("userid");
+
+
         name = (TextView)findViewById(R.id.Studentname);
         userid = (TextView)findViewById(R.id.Userid);
         contact = (TextView)findViewById(R.id.Contactnumber);
         email = (TextView)findViewById(R.id.Emailaddress);
+
         program=(TextView)findViewById(R.id.Program);
         department=(TextView)findViewById(R.id.Department);
         profilepic=(ImageView)findViewById(R.id.Profilepicture);
@@ -60,10 +68,19 @@ public class StudentProfileForCompany extends AppCompatActivity {
 
         new sendGet().execute();
 
+
+        new sendGet().execute();
+        Userid=extras.getString("userid");
+
     }
     public class sendGet extends AsyncTask<String,String,String> {
         @Override
         protected String doInBackground(String...params){
+
+
+
+
+
 
             String url = "http://192.168.0.105:8000/students/student/?format=json&q="+Userid;
             HttpURLConnection con = null;
@@ -71,6 +88,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
             try {
                 URL obj = new URL(url);
                 con = (HttpURLConnection) obj.openConnection();
+
 
                 con.setRequestMethod("GET");
 
@@ -112,8 +130,10 @@ public class StudentProfileForCompany extends AppCompatActivity {
                 userid.setText(jsonObject.getString("userid").toString());
                 contact.setText(jsonObject.getString("contact_number").toString());
                 email.setText(jsonObject.getString("email").toString());
+
                 program.setText(jsonObject.getString("program").toString());
                 department.setText(jsonObject.getString("department").toString());
+
             } catch (JSONException e) {
                 Log.e("teesfs","sdfsfds");
             }
