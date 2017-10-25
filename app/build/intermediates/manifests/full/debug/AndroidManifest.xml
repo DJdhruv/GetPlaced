@@ -55,6 +55,7 @@
             android:name="com.example.dhruv.getplaced.ResumeMaker"
             android:windowSoftInputMode="adjustPan" />
         <activity android:name="com.example.dhruv.getplaced.ResumeSettings" />
+        <activity android:name="com.example.dhruv.getplaced.CompanyNewUser" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

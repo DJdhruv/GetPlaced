@@ -68,6 +68,10 @@
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/layout/notification_template_media_custom.xml"
     },
     {
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/activity_company_new_user.xml",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/activity_company_new_user.xml"
+    },
+    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/layout/fragment_studentquery.xml",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/layout/fragment_studentquery.xml"
     },

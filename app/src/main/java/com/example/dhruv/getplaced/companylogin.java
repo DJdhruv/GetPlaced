@@ -27,7 +27,7 @@ import java.net.URL;
 
 public class companylogin extends AppCompatActivity {
     public static String USERID, PASSWORD;
-    private Button login;
+    private Button login,newuser;
     private EditText userid, password;
 
     private String JSONString;
@@ -35,7 +35,7 @@ public class companylogin extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_company_login);
-
+        newuser=(Button) findViewById(R.id.newuser_button);
         login = (Button)findViewById(R.id.login_button);
         userid = (EditText)findViewById(R.id.company_userid);
         password = (EditText)findViewById(R.id.company_password);
@@ -47,6 +47,13 @@ public class companylogin extends AppCompatActivity {
                 PASSWORD = password.getText().toString();
                 new sendGet().execute();
 
+            }
+        });
+        newuser.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i=new Intent(companylogin.this,CompanyNewUser.class);
+                startActivity(i);
             }
         });
 

@@ -70,11 +70,11 @@
             android:text="Login"
             android:textColor="#ffffff"
             android:background="#0077B5"
-            android:layout_above="@+id/button"
+            android:layout_above="@+id/newuser_button"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="11dp" />
         <Button
-            android:id="@+id/button"
+            android:id="@+id/newuser_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ffffff"

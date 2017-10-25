@@ -44,6 +44,7 @@
                 android:layout_marginLeft="90dp"
                 android:layout_centerHorizontal="true"
                 android:ems="10"
+
                 android:inputType="textPersonName"
                  />
 

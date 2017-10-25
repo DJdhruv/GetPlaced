@@ -1,5 +1,7 @@
 package com.example.dhruv.getplaced;
 
+import android.content.ActivityNotFoundException;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageView;
@@ -39,7 +41,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
     public TextView name;
     public TextView userid;
     public TextView email;
-
+    public TextView resume;
     public TextView contact,program,department;
     String Userid;
     public ImageView profilepic;
@@ -59,7 +61,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
         userid = (TextView)findViewById(R.id.Userid);
         contact = (TextView)findViewById(R.id.Contactnumber);
         email = (TextView)findViewById(R.id.Emailaddress);
-
+        resume=(TextView) findViewById(R.id.Resume);
         program=(TextView)findViewById(R.id.Program);
         department=(TextView)findViewById(R.id.Department);
         profilepic=(ImageView)findViewById(R.id.Profilepicture);
@@ -71,8 +73,25 @@ public class StudentProfileForCompany extends AppCompatActivity {
 
         new sendGet().execute();
         Userid=extras.getString("userid");
+        resume.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Uri uri = Uri.parse("http://192.168.0.105:8000/media/media/students/resume/"+Userid+".pdf");
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                intent.setPackage("com.android.chrome");
+                try {
+                    startActivity(intent);
+                } catch (ActivityNotFoundException ex) {
+                    // Chrome browser presumably not installed so allow user to choose instead
+                    intent.setPackage(null);
+                    startActivity(intent);
+                }
+            }
+        });
 
     }
+
     public class sendGet extends AsyncTask<String,String,String> {
         @Override
         protected String doInBackground(String...params){
