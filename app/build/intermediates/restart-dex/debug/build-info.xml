@@ -1,86 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="25"
-    build-mode="COLD"
+    abi="x86"
+    api-level="26"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1508932931687"
-    token="6409015051936401078"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1508937121271"
+    token="-2884516335510939411"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="560" />
+        duration="625" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="76" />
+        duration="679" />
     <task
         name="verifier"
         duration="14" />
 
     <artifact
-        location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\outputs\apk\app-debug.apk"
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1508929530746"
+        timestamp="1508937121271"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\outputs\apk\app-debug.apk"
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1508932931687"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

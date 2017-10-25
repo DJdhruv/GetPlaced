@@ -1,13 +1,17 @@
 package com.example.dhruv.getplaced;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.net.Uri;
 import android.os.AsyncTask;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.provider.MediaStore;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -28,6 +32,9 @@ public class StudentRegistration extends AppCompatActivity {
     private Spinner department,program;
     private EditText firstname,lastname,email,contact,userid,password,confirmpassword;
     String Firstname,Lastname,Email,Contact,Userid,Password,Confirmpassword,Department,Program;
+    private ImageView upload;
+    private Uri filePath;
+    private static final int PICK_IMAGE_REQUEST = 2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,7 +51,7 @@ public class StudentRegistration extends AppCompatActivity {
 
         lastname=(EditText) findViewById(R.id.lastname);
         lastname.setText(LastName);
-
+        upload =(ImageView) findViewById(R.id.profile);
         email=(EditText) findViewById(R.id.email);
         contact=(EditText) findViewById(R.id.phone);
         userid=(EditText) findViewById(R.id.userid);
@@ -56,6 +63,15 @@ public class StudentRegistration extends AppCompatActivity {
         program=(Spinner) findViewById(R.id.program);
         addItemsOnDepartmentSpinner();
         addItemsOnProgramSpinner();
+        upload.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent();
+                i.setType("image/*");
+                i.setAction(Intent.ACTION_GET_CONTENT);
+                startActivityForResult(Intent.createChooser(i, "Select an image"), PICK_IMAGE_REQUEST);
+            }
+        });
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -80,6 +96,22 @@ public class StudentRegistration extends AppCompatActivity {
             }
         });
     }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null && data.getData() != null) {
+            filePath = data.getData();
+
+            try {
+                Bitmap bitmap = MediaStore.Images.Media.getBitmap(getContentResolver(), filePath);
+                upload.setImageBitmap(bitmap);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
     public void addItemsOnDepartmentSpinner() {
 
 
