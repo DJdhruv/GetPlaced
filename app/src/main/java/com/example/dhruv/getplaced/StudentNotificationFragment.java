@@ -13,7 +13,6 @@ import android.view.ViewGroup;
 
 public class StudentNotificationFragment extends Fragment {
 
-
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

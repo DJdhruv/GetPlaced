@@ -72,14 +72,12 @@ public class StudentQueryFragment extends Fragment {
 
         @Override
         public View getView(int position, View convertView, ViewGroup parent) {
-
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             View row = inflater.inflate(R.layout.query_item, parent, false);
             TextView heading = (TextView) row.findViewById(R.id.heading);
             TextView bywhom = (TextView) row.findViewById(R.id.bywhom);
             TextView details = (TextView) row.findViewById(R.id.content);
             TextView time = (TextView) row.findViewById(R.id.time);
-
             heading.setText(list.get(position).heading);
             bywhom.setText(list.get(position).bywhom);
             details.setText(list.get(position).details);

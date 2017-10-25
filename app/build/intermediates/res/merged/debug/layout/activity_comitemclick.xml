@@ -21,18 +21,20 @@
         android:id="@+id/companyname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Company Name"
+        android:text=""
         android:textSize="20dp"
         android:textColor="#0077B5"
         android:layout_alignTop="@+id/company_logo"
         android:layout_centerHorizontal="true" />
     <TextView
-        android:id="@+id/companydetails"
+        android:id="@+id/Job_description"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Some basic details of company"
-        android:layout_below="@id/companyname"
+        android:text=""
+        android:layout_below="@+id/offertype"
         android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -46,5 +48,70 @@
         android:background="#4CAF79"
         android:textColor="#ffffff"
          />
+
+    <TextView
+        android:id="@+id/Industry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/companyname"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:text=""
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/requirements"
+        android:layout_below="@+id/Job_description"
+        android:layout_marginTop="25dp"
+        android:text=""
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Role"
+        android:layout_below="@+id/requirements"
+        android:layout_marginTop="25dp"
+        android:text=""
+        android:layout_marginLeft="10dp" />
+
+
+    <TextView
+        android:id="@+id/offertype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/Industry" />
+
+    <TextView
+        android:id="@+id/Salary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Role"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/recruitment_procedure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Salary"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="10dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Branches_allowed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/recruitment_procedure"/>
+
 
 </RelativeLayout>

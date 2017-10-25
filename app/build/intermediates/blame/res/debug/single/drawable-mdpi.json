@@ -1,42 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\company.png",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\company.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/add.png"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/next.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/next.png"
     },
     {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next.png",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/company.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/company.png"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next.png",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/settings.png"
     },
     {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
-    },
-    {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit.png",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
-    },
-    {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
-    },
-    {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit.png",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
-    },
-    {
-        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
-        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\add.png"
-    },
-    {
-        "merged": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\company.png",
-        "source": "C:\\home\\dell\\AndroidStudioProjects\\GetPlaced\\app\\src\\main\\res\\drawable-mdpi\\company.png"
+        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/edit.png",
+        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/edit.png"
     }
 ]

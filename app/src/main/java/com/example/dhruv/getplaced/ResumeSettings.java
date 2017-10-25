@@ -50,36 +50,43 @@ public class ResumeSettings extends AppCompatActivity {
         apply.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                int headingsizeID = headingsizegroup.getCheckedRadioButtonId();
-                int itemsepID=itemsepgroup.getCheckedRadioButtonId();
-                if(headingsizeID!=-1 && itemsepID!=-1){
-                    headingsize = (RadioButton)headingsizegroup.findViewById(headingsizeID);
-                    String headingSize = headingsize.getText().toString();
-
-                    itemsep=(RadioButton) itemsepgroup.findViewById(itemsepID);
-                    String Itemsep= itemsep.getText().toString();
-                    Intent i  = new Intent(ResumeSettings.this,ResumeMaker.class);
-                    i.putExtra("FontSize",fontsize.getText().toString().substring(0,2));
-                    i.putExtra("HeadingSize",headingSize);
-                    i.putExtra("itemsep",Itemsep);
-                    startActivity(i);
-                }
-                else if(headingsizeID==-1){
-                    Toast.makeText(ResumeSettings.this, "Choose Heading Size",
-                      Toast.LENGTH_SHORT).show();
-                }
-                else{
-                    Toast.makeText(ResumeSettings.this, "Choose Line Separation Size",
-                            Toast.LENGTH_SHORT).show();
-                }
-
-
-
+                apply();
             }
         });
 
 
 
 
+    }
+
+    @Override
+    public void onBackPressed() {
+        apply();
+    }
+
+    void apply() {
+        int headingsizeID = headingsizegroup.getCheckedRadioButtonId();
+        int itemsepID=itemsepgroup.getCheckedRadioButtonId();
+        if(headingsizeID!=-1 && itemsepID!=-1){
+            headingsize = (RadioButton)headingsizegroup.findViewById(headingsizeID);
+            String headingSize = headingsize.getText().toString();
+
+            itemsep=(RadioButton) itemsepgroup.findViewById(itemsepID);
+            String Itemsep= itemsep.getText().toString();
+            Intent i  = new Intent(ResumeSettings.this,ResumeMaker.class);
+            i.putExtra("FontSize",fontsize.getText().toString().substring(0,2));
+            i.putExtra("HeadingSize",headingSize);
+            i.putExtra("itemsep",Itemsep);
+            startActivity(i);
+            finish();
+        }
+        else if(headingsizeID==-1){
+            Toast.makeText(ResumeSettings.this, "Choose Heading Size",
+                    Toast.LENGTH_SHORT).show();
+        }
+        else{
+            Toast.makeText(ResumeSettings.this, "Choose Line Separation Size",
+                    Toast.LENGTH_SHORT).show();
+        }
     }
 }
