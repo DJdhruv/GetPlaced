@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/edit.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/edit.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/settings.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/settings.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/company.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/company.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/add.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/add.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/next.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/next.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/edit.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/edit.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/add.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/add.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/next.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/next.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/settings.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/settings.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xhdpi/company.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xhdpi/company.png"
     }
 ]

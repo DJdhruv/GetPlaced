@@ -1,4 +1,0 @@
-#Wed Oct 25 18:42:06 IST 2017
-base.0=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
-renamed.0=classes.dex
-file.0=/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

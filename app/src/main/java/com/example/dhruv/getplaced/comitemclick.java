@@ -84,7 +84,7 @@ public class comitemclick extends AppCompatActivity {
         temp=bundle.getString("allowed_branches");
         SpannableString allowed=  new SpannableString("Allowed Branches :");
         allowed.setSpan(new StyleSpan(Typeface.BOLD), 0, allowed.length(), 0);
-        allowed_branches.append(rec);
+        allowed_branches.append(allowed);
         allowed_branches.append(temp);
         //-----------------------------------------------------
         apply.setOnClickListener(new View.OnClickListener() {

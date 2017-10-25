@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/pic.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/pic.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/profile.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/profile.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/add.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/company.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/company.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/company.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/company.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/settings.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/settings.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/add.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/next.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/edit.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/edit.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/edit.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/edit.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/next.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/profile.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/profile.png"
+        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-hdpi/pic.png",
+        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-hdpi/pic.png"
     }
 ]
