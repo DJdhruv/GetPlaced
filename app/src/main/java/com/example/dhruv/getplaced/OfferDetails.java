@@ -131,7 +131,7 @@ public class OfferDetails extends AppCompatActivity {
 
         @Override
         public View getView(int i, View view, ViewGroup viewgroup) {
-            view = inflter.inflate(R.layout.shortlist_students, null);
+            view = inflter.inflate(R.layout.applicant_item, null);
             TextView name = (TextView) view.findViewById(R.id.name);
             CheckBox box=(CheckBox) view.findViewById(R.id.checkBox);
            /* if(box.isChecked()){

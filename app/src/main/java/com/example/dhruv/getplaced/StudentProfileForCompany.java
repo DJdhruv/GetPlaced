@@ -54,7 +54,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
         program=(TextView)findViewById(R.id.Program);
         department=(TextView)findViewById(R.id.Department);
         profilepic=(ImageView)findViewById(R.id.Profilepicture);
-        Picasso.with(getApplicationContext()).load("http://192.168.0.105:8000/media/media/students/images/" +
+        Picasso.with(getApplicationContext()).load("http://"+getResources().getString(R.string.ip_address)+"/media/media/students/images/" +
                 Userid+".jpg").fit().into(profilepic);
 
         new sendGet().execute();
@@ -65,7 +65,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
         resume.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Uri uri = Uri.parse("http://192.168.0.105:8000/media/media/students/resume/"+Userid+".pdf");
+                Uri uri = Uri.parse("http://"+getResources().getString(R.string.ip_address)+"/media/media/students/resume/"+Userid+".pdf");
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 intent.setPackage("com.android.chrome");
@@ -90,7 +90,7 @@ public class StudentProfileForCompany extends AppCompatActivity {
 
 
 
-            String url = "http://192.168.0.105:8000/students/student/?format=json&q="+Userid;
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/students/student/?format=json&q="+Userid;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

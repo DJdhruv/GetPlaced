@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fe7c3bcd06c4b44d26bf0a5c0a002937985cc117">
-        <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_078e79cc6f4237281db1535d4dd3d2f5ee107465/classes.dex" />
+        sha1="e036ea6c5069d35d28ab9075d6316917e4a28e42">
+        <dex dex="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1575a62fbdd998d53f4eaf80c780941bd1b1e25b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1617add787cbe2fd561d31c08d47979f622ecde4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/dhruv/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_973c77a94c9b7fa1a6d6c6a4df4d9b16534bc57e/classes.dex" />
+        <dex dex="C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_379c5392ff9a22616149157862b4b332e35a4881\classes.dex" />
     </item>
 
 </items>

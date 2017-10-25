@@ -48,8 +48,9 @@ public class StudentProfileFragment extends Fragment {
         department=(TextView)rootView.findViewById(R.id.Department);
         profilepic=(ImageView)rootView.findViewById(R.id.profilepicture);
 
+        Intent i = new Intent();
 
-        Picasso.with(getContext()).load("http://192.168.0.105:8000/media/media/students/images/" +
+        Picasso.with(getContext()).load("http://"+getResources().getString(R.string.ip_address)+"/media/media/students/images/" +
                 USERID+".jpg").fit().into(profilepic);
 
 
@@ -74,7 +75,7 @@ public class StudentProfileFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.105:8000/students/student/?format=json&q="+USERID;
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/students/student/?format=json&q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
@@ -124,7 +125,7 @@ public class StudentProfileFragment extends Fragment {
                 program.setText(jsonObject.getString("program").toString());
                 department.setText(jsonObject.getString("department").toString());
             } catch (JSONException e) {
-                Log.e("teesfs","sdfsfds");
+                Log.e("teesfs",result);
             }
             super.onPostExecute(result);
             return;

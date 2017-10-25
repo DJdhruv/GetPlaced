@@ -73,7 +73,7 @@ public class JobofferFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.105:8000/companies/company/?format=json&?q="+USERID;
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/companies/company/?format=json&?q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

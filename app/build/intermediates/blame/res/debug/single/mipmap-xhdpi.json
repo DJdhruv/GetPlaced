@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/logo.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\logo.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
     },
     {
-        "merged": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Aditya Jadhav\\Desktop\\GetPlaced\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

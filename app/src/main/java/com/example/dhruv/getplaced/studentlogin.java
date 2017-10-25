@@ -424,7 +424,7 @@ public class studentlogin extends AppCompatActivity {
     public class sendGetLogin extends AsyncTask<String,String,String>{
         @Override
         protected String doInBackground(String...params){
-            String url = "http://192.168.0.105:8000/students/student/?format=json";
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/students/student/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

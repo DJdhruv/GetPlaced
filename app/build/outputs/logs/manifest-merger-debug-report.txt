@@ -1,184 +1,184 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:20:5-66
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:8:5-44:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dhruv/.android/build-cache/b65658b4b4c2376920280efa4d380b165a2367d0/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b5af142fad4e101e997d353705ea7009ecec48ea/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b8ef624173192688e49605f89c81771f2e07c349/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /home/dhruv/.android/build-cache/0c07342f6c0244e275da9e89934060d484a8686c/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dhruv/.android/build-cache/23908b40ddf12315cb48c3fb4866f75b3db87cdf/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dhruv/.android/build-cache/efbe3395a034515180a2c4850680f9c6db9b0c48/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] /home/dhruv/.android/build-cache/9aa5dc826ecd2b55c981c8069ecd22fcaf7dd2d2/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/dhruv/.android/build-cache/8891e70e99f3c70f0d02c31cd2e621f895393140/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/dhruv/.android/build-cache/adf83b045816b24dbb0419a04beaec8d67cb638a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/dhruv/.android/build-cache/f4f2f1d820e3dd9b1403bb08524bd40ea4d44a92/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/dhruv/.android/build-cache/fde121ac813493c3ce0cc91d34432c4d0e8750e1/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/dhruv/.android/build-cache/557f43df71906b93edb8780bb517f8a6ffd55dc3/output/AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:8:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Aditya Jadhav\.android\build-cache\2282ffdfe5eadd47c3ec8cb01679bd2613269472\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c4087f5407cbdf0a3e9e8ec4599cd3d26c72eda3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:10:9-36
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:10:9-36
 	android:theme
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.dhruv.getplaced.MainActivity
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.dhruv.getplaced.companylogin
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:21:9-50
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:21:19-47
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:21:19-47
 activity#com.example.dhruv.getplaced.companyhome
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:9-49
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:22:19-46
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:22:19-46
 activity#com.example.dhruv.getplaced.StudentHome
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:9-49
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:23:9-49
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:23:19-46
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:23:19-46
 activity#com.example.dhruv.getplaced.AddOffer
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:9-46
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:24:9-46
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:24:19-43
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:24:19-43
 activity#com.example.dhruv.getplaced.studentlogin
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:9-31:20
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:25:19-47
 activity#com.example.dhruv.getplaced.StudentRegistration
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:32:9-57
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:32:9-57
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:32:19-54
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:32:19-54
 activity#com.example.dhruv.getplaced.comitemclick
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:33:9-36:47
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:33:9-36:47
 	android:label
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:35:13-64
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:35:13-64
 	android:theme
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:36:13-44
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:34:13-41
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:34:13-41
 activity#com.example.dhruv.getplaced.OfferDetails
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:37:9-50
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:37:9-50
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:37:19-47
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:37:19-47
 activity#com.example.dhruv.getplaced.StudentProfileForCompany
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:38:9-62
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:38:9-62
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:38:19-59
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:38:19-59
 activity#com.example.dhruv.getplaced.ResumeMaker
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:39:9-41:55
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:39:9-41:55
 	android:windowSoftInputMode
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:41:13-52
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:41:13-52
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:40:13-40
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:40:13-40
 activity#com.example.dhruv.getplaced.ResumeSettings
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:42:9-52
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:42:9-52
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:42:19-49
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:42:19-49
 activity#com.example.dhruv.getplaced.CompanyNewUser
-ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:43:9-61
+ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:43:9-61
 	android:name
-		ADDED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml:43:19-49
+		ADDED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml:43:19-49
 uses-sdk
-INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/dhruv/.android/build-cache/b65658b4b4c2376920280efa4d380b165a2367d0/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b5af142fad4e101e997d353705ea7009ecec48ea/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b8ef624173192688e49605f89c81771f2e07c349/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/dhruv/.android/build-cache/e1d4a011b7fd032d4f5bb84c9689ce8df6e72055/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /home/dhruv/.android/build-cache/0c07342f6c0244e275da9e89934060d484a8686c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dhruv/.android/build-cache/23908b40ddf12315cb48c3fb4866f75b3db87cdf/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dhruv/.android/build-cache/efbe3395a034515180a2c4850680f9c6db9b0c48/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] /home/dhruv/.android/build-cache/9aa5dc826ecd2b55c981c8069ecd22fcaf7dd2d2/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/dhruv/.android/build-cache/8891e70e99f3c70f0d02c31cd2e621f895393140/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/dhruv/.android/build-cache/adf83b045816b24dbb0419a04beaec8d67cb638a/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/dhruv/.android/build-cache/f4f2f1d820e3dd9b1403bb08524bd40ea4d44a92/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/dhruv/.android/build-cache/fde121ac813493c3ce0cc91d34432c4d0e8750e1/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/dhruv/.android/build-cache/557f43df71906b93edb8780bb517f8a6ffd55dc3/output/AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Aditya Jadhav\.android\build-cache\2282ffdfe5eadd47c3ec8cb01679bd2613269472\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\a723d218835521bdf4e1709502240b448c25f63f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c4087f5407cbdf0a3e9e8ec4599cd3d26c72eda3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aditya Jadhav\Desktop\GetPlaced\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b5af142fad4e101e997d353705ea7009ecec48ea/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dhruv/.android/build-cache/b8ef624173192688e49605f89c81771f2e07c349/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/dhruv/.android/build-cache/e1d4a011b7fd032d4f5bb84c9689ce8df6e72055/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /home/dhruv/.android/build-cache/0c07342f6c0244e275da9e89934060d484a8686c/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/dhruv/.android/build-cache/9aa5dc826ecd2b55c981c8069ecd22fcaf7dd2d2/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/dhruv/.android/build-cache/8891e70e99f3c70f0d02c31cd2e621f895393140/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/dhruv/.android/build-cache/adf83b045816b24dbb0419a04beaec8d67cb638a/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/dhruv/.android/build-cache/f4f2f1d820e3dd9b1403bb08524bd40ea4d44a92/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/dhruv/.android/build-cache/fde121ac813493c3ce0cc91d34432c4d0e8750e1/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/dhruv/.android/build-cache/557f43df71906b93edb8780bb517f8a6ffd55dc3/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\61f8351ee50039983def4b7de30f33d1f378b2df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\181d0b85395ea4c3aa767259d9f87505e22eb37e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\13e75b1fff2d6ab9ddb3cfab5688bc555a8f9d3d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\a723d218835521bdf4e1709502240b448c25f63f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\700c22ae90e58ca78b6f6b134a66e00aa39954bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\62968b579a721ab643e48aa8764e7d58b04c99fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\8f0e724a6a37e51e2a53d75c22f9de6f840d8ba1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\be188097bbb5e0329b16c0a325d24208fe032b42\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1b9bb73f9cf76898b7cede1e112a8b8da66c5ebf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\1254a36c05f5458e81fd3531db3aee1befc466a5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\177643b168c896d461a1da5d6d1e72139f9b30da\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Aditya Jadhav\.android\build-cache\d4c0cd2516dc329bfb29b90962e9e4577fc8345a\output\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:19:22-76
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:19:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dhruv/.android/build-cache/a2e118e99dc2de011aa8560a62b6abbfdd9788dc/output/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\e00493cde183ec24dfde65655ac7b987822582b4\output\AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dhruv/.android/build-cache/18d08fdee992a81d774ef8897342119e27250aba/output/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\c1ed0e2f098391cccef8296f65f86e8879cc8c87\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dhruv/.android/build-cache/efbe3395a034515180a2c4850680f9c6db9b0c48/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dhruv/.android/build-cache/efbe3395a034515180a2c4850680f9c6db9b0c48/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dhruv/.android/build-cache/efbe3395a034515180a2c4850680f9c6db9b0c48/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Aditya Jadhav\.android\build-cache\6cbc91a8afcb5db28dd275358e4f7578240ca9be\output\AndroidManifest.xml:20:20-65
