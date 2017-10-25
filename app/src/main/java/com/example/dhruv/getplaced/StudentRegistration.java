@@ -142,7 +142,7 @@ public class StudentRegistration extends AppCompatActivity {
 
 
         List<String> programs = new ArrayList<String>();
-        programs.add("none");
+        programs.add("None");
         programs.add("UG First Year ");
         programs.add("UG Second Year ");
         programs.add("UG Third Year ");
@@ -170,7 +170,9 @@ public class StudentRegistration extends AppCompatActivity {
                 con.setRequestMethod("PUT");
                 con.setRequestProperty("Content-Type", "application/json");
                 System.out.println("1");
-                String urlParameters = "{\"contact_number\":\""+Contact+"\",\"department\":\"" + Department + "\", \"email\":\""+Email+"\", \"name\":\""+Firstname+" "+Lastname+"\",\"userid\":\""+Userid+"\",\"program\":\""+Program+"\",\"password\":\"" + Password + "\"}";
+                String urlParameters = "{\"contact_number\":\""+Contact+"\",\"department\":\"" + Department +
+                        "\", \"email\":\""+Email+"\", \"name\":\""+Firstname+" "+Lastname+"\",\"userid\":\""+
+                        Userid+"\",\"program\":\""+Program+"\",\"password\":\"" + Password + "\"}";
 
                 con.setDoOutput(true);
                 con.setDoInput(true);

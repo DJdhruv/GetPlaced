@@ -32,6 +32,7 @@ import java.util.List;
 
 import static com.example.dhruv.getplaced.companylogin.USERID;
 
+
 public class JobofferFragment extends Fragment {
     private ImageButton add_job_offer;
     private ListView offers;
@@ -73,7 +74,7 @@ public class JobofferFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://"+getResources().getString(R.string.ip_address)+"/companies/company/?format=json&?q="+USERID;
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/companies/company/?format=json&q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

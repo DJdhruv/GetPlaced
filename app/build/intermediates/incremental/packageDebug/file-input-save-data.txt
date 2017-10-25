@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Oct 25 19:56:00 IST 2017
+#Thu Oct 26 00:11:30 IST 2017
 210.set=ANDROID_RESOURCE
 282.file=/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/resources-debug.ap_/res/layout/query_item.xml
 14.set=ANDROID_RESOURCE
