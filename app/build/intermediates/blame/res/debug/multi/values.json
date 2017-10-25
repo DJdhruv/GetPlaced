@@ -7172,7 +7172,7 @@
                     "startOffset": 66279,
                     "endLine": 773,
                     "endColumn": 12,
-                    "endOffset": 66591
+                    "endOffset": 66581
                 },
                 "from": {
                     "file": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/values/styles.xml",
@@ -7182,7 +7182,7 @@
                         "startOffset": 54,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 366
+                        "endOffset": 356
                     }
                 }
             },
@@ -7190,18 +7190,18 @@
                 "to": {
                     "startLine": 774,
                     "startColumn": 4,
-                    "startOffset": 66596,
+                    "startOffset": 66586,
                     "endColumn": 89,
-                    "endOffset": 66681
+                    "endOffset": 66671
                 },
                 "from": {
                     "file": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 372,
+                        "startOffset": 362,
                         "endColumn": 90,
-                        "endOffset": 458
+                        "endOffset": 448
                     }
                 }
             },
@@ -7209,18 +7209,18 @@
                 "to": {
                     "startLine": 775,
                     "startColumn": 4,
-                    "startOffset": 66686,
+                    "startOffset": 66676,
                     "endColumn": 79,
-                    "endOffset": 66761
+                    "endOffset": 66751
                 },
                 "from": {
                     "file": "/home/dhruv/AndroidStudioProjects/GetPlaced/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 464,
+                        "startOffset": 454,
                         "endColumn": 80,
-                        "endOffset": 540
+                        "endOffset": 530
                     }
                 }
             },
@@ -7228,10 +7228,10 @@
                 "to": {
                     "startLine": 776,
                     "startColumn": 4,
-                    "startOffset": 66766,
+                    "startOffset": 66756,
                     "endLine": 782,
                     "endColumn": 12,
-                    "endOffset": 67262
+                    "endOffset": 67252
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7249,9 +7249,9 @@
                 "to": {
                     "startLine": 783,
                     "startColumn": 4,
-                    "startOffset": 67267,
+                    "startOffset": 67257,
                     "endColumn": 88,
-                    "endOffset": 67351
+                    "endOffset": 67341
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7268,10 +7268,10 @@
                 "to": {
                     "startLine": 784,
                     "startColumn": 4,
-                    "startOffset": 67356,
+                    "startOffset": 67346,
                     "endLine": 787,
                     "endColumn": 12,
-                    "endOffset": 67598
+                    "endOffset": 67588
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7289,10 +7289,10 @@
                 "to": {
                     "startLine": 788,
                     "startColumn": 4,
-                    "startOffset": 67603,
+                    "startOffset": 67593,
                     "endLine": 791,
                     "endColumn": 12,
-                    "endOffset": 67879
+                    "endOffset": 67869
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7310,10 +7310,10 @@
                 "to": {
                     "startLine": 792,
                     "startColumn": 4,
-                    "startOffset": 67884,
+                    "startOffset": 67874,
                     "endLine": 796,
                     "endColumn": 12,
-                    "endOffset": 68164
+                    "endOffset": 68154
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7331,10 +7331,10 @@
                 "to": {
                     "startLine": 797,
                     "startColumn": 4,
-                    "startOffset": 68169,
+                    "startOffset": 68159,
                     "endLine": 802,
                     "endColumn": 12,
-                    "endOffset": 68557
+                    "endOffset": 68547
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7352,10 +7352,10 @@
                 "to": {
                     "startLine": 803,
                     "startColumn": 4,
-                    "startOffset": 68562,
+                    "startOffset": 68552,
                     "endLine": 809,
                     "endColumn": 12,
-                    "endOffset": 69034
+                    "endOffset": 69024
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7373,10 +7373,10 @@
                 "to": {
                     "startLine": 810,
                     "startColumn": 4,
-                    "startOffset": 69039,
+                    "startOffset": 69029,
                     "endLine": 813,
                     "endColumn": 12,
-                    "endOffset": 69256
+                    "endOffset": 69246
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7394,10 +7394,10 @@
                 "to": {
                     "startLine": 814,
                     "startColumn": 4,
-                    "startOffset": 69261,
+                    "startOffset": 69251,
                     "endLine": 817,
                     "endColumn": 12,
-                    "endOffset": 69478
+                    "endOffset": 69468
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7415,10 +7415,10 @@
                 "to": {
                     "startLine": 818,
                     "startColumn": 4,
-                    "startOffset": 69483,
+                    "startOffset": 69473,
                     "endLine": 822,
                     "endColumn": 12,
-                    "endOffset": 69746
+                    "endOffset": 69736
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7436,10 +7436,10 @@
                 "to": {
                     "startLine": 823,
                     "startColumn": 4,
-                    "startOffset": 69751,
+                    "startOffset": 69741,
                     "endLine": 826,
                     "endColumn": 12,
-                    "endOffset": 69973
+                    "endOffset": 69963
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7457,10 +7457,10 @@
                 "to": {
                     "startLine": 827,
                     "startColumn": 4,
-                    "startOffset": 69978,
+                    "startOffset": 69968,
                     "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 70203
+                    "endOffset": 70193
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7478,10 +7478,10 @@
                 "to": {
                     "startLine": 831,
                     "startColumn": 4,
-                    "startOffset": 70208,
+                    "startOffset": 70198,
                     "endLine": 834,
                     "endColumn": 12,
-                    "endOffset": 70433
+                    "endOffset": 70423
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7499,10 +7499,10 @@
                 "to": {
                     "startLine": 835,
                     "startColumn": 4,
-                    "startOffset": 70438,
+                    "startOffset": 70428,
                     "endLine": 838,
                     "endColumn": 12,
-                    "endOffset": 70663
+                    "endOffset": 70653
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7520,10 +7520,10 @@
                 "to": {
                     "startLine": 839,
                     "startColumn": 4,
-                    "startOffset": 70668,
+                    "startOffset": 70658,
                     "endLine": 842,
                     "endColumn": 12,
-                    "endOffset": 70893
+                    "endOffset": 70883
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7541,10 +7541,10 @@
                 "to": {
                     "startLine": 843,
                     "startColumn": 4,
-                    "startOffset": 70898,
+                    "startOffset": 70888,
                     "endLine": 846,
                     "endColumn": 12,
-                    "endOffset": 71120
+                    "endOffset": 71110
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7562,10 +7562,10 @@
                 "to": {
                     "startLine": 847,
                     "startColumn": 4,
-                    "startOffset": 71125,
+                    "startOffset": 71115,
                     "endLine": 850,
                     "endColumn": 12,
-                    "endOffset": 71359
+                    "endOffset": 71349
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7583,10 +7583,10 @@
                 "to": {
                     "startLine": 851,
                     "startColumn": 4,
-                    "startOffset": 71364,
+                    "startOffset": 71354,
                     "endLine": 854,
                     "endColumn": 12,
-                    "endOffset": 71585
+                    "endOffset": 71575
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7604,10 +7604,10 @@
                 "to": {
                     "startLine": 855,
                     "startColumn": 4,
-                    "startOffset": 71590,
+                    "startOffset": 71580,
                     "endLine": 858,
                     "endColumn": 12,
-                    "endOffset": 71830
+                    "endOffset": 71820
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7625,10 +7625,10 @@
                 "to": {
                     "startLine": 859,
                     "startColumn": 4,
-                    "startOffset": 71835,
+                    "startOffset": 71825,
                     "endLine": 862,
                     "endColumn": 12,
-                    "endOffset": 72060
+                    "endOffset": 72050
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7646,10 +7646,10 @@
                 "to": {
                     "startLine": 863,
                     "startColumn": 4,
-                    "startOffset": 72065,
+                    "startOffset": 72055,
                     "endLine": 866,
                     "endColumn": 12,
-                    "endOffset": 72308
+                    "endOffset": 72298
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7667,10 +7667,10 @@
                 "to": {
                     "startLine": 867,
                     "startColumn": 4,
-                    "startOffset": 72313,
+                    "startOffset": 72303,
                     "endLine": 870,
                     "endColumn": 12,
-                    "endOffset": 72527
+                    "endOffset": 72517
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7688,10 +7688,10 @@
                 "to": {
                     "startLine": 871,
                     "startColumn": 4,
-                    "startOffset": 72532,
+                    "startOffset": 72522,
                     "endLine": 875,
                     "endColumn": 12,
-                    "endOffset": 72810
+                    "endOffset": 72800
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7709,10 +7709,10 @@
                 "to": {
                     "startLine": 876,
                     "startColumn": 4,
-                    "startOffset": 72815,
+                    "startOffset": 72805,
                     "endLine": 879,
                     "endColumn": 12,
-                    "endOffset": 73018
+                    "endOffset": 73008
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7730,10 +7730,10 @@
                 "to": {
                     "startLine": 880,
                     "startColumn": 4,
-                    "startOffset": 73023,
+                    "startOffset": 73013,
                     "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 73149
+                    "endOffset": 73139
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7751,10 +7751,10 @@
                 "to": {
                     "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 73154,
+                    "startOffset": 73144,
                     "endLine": 886,
                     "endColumn": 12,
-                    "endOffset": 73376
+                    "endOffset": 73366
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7772,10 +7772,10 @@
                 "to": {
                     "startLine": 887,
                     "startColumn": 4,
-                    "startOffset": 73381,
+                    "startOffset": 73371,
                     "endLine": 890,
                     "endColumn": 12,
-                    "endOffset": 73622
+                    "endOffset": 73612
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7793,10 +7793,10 @@
                 "to": {
                     "startLine": 891,
                     "startColumn": 4,
-                    "startOffset": 73627,
+                    "startOffset": 73617,
                     "endLine": 894,
                     "endColumn": 12,
-                    "endOffset": 73847
+                    "endOffset": 73837
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7814,10 +7814,10 @@
                 "to": {
                     "startLine": 895,
                     "startColumn": 4,
-                    "startOffset": 73852,
+                    "startOffset": 73842,
                     "endLine": 898,
                     "endColumn": 12,
-                    "endOffset": 74094
+                    "endOffset": 74084
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7835,10 +7835,10 @@
                 "to": {
                     "startLine": 899,
                     "startColumn": 4,
-                    "startOffset": 74099,
+                    "startOffset": 74089,
                     "endLine": 902,
                     "endColumn": 12,
-                    "endOffset": 74315
+                    "endOffset": 74305
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7856,10 +7856,10 @@
                 "to": {
                     "startLine": 903,
                     "startColumn": 4,
-                    "startOffset": 74320,
+                    "startOffset": 74310,
                     "endLine": 906,
                     "endColumn": 12,
-                    "endOffset": 74560
+                    "endOffset": 74550
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7877,10 +7877,10 @@
                 "to": {
                     "startLine": 907,
                     "startColumn": 4,
-                    "startOffset": 74565,
+                    "startOffset": 74555,
                     "endLine": 910,
                     "endColumn": 12,
-                    "endOffset": 74836
+                    "endOffset": 74826
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7898,10 +7898,10 @@
                 "to": {
                     "startLine": 911,
                     "startColumn": 4,
-                    "startOffset": 74841,
+                    "startOffset": 74831,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 75137
+                    "endOffset": 75127
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7919,10 +7919,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 75142,
+                    "startOffset": 75132,
                     "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 75461
+                    "endOffset": 75451
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7940,10 +7940,10 @@
                 "to": {
                     "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 75466,
+                    "startOffset": 75456,
                     "endLine": 922,
                     "endColumn": 12,
-                    "endOffset": 75752
+                    "endOffset": 75742
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7961,10 +7961,10 @@
                 "to": {
                     "startLine": 923,
                     "startColumn": 4,
-                    "startOffset": 75757,
+                    "startOffset": 75747,
                     "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 76066
+                    "endOffset": 76056
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -7982,9 +7982,9 @@
                 "to": {
                     "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 76071,
+                    "startOffset": 76061,
                     "endColumn": 136,
-                    "endOffset": 76203
+                    "endOffset": 76193
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8001,9 +8001,9 @@
                 "to": {
                     "startLine": 928,
                     "startColumn": 4,
-                    "startOffset": 76208,
+                    "startOffset": 76198,
                     "endColumn": 130,
-                    "endOffset": 76334
+                    "endOffset": 76324
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8020,9 +8020,9 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 76339,
+                    "startOffset": 76329,
                     "endColumn": 104,
-                    "endOffset": 76439
+                    "endOffset": 76429
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8039,10 +8039,10 @@
                 "to": {
                     "startLine": 930,
                     "startColumn": 4,
-                    "startOffset": 76444,
+                    "startOffset": 76434,
                     "endLine": 932,
                     "endColumn": 12,
-                    "endOffset": 76681
+                    "endOffset": 76671
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8060,10 +8060,10 @@
                 "to": {
                     "startLine": 933,
                     "startColumn": 4,
-                    "startOffset": 76686,
+                    "startOffset": 76676,
                     "endLine": 935,
                     "endColumn": 12,
-                    "endOffset": 76848
+                    "endOffset": 76838
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8081,10 +8081,10 @@
                 "to": {
                     "startLine": 936,
                     "startColumn": 4,
-                    "startOffset": 76853,
+                    "startOffset": 76843,
                     "endLine": 938,
                     "endColumn": 12,
-                    "endOffset": 77052
+                    "endOffset": 77042
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8102,10 +8102,10 @@
                 "to": {
                     "startLine": 939,
                     "startColumn": 4,
-                    "startOffset": 77057,
+                    "startOffset": 77047,
                     "endLine": 941,
                     "endColumn": 12,
-                    "endOffset": 77260
+                    "endOffset": 77250
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8123,10 +8123,10 @@
                 "to": {
                     "startLine": 942,
                     "startColumn": 4,
-                    "startOffset": 77265,
+                    "startOffset": 77255,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 77531
+                    "endOffset": 77521
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8144,9 +8144,9 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 77536,
+                    "startOffset": 77526,
                     "endColumn": 111,
-                    "endOffset": 77643
+                    "endOffset": 77633
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8163,9 +8163,9 @@
                 "to": {
                     "startLine": 947,
                     "startColumn": 4,
-                    "startOffset": 77648,
+                    "startOffset": 77638,
                     "endColumn": 111,
-                    "endOffset": 77755
+                    "endOffset": 77745
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8182,9 +8182,9 @@
                 "to": {
                     "startLine": 948,
                     "startColumn": 4,
-                    "startOffset": 77760,
+                    "startOffset": 77750,
                     "endColumn": 104,
-                    "endOffset": 77860
+                    "endOffset": 77850
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8201,9 +8201,9 @@
                 "to": {
                     "startLine": 949,
                     "startColumn": 4,
-                    "startOffset": 77865,
+                    "startOffset": 77855,
                     "endColumn": 116,
-                    "endOffset": 77977
+                    "endOffset": 77967
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8220,10 +8220,10 @@
                 "to": {
                     "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 77982,
+                    "startOffset": 77972,
                     "endLine": 952,
                     "endColumn": 12,
-                    "endOffset": 78191
+                    "endOffset": 78181
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8241,10 +8241,10 @@
                 "to": {
                     "startLine": 953,
                     "startColumn": 4,
-                    "startOffset": 78196,
+                    "startOffset": 78186,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 78337
+                    "endOffset": 78327
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8262,10 +8262,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 78342,
+                    "startOffset": 78332,
                     "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 78477
+                    "endOffset": 78467
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8283,10 +8283,10 @@
                 "to": {
                     "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 78482,
+                    "startOffset": 78472,
                     "endLine": 958,
                     "endColumn": 12,
-                    "endOffset": 78563
+                    "endOffset": 78553
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8304,10 +8304,10 @@
                 "to": {
                     "startLine": 959,
                     "startColumn": 4,
-                    "startOffset": 78568,
+                    "startOffset": 78558,
                     "endLine": 963,
                     "endColumn": 12,
-                    "endOffset": 78911
+                    "endOffset": 78901
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8325,9 +8325,9 @@
                 "to": {
                     "startLine": 964,
                     "startColumn": 4,
-                    "startOffset": 78916,
+                    "startOffset": 78906,
                     "endColumn": 87,
-                    "endOffset": 78999
+                    "endOffset": 78989
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8344,10 +8344,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 79004,
+                    "startOffset": 78994,
                     "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 79229
+                    "endOffset": 79219
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8365,10 +8365,10 @@
                 "to": {
                     "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 79234,
+                    "startOffset": 79224,
                     "endLine": 974,
                     "endColumn": 12,
-                    "endOffset": 79647
+                    "endOffset": 79637
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8386,10 +8386,10 @@
                 "to": {
                     "startLine": 975,
                     "startColumn": 4,
-                    "startOffset": 79652,
+                    "startOffset": 79642,
                     "endLine": 978,
                     "endColumn": 12,
-                    "endOffset": 79880
+                    "endOffset": 79870
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8407,9 +8407,9 @@
                 "to": {
                     "startLine": 979,
                     "startColumn": 4,
-                    "startOffset": 79885,
+                    "startOffset": 79875,
                     "endColumn": 81,
-                    "endOffset": 79962
+                    "endOffset": 79952
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8426,10 +8426,10 @@
                 "to": {
                     "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 79967,
+                    "startOffset": 79957,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 80060
+                    "endOffset": 80050
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8447,10 +8447,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 80065,
+                    "startOffset": 80055,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 80677
+                    "endOffset": 80667
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8468,9 +8468,9 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 80682,
+                    "startOffset": 80672,
                     "endColumn": 99,
-                    "endOffset": 80777
+                    "endOffset": 80767
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8487,10 +8487,10 @@
                 "to": {
                     "startLine": 994,
                     "startColumn": 4,
-                    "startOffset": 80782,
+                    "startOffset": 80772,
                     "endLine": 997,
                     "endColumn": 12,
-                    "endOffset": 81013
+                    "endOffset": 81003
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8508,10 +8508,10 @@
                 "to": {
                     "startLine": 998,
                     "startColumn": 4,
-                    "startOffset": 81018,
+                    "startOffset": 81008,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 81437
+                    "endOffset": 81427
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8529,10 +8529,10 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 81442,
+                    "startOffset": 81432,
                     "endLine": 1007,
                     "endColumn": 12,
-                    "endOffset": 81676
+                    "endOffset": 81666
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8550,9 +8550,9 @@
                 "to": {
                     "startLine": 1008,
                     "startColumn": 4,
-                    "startOffset": 81681,
+                    "startOffset": 81671,
                     "endColumn": 93,
-                    "endOffset": 81770
+                    "endOffset": 81760
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8569,9 +8569,9 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 81775,
+                    "startOffset": 81765,
                     "endColumn": 88,
-                    "endOffset": 81859
+                    "endOffset": 81849
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8588,10 +8588,10 @@
                 "to": {
                     "startLine": 1010,
                     "startColumn": 4,
-                    "startOffset": 81864,
+                    "startOffset": 81854,
                     "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 82096
+                    "endOffset": 82086
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8609,10 +8609,10 @@
                 "to": {
                     "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 82101,
+                    "startOffset": 82091,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 84148
+                    "endOffset": 84138
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8630,10 +8630,10 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 84153,
+                    "startOffset": 84143,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 84390
+                    "endOffset": 84380
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8651,9 +8651,9 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 84395,
+                    "startOffset": 84385,
                     "endColumn": 101,
-                    "endOffset": 84492
+                    "endOffset": 84482
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8670,10 +8670,10 @@
                 "to": {
                     "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 84497,
+                    "startOffset": 84487,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 84729
+                    "endOffset": 84719
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8691,10 +8691,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 84734,
+                    "startOffset": 84724,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 86913
+                    "endOffset": 86903
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8712,10 +8712,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 86918,
+                    "startOffset": 86908,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 97082
+                    "endOffset": 97072
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8733,10 +8733,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 97087,
+                    "startOffset": 97077,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 98333
+                    "endOffset": 98323
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8754,10 +8754,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 98338,
+                    "startOffset": 98328,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 108601
+                    "endOffset": 108591
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8775,10 +8775,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108606,
+                    "startOffset": 108596,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 109864
+                    "endOffset": 109854
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8796,10 +8796,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109869,
+                    "startOffset": 109859,
                     "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 111356
+                    "endOffset": 111346
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8817,10 +8817,10 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 111361,
+                    "startOffset": 111351,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 111892
+                    "endOffset": 111882
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8838,10 +8838,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 111897,
+                    "startOffset": 111887,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 112222
+                    "endOffset": 112212
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8859,10 +8859,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 112227,
+                    "startOffset": 112217,
                     "endLine": 1500,
                     "endColumn": 12,
-                    "endOffset": 113487
+                    "endOffset": 113477
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8880,10 +8880,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 113492,
+                    "startOffset": 113482,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 113743
+                    "endOffset": 113733
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8901,10 +8901,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 113748,
+                    "startOffset": 113738,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 113979
+                    "endOffset": 113969
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8922,10 +8922,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 113984,
+                    "startOffset": 113974,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 114526
+                    "endOffset": 114516
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8943,10 +8943,10 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 114531,
+                    "startOffset": 114521,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 115020
+                    "endOffset": 115010
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8964,10 +8964,10 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 115025,
+                    "startOffset": 115015,
                     "endLine": 1538,
                     "endColumn": 12,
-                    "endOffset": 115625
+                    "endOffset": 115615
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -8985,10 +8985,10 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 115630,
+                    "startOffset": 115620,
                     "endLine": 1542,
                     "endColumn": 12,
-                    "endOffset": 115823
+                    "endOffset": 115813
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9006,10 +9006,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 115828,
+                    "startOffset": 115818,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 116403
+                    "endOffset": 116393
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9027,10 +9027,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 116408,
+                    "startOffset": 116398,
                     "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 116967
+                    "endOffset": 116957
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9048,10 +9048,10 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 116972,
+                    "startOffset": 116962,
                     "endLine": 1564,
                     "endColumn": 12,
-                    "endOffset": 117342
+                    "endOffset": 117332
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9069,9 +9069,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 117347,
+                    "startOffset": 117337,
                     "endColumn": 117,
-                    "endOffset": 117460
+                    "endOffset": 117450
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9088,10 +9088,10 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 117465,
+                    "startOffset": 117455,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 117998
+                    "endOffset": 117988
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9109,10 +9109,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 118003,
+                    "startOffset": 117993,
                     "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 118155
+                    "endOffset": 118145
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9130,10 +9130,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 118160,
+                    "startOffset": 118150,
                     "endLine": 1580,
                     "endColumn": 12,
-                    "endOffset": 118351
+                    "endOffset": 118341
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9151,10 +9151,10 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 118356,
+                    "startOffset": 118346,
                     "endLine": 1584,
                     "endColumn": 12,
-                    "endOffset": 118624
+                    "endOffset": 118614
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9172,10 +9172,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 118629,
+                    "startOffset": 118619,
                     "endLine": 1588,
                     "endColumn": 12,
-                    "endOffset": 118880
+                    "endOffset": 118870
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9193,10 +9193,10 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 118885,
+                    "startOffset": 118875,
                     "endLine": 1592,
                     "endColumn": 12,
-                    "endOffset": 119050
+                    "endOffset": 119040
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9214,10 +9214,10 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 119055,
+                    "startOffset": 119045,
                     "endLine": 1595,
                     "endColumn": 12,
-                    "endOffset": 119191
+                    "endOffset": 119181
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9235,9 +9235,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 119196,
+                    "startOffset": 119186,
                     "endColumn": 63,
-                    "endOffset": 119255
+                    "endOffset": 119245
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9254,10 +9254,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 119260,
+                    "startOffset": 119250,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 119537
+                    "endOffset": 119527
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9275,10 +9275,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 119542,
+                    "startOffset": 119532,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 119823
+                    "endOffset": 119813
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9296,10 +9296,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 119828,
+                    "startOffset": 119818,
                     "endLine": 1614,
                     "endColumn": 12,
-                    "endOffset": 120499
+                    "endOffset": 120489
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9317,10 +9317,10 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 120504,
+                    "startOffset": 120494,
                     "endLine": 1619,
                     "endColumn": 12,
-                    "endOffset": 120763
+                    "endOffset": 120753
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9338,10 +9338,10 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 120768,
+                    "startOffset": 120758,
                     "endLine": 1626,
                     "endColumn": 12,
-                    "endOffset": 121101
+                    "endOffset": 121091
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9359,10 +9359,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 121106,
+                    "startOffset": 121096,
                     "endLine": 1632,
                     "endColumn": 12,
-                    "endOffset": 121454
+                    "endOffset": 121444
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9380,9 +9380,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 121459,
+                    "startOffset": 121449,
                     "endColumn": 93,
-                    "endOffset": 121548
+                    "endOffset": 121538
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9399,10 +9399,10 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 121553,
+                    "startOffset": 121543,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 121734
+                    "endOffset": 121724
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9420,10 +9420,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 121739,
+                    "startOffset": 121729,
                     "endLine": 1640,
                     "endColumn": 12,
-                    "endOffset": 122040
+                    "endOffset": 122030
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9441,10 +9441,10 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 122045,
+                    "startOffset": 122035,
                     "endLine": 1645,
                     "endColumn": 12,
-                    "endOffset": 122302
+                    "endOffset": 122292
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9462,10 +9462,10 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 122307,
+                    "startOffset": 122297,
                     "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 122427
+                    "endOffset": 122417
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9483,10 +9483,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 122432,
+                    "startOffset": 122422,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 122554
+                    "endOffset": 122544
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9504,10 +9504,10 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 122559,
+                    "startOffset": 122549,
                     "endLine": 1652,
                     "endColumn": 12,
-                    "endOffset": 122793
+                    "endOffset": 122783
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9525,10 +9525,10 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 122798,
+                    "startOffset": 122788,
                     "endLine": 1655,
                     "endColumn": 12,
-                    "endOffset": 123004
+                    "endOffset": 122994
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9546,10 +9546,10 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 123009,
+                    "startOffset": 122999,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 123123
+                    "endOffset": 123113
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9567,10 +9567,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 123128,
+                    "startOffset": 123118,
                     "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 123316
+                    "endOffset": 123306
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9588,10 +9588,10 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 123321,
+                    "startOffset": 123311,
                     "endLine": 1664,
                     "endColumn": 12,
-                    "endOffset": 123493
+                    "endOffset": 123483
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9609,10 +9609,10 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 123498,
+                    "startOffset": 123488,
                     "endLine": 1671,
                     "endColumn": 12,
-                    "endOffset": 123948
+                    "endOffset": 123938
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9630,10 +9630,10 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 123953,
+                    "startOffset": 123943,
                     "endLine": 1674,
                     "endColumn": 12,
-                    "endOffset": 124129
+                    "endOffset": 124119
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9651,10 +9651,10 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 124134,
+                    "startOffset": 124124,
                     "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 124251
+                    "endOffset": 124241
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9672,10 +9672,10 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 124256,
+                    "startOffset": 124246,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 124510
+                    "endOffset": 124500
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9693,10 +9693,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 124515,
+                    "startOffset": 124505,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 124623
+                    "endOffset": 124613
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9714,10 +9714,10 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 124628,
+                    "startOffset": 124618,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 124810
+                    "endOffset": 124800
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9735,10 +9735,10 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 124815,
+                    "startOffset": 124805,
                     "endLine": 1689,
                     "endColumn": 12,
-                    "endOffset": 124912
+                    "endOffset": 124902
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9756,10 +9756,10 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 124917,
+                    "startOffset": 124907,
                     "endLine": 1695,
                     "endColumn": 12,
-                    "endOffset": 125356
+                    "endOffset": 125346
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9777,10 +9777,10 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 125361,
+                    "startOffset": 125351,
                     "endLine": 1697,
                     "endColumn": 12,
-                    "endOffset": 125480
+                    "endOffset": 125470
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9798,10 +9798,10 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 125485,
+                    "startOffset": 125475,
                     "endLine": 1701,
                     "endColumn": 12,
-                    "endOffset": 125755
+                    "endOffset": 125745
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9819,10 +9819,10 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 125760,
+                    "startOffset": 125750,
                     "endLine": 1709,
                     "endColumn": 12,
-                    "endOffset": 126263
+                    "endOffset": 126253
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9840,10 +9840,10 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 126268,
+                    "startOffset": 126258,
                     "endLine": 1717,
                     "endColumn": 12,
-                    "endOffset": 126759
+                    "endOffset": 126749
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9861,10 +9861,10 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 126764,
+                    "startOffset": 126754,
                     "endLine": 1729,
                     "endColumn": 12,
-                    "endOffset": 127636
+                    "endOffset": 127626
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9882,10 +9882,10 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 127641,
+                    "startOffset": 127631,
                     "endLine": 1735,
                     "endColumn": 12,
-                    "endOffset": 127930
+                    "endOffset": 127920
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9903,10 +9903,10 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 127935,
+                    "startOffset": 127925,
                     "endLine": 1744,
                     "endColumn": 12,
-                    "endOffset": 128500
+                    "endOffset": 128490
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9924,10 +9924,10 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 128505,
+                    "startOffset": 128495,
                     "endLine": 1747,
                     "endColumn": 12,
-                    "endOffset": 128649
+                    "endOffset": 128639
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9945,10 +9945,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 128654,
+                    "startOffset": 128644,
                     "endLine": 1758,
                     "endColumn": 12,
-                    "endOffset": 129381
+                    "endOffset": 129371
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9966,10 +9966,10 @@
                 "to": {
                     "startLine": 1759,
                     "startColumn": 4,
-                    "startOffset": 129386,
+                    "startOffset": 129376,
                     "endLine": 1761,
                     "endColumn": 12,
-                    "endOffset": 129553
+                    "endOffset": 129543
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -9987,10 +9987,10 @@
                 "to": {
                     "startLine": 1762,
                     "startColumn": 4,
-                    "startOffset": 129558,
+                    "startOffset": 129548,
                     "endLine": 1766,
                     "endColumn": 12,
-                    "endOffset": 129889
+                    "endOffset": 129879
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10008,10 +10008,10 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 129894,
+                    "startOffset": 129884,
                     "endLine": 1780,
                     "endColumn": 12,
-                    "endOffset": 130947
+                    "endOffset": 130937
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10029,10 +10029,10 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 130952,
+                    "startOffset": 130942,
                     "endLine": 1785,
                     "endColumn": 12,
-                    "endOffset": 131225
+                    "endOffset": 131215
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10050,10 +10050,10 @@
                 "to": {
                     "startLine": 1786,
                     "startColumn": 4,
-                    "startOffset": 131230,
+                    "startOffset": 131220,
                     "endLine": 1788,
                     "endColumn": 12,
-                    "endOffset": 131379
+                    "endOffset": 131369
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -10071,10 +10071,10 @@
                 "to": {
                     "startLine": 1789,
                     "startColumn": 4,
-                    "startOffset": 131384,
+                    "startOffset": 131374,
                     "endLine": 1798,
                     "endColumn": 12,
-                    "endOffset": 131970
+                    "endOffset": 131960
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -10092,10 +10092,10 @@
                 "to": {
                     "startLine": 1799,
                     "startColumn": 4,
-                    "startOffset": 131975,
+                    "startOffset": 131965,
                     "endLine": 1840,
                     "endColumn": 12,
-                    "endOffset": 135156
+                    "endOffset": 135146
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10113,10 +10113,10 @@
                 "to": {
                     "startLine": 1841,
                     "startColumn": 4,
-                    "startOffset": 135161,
+                    "startOffset": 135151,
                     "endLine": 1883,
                     "endColumn": 12,
-                    "endOffset": 138485
+                    "endOffset": 138475
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10134,9 +10134,9 @@
                 "to": {
                     "startLine": 1884,
                     "startColumn": 4,
-                    "startOffset": 138490,
+                    "startOffset": 138480,
                     "endColumn": 61,
-                    "endOffset": 138547
+                    "endOffset": 138537
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10153,10 +10153,10 @@
                 "to": {
                     "startLine": 1885,
                     "startColumn": 4,
-                    "startOffset": 138552,
+                    "startOffset": 138542,
                     "endLine": 1894,
                     "endColumn": 12,
-                    "endOffset": 139177
+                    "endOffset": 139167
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10174,10 +10174,10 @@
                 "to": {
                     "startLine": 1895,
                     "startColumn": 4,
-                    "startOffset": 139182,
+                    "startOffset": 139172,
                     "endLine": 1903,
                     "endColumn": 12,
-                    "endOffset": 139791
+                    "endOffset": 139781
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10195,9 +10195,9 @@
                 "to": {
                     "startLine": 1904,
                     "startColumn": 4,
-                    "startOffset": 139796,
+                    "startOffset": 139786,
                     "endColumn": 85,
-                    "endOffset": 139877
+                    "endOffset": 139867
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10214,10 +10214,10 @@
                 "to": {
                     "startLine": 1905,
                     "startColumn": 4,
-                    "startOffset": 139882,
+                    "startOffset": 139872,
                     "endLine": 1906,
                     "endColumn": 12,
-                    "endOffset": 139990
+                    "endOffset": 139980
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10235,10 +10235,10 @@
                 "to": {
                     "startLine": 1907,
                     "startColumn": 4,
-                    "startOffset": 139995,
+                    "startOffset": 139985,
                     "endLine": 1910,
                     "endColumn": 12,
-                    "endOffset": 140219
+                    "endOffset": 140209
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10256,10 +10256,10 @@
                 "to": {
                     "startLine": 1911,
                     "startColumn": 4,
-                    "startOffset": 140224,
+                    "startOffset": 140214,
                     "endLine": 1913,
                     "endColumn": 12,
-                    "endOffset": 140379
+                    "endOffset": 140369
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10277,10 +10277,10 @@
                 "to": {
                     "startLine": 1914,
                     "startColumn": 4,
-                    "startOffset": 140384,
+                    "startOffset": 140374,
                     "endLine": 1916,
                     "endColumn": 12,
-                    "endOffset": 140531
+                    "endOffset": 140521
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10298,10 +10298,10 @@
                 "to": {
                     "startLine": 1917,
                     "startColumn": 4,
-                    "startOffset": 140536,
+                    "startOffset": 140526,
                     "endLine": 1919,
                     "endColumn": 12,
-                    "endOffset": 140702
+                    "endOffset": 140692
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10319,10 +10319,10 @@
                 "to": {
                     "startLine": 1920,
                     "startColumn": 4,
-                    "startOffset": 140707,
+                    "startOffset": 140697,
                     "endLine": 1922,
                     "endColumn": 12,
-                    "endOffset": 140869
+                    "endOffset": 140859
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10340,10 +10340,10 @@
                 "to": {
                     "startLine": 1923,
                     "startColumn": 4,
-                    "startOffset": 140874,
+                    "startOffset": 140864,
                     "endLine": 1926,
                     "endColumn": 12,
-                    "endOffset": 141112
+                    "endOffset": 141102
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10361,10 +10361,10 @@
                 "to": {
                     "startLine": 1927,
                     "startColumn": 4,
-                    "startOffset": 141117,
+                    "startOffset": 141107,
                     "endLine": 1929,
                     "endColumn": 12,
-                    "endOffset": 141282
+                    "endOffset": 141272
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10382,10 +10382,10 @@
                 "to": {
                     "startLine": 1930,
                     "startColumn": 4,
-                    "startOffset": 141287,
+                    "startOffset": 141277,
                     "endLine": 1932,
                     "endColumn": 12,
-                    "endOffset": 141455
+                    "endOffset": 141445
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10403,10 +10403,10 @@
                 "to": {
                     "startLine": 1933,
                     "startColumn": 4,
-                    "startOffset": 141460,
+                    "startOffset": 141450,
                     "endLine": 1935,
                     "endColumn": 12,
-                    "endOffset": 141626
+                    "endOffset": 141616
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10424,10 +10424,10 @@
                 "to": {
                     "startLine": 1936,
                     "startColumn": 4,
-                    "startOffset": 141631,
+                    "startOffset": 141621,
                     "endLine": 1939,
                     "endColumn": 12,
-                    "endOffset": 141900
+                    "endOffset": 141890
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10445,10 +10445,10 @@
                 "to": {
                     "startLine": 1940,
                     "startColumn": 4,
-                    "startOffset": 141905,
+                    "startOffset": 141895,
                     "endLine": 1942,
                     "endColumn": 12,
-                    "endOffset": 142099
+                    "endOffset": 142089
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10466,10 +10466,10 @@
                 "to": {
                     "startLine": 1943,
                     "startColumn": 4,
-                    "startOffset": 142104,
+                    "startOffset": 142094,
                     "endLine": 1946,
                     "endColumn": 12,
-                    "endOffset": 142304
+                    "endOffset": 142294
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10487,10 +10487,10 @@
                 "to": {
                     "startLine": 1947,
                     "startColumn": 4,
-                    "startOffset": 142309,
+                    "startOffset": 142299,
                     "endLine": 1950,
                     "endColumn": 12,
-                    "endOffset": 142634
+                    "endOffset": 142624
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10508,9 +10508,9 @@
                 "to": {
                     "startLine": 1951,
                     "startColumn": 4,
-                    "startOffset": 142639,
+                    "startOffset": 142629,
                     "endColumn": 83,
-                    "endOffset": 142718
+                    "endOffset": 142708
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10527,9 +10527,9 @@
                 "to": {
                     "startLine": 1952,
                     "startColumn": 4,
-                    "startOffset": 142723,
+                    "startOffset": 142713,
                     "endColumn": 95,
-                    "endOffset": 142814
+                    "endOffset": 142804
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10546,9 +10546,9 @@
                 "to": {
                     "startLine": 1953,
                     "startColumn": 4,
-                    "startOffset": 142819,
+                    "startOffset": 142809,
                     "endColumn": 95,
-                    "endOffset": 142910
+                    "endOffset": 142900
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10565,9 +10565,9 @@
                 "to": {
                     "startLine": 1954,
                     "startColumn": 4,
-                    "startOffset": 142915,
+                    "startOffset": 142905,
                     "endColumn": 97,
-                    "endOffset": 143008
+                    "endOffset": 142998
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10584,9 +10584,9 @@
                 "to": {
                     "startLine": 1955,
                     "startColumn": 4,
-                    "startOffset": 143013,
+                    "startOffset": 143003,
                     "endColumn": 99,
-                    "endOffset": 143108
+                    "endOffset": 143098
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10603,9 +10603,9 @@
                 "to": {
                     "startLine": 1956,
                     "startColumn": 4,
-                    "startOffset": 143113,
+                    "startOffset": 143103,
                     "endColumn": 101,
-                    "endOffset": 143210
+                    "endOffset": 143200
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10622,9 +10622,9 @@
                 "to": {
                     "startLine": 1957,
                     "startColumn": 4,
-                    "startOffset": 143215,
+                    "startOffset": 143205,
                     "endColumn": 101,
-                    "endOffset": 143312
+                    "endOffset": 143302
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10641,9 +10641,9 @@
                 "to": {
                     "startLine": 1958,
                     "startColumn": 4,
-                    "startOffset": 143317,
+                    "startOffset": 143307,
                     "endColumn": 101,
-                    "endOffset": 143414
+                    "endOffset": 143404
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10660,9 +10660,9 @@
                 "to": {
                     "startLine": 1959,
                     "startColumn": 4,
-                    "startOffset": 143419,
+                    "startOffset": 143409,
                     "endColumn": 101,
-                    "endOffset": 143516
+                    "endOffset": 143506
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10679,9 +10679,9 @@
                 "to": {
                     "startLine": 1960,
                     "startColumn": 4,
-                    "startOffset": 143521,
+                    "startOffset": 143511,
                     "endColumn": 101,
-                    "endOffset": 143618
+                    "endOffset": 143608
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10698,9 +10698,9 @@
                 "to": {
                     "startLine": 1961,
                     "startColumn": 4,
-                    "startOffset": 143623,
+                    "startOffset": 143613,
                     "endColumn": 99,
-                    "endOffset": 143718
+                    "endOffset": 143708
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10717,9 +10717,9 @@
                 "to": {
                     "startLine": 1962,
                     "startColumn": 4,
-                    "startOffset": 143723,
+                    "startOffset": 143713,
                     "endColumn": 95,
-                    "endOffset": 143814
+                    "endOffset": 143804
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10736,9 +10736,9 @@
                 "to": {
                     "startLine": 1963,
                     "startColumn": 4,
-                    "startOffset": 143819,
+                    "startOffset": 143809,
                     "endColumn": 111,
-                    "endOffset": 143926
+                    "endOffset": 143916
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10755,9 +10755,9 @@
                 "to": {
                     "startLine": 1964,
                     "startColumn": 4,
-                    "startOffset": 143931,
+                    "startOffset": 143921,
                     "endColumn": 128,
-                    "endOffset": 144055
+                    "endOffset": 144045
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10774,9 +10774,9 @@
                 "to": {
                     "startLine": 1965,
                     "startColumn": 4,
-                    "startOffset": 144060,
+                    "startOffset": 144050,
                     "endColumn": 122,
-                    "endOffset": 144178
+                    "endOffset": 144168
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10793,9 +10793,9 @@
                 "to": {
                     "startLine": 1966,
                     "startColumn": 4,
-                    "startOffset": 144183,
+                    "startOffset": 144173,
                     "endColumn": 130,
-                    "endOffset": 144309
+                    "endOffset": 144299
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10812,9 +10812,9 @@
                 "to": {
                     "startLine": 1967,
                     "startColumn": 4,
-                    "startOffset": 144314,
+                    "startOffset": 144304,
                     "endColumn": 130,
-                    "endOffset": 144440
+                    "endOffset": 144430
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10831,9 +10831,9 @@
                 "to": {
                     "startLine": 1968,
                     "startColumn": 4,
-                    "startOffset": 144445,
+                    "startOffset": 144435,
                     "endColumn": 97,
-                    "endOffset": 144538
+                    "endOffset": 144528
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10850,9 +10850,9 @@
                 "to": {
                     "startLine": 1969,
                     "startColumn": 4,
-                    "startOffset": 144543,
+                    "startOffset": 144533,
                     "endColumn": 113,
-                    "endOffset": 144652
+                    "endOffset": 144642
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10869,9 +10869,9 @@
                 "to": {
                     "startLine": 1970,
                     "startColumn": 4,
-                    "startOffset": 144657,
+                    "startOffset": 144647,
                     "endColumn": 93,
-                    "endOffset": 144746
+                    "endOffset": 144736
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10888,10 +10888,10 @@
                 "to": {
                     "startLine": 1971,
                     "startColumn": 4,
-                    "startOffset": 144751,
+                    "startOffset": 144741,
                     "endLine": 1974,
                     "endColumn": 12,
-                    "endOffset": 144945
+                    "endOffset": 144935
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10909,10 +10909,10 @@
                 "to": {
                     "startLine": 1975,
                     "startColumn": 4,
-                    "startOffset": 144950,
+                    "startOffset": 144940,
                     "endLine": 1978,
                     "endColumn": 12,
-                    "endOffset": 145149
+                    "endOffset": 145139
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10930,9 +10930,9 @@
                 "to": {
                     "startLine": 1979,
                     "startColumn": 4,
-                    "startOffset": 145154,
+                    "startOffset": 145144,
                     "endColumn": 68,
-                    "endOffset": 145218
+                    "endOffset": 145208
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10949,9 +10949,9 @@
                 "to": {
                     "startLine": 1980,
                     "startColumn": 4,
-                    "startOffset": 145223,
+                    "startOffset": 145213,
                     "endColumn": 115,
-                    "endOffset": 145334
+                    "endOffset": 145324
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10968,9 +10968,9 @@
                 "to": {
                     "startLine": 1981,
                     "startColumn": 4,
-                    "startOffset": 145339,
+                    "startOffset": 145329,
                     "endColumn": 127,
-                    "endOffset": 145462
+                    "endOffset": 145452
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -10987,9 +10987,9 @@
                 "to": {
                     "startLine": 1982,
                     "startColumn": 4,
-                    "startOffset": 145467,
+                    "startOffset": 145457,
                     "endColumn": 63,
-                    "endOffset": 145526
+                    "endOffset": 145516
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11006,10 +11006,10 @@
                 "to": {
                     "startLine": 1983,
                     "startColumn": 4,
-                    "startOffset": 145531,
+                    "startOffset": 145521,
                     "endLine": 1986,
                     "endColumn": 12,
-                    "endOffset": 145730
+                    "endOffset": 145720
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11027,9 +11027,9 @@
                 "to": {
                     "startLine": 1987,
                     "startColumn": 4,
-                    "startOffset": 145735,
+                    "startOffset": 145725,
                     "endColumn": 68,
-                    "endOffset": 145799
+                    "endOffset": 145789
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11046,10 +11046,10 @@
                 "to": {
                     "startLine": 1988,
                     "startColumn": 4,
-                    "startOffset": 145804,
+                    "startOffset": 145794,
                     "endLine": 1991,
                     "endColumn": 12,
-                    "endOffset": 146002
+                    "endOffset": 145992
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11067,9 +11067,9 @@
                 "to": {
                     "startLine": 1992,
                     "startColumn": 4,
-                    "startOffset": 146007,
+                    "startOffset": 145997,
                     "endColumn": 69,
-                    "endOffset": 146072
+                    "endOffset": 146062
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11086,10 +11086,10 @@
                 "to": {
                     "startLine": 1993,
                     "startColumn": 4,
-                    "startOffset": 146077,
+                    "startOffset": 146067,
                     "endLine": 1994,
                     "endColumn": 12,
-                    "endOffset": 146212
+                    "endOffset": 146202
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11107,10 +11107,10 @@
                 "to": {
                     "startLine": 1995,
                     "startColumn": 4,
-                    "startOffset": 146217,
+                    "startOffset": 146207,
                     "endLine": 1996,
                     "endColumn": 12,
-                    "endOffset": 146346
+                    "endOffset": 146336
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11128,9 +11128,9 @@
                 "to": {
                     "startLine": 1997,
                     "startColumn": 4,
-                    "startOffset": 146351,
+                    "startOffset": 146341,
                     "endColumn": 95,
-                    "endOffset": 146442
+                    "endOffset": 146432
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11147,9 +11147,9 @@
                 "to": {
                     "startLine": 1998,
                     "startColumn": 4,
-                    "startOffset": 146447,
+                    "startOffset": 146437,
                     "endColumn": 111,
-                    "endOffset": 146554
+                    "endOffset": 146544
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11166,9 +11166,9 @@
                 "to": {
                     "startLine": 1999,
                     "startColumn": 4,
-                    "startOffset": 146559,
+                    "startOffset": 146549,
                     "endColumn": 99,
-                    "endOffset": 146654
+                    "endOffset": 146644
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11185,9 +11185,9 @@
                 "to": {
                     "startLine": 2000,
                     "startColumn": 4,
-                    "startOffset": 146659,
+                    "startOffset": 146649,
                     "endColumn": 115,
-                    "endOffset": 146770
+                    "endOffset": 146760
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11204,9 +11204,9 @@
                 "to": {
                     "startLine": 2001,
                     "startColumn": 4,
-                    "startOffset": 146775,
+                    "startOffset": 146765,
                     "endColumn": 95,
-                    "endOffset": 146866
+                    "endOffset": 146856
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11223,9 +11223,9 @@
                 "to": {
                     "startLine": 2002,
                     "startColumn": 4,
-                    "startOffset": 146871,
+                    "startOffset": 146861,
                     "endColumn": 111,
-                    "endOffset": 146978
+                    "endOffset": 146968
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11242,10 +11242,10 @@
                 "to": {
                     "startLine": 2003,
                     "startColumn": 4,
-                    "startOffset": 146983,
+                    "startOffset": 146973,
                     "endLine": 2004,
                     "endColumn": 12,
-                    "endOffset": 147118
+                    "endOffset": 147108
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11263,9 +11263,9 @@
                 "to": {
                     "startLine": 2005,
                     "startColumn": 4,
-                    "startOffset": 147123,
+                    "startOffset": 147113,
                     "endColumn": 135,
-                    "endOffset": 147254
+                    "endOffset": 147244
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11282,10 +11282,10 @@
                 "to": {
                     "startLine": 2006,
                     "startColumn": 4,
-                    "startOffset": 147259,
+                    "startOffset": 147249,
                     "endLine": 2007,
                     "endColumn": 12,
-                    "endOffset": 147418
+                    "endOffset": 147408
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11303,9 +11303,9 @@
                 "to": {
                     "startLine": 2008,
                     "startColumn": 4,
-                    "startOffset": 147423,
+                    "startOffset": 147413,
                     "endColumn": 129,
-                    "endOffset": 147548
+                    "endOffset": 147538
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11322,10 +11322,10 @@
                 "to": {
                     "startLine": 2009,
                     "startColumn": 4,
-                    "startOffset": 147553,
+                    "startOffset": 147543,
                     "endLine": 2010,
                     "endColumn": 12,
-                    "endOffset": 147706
+                    "endOffset": 147696
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11343,10 +11343,10 @@
                 "to": {
                     "startLine": 2011,
                     "startColumn": 4,
-                    "startOffset": 147711,
+                    "startOffset": 147701,
                     "endLine": 2012,
                     "endColumn": 12,
-                    "endOffset": 147856
+                    "endOffset": 147846
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11364,9 +11364,9 @@
                 "to": {
                     "startLine": 2013,
                     "startColumn": 4,
-                    "startOffset": 147861,
+                    "startOffset": 147851,
                     "endColumn": 140,
-                    "endOffset": 147997
+                    "endOffset": 147987
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11383,10 +11383,10 @@
                 "to": {
                     "startLine": 2014,
                     "startColumn": 4,
-                    "startOffset": 148002,
+                    "startOffset": 147992,
                     "endLine": 2015,
                     "endColumn": 12,
-                    "endOffset": 148141
+                    "endOffset": 148131
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11404,9 +11404,9 @@
                 "to": {
                     "startLine": 2016,
                     "startColumn": 4,
-                    "startOffset": 148146,
+                    "startOffset": 148136,
                     "endColumn": 134,
-                    "endOffset": 148276
+                    "endOffset": 148266
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11423,9 +11423,9 @@
                 "to": {
                     "startLine": 2017,
                     "startColumn": 4,
-                    "startOffset": 148281,
+                    "startOffset": 148271,
                     "endColumn": 111,
-                    "endOffset": 148388
+                    "endOffset": 148378
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11442,9 +11442,9 @@
                 "to": {
                     "startLine": 2018,
                     "startColumn": 4,
-                    "startOffset": 148393,
+                    "startOffset": 148383,
                     "endColumn": 149,
-                    "endOffset": 148538
+                    "endOffset": 148528
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11461,9 +11461,9 @@
                 "to": {
                     "startLine": 2019,
                     "startColumn": 4,
-                    "startOffset": 148543,
+                    "startOffset": 148533,
                     "endColumn": 127,
-                    "endOffset": 148666
+                    "endOffset": 148656
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11480,9 +11480,9 @@
                 "to": {
                     "startLine": 2020,
                     "startColumn": 4,
-                    "startOffset": 148671,
+                    "startOffset": 148661,
                     "endColumn": 127,
-                    "endOffset": 148794
+                    "endOffset": 148784
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11499,10 +11499,10 @@
                 "to": {
                     "startLine": 2021,
                     "startColumn": 4,
-                    "startOffset": 148799,
+                    "startOffset": 148789,
                     "endLine": 2022,
                     "endColumn": 12,
-                    "endOffset": 148930
+                    "endOffset": 148920
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11520,9 +11520,9 @@
                 "to": {
                     "startLine": 2023,
                     "startColumn": 4,
-                    "startOffset": 148935,
+                    "startOffset": 148925,
                     "endColumn": 131,
-                    "endOffset": 149062
+                    "endOffset": 149052
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11539,9 +11539,9 @@
                 "to": {
                     "startLine": 2024,
                     "startColumn": 4,
-                    "startOffset": 149067,
+                    "startOffset": 149057,
                     "endColumn": 129,
-                    "endOffset": 149192
+                    "endOffset": 149182
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11558,9 +11558,9 @@
                 "to": {
                     "startLine": 2025,
                     "startColumn": 4,
-                    "startOffset": 149197,
+                    "startOffset": 149187,
                     "endColumn": 129,
-                    "endOffset": 149322
+                    "endOffset": 149312
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11577,9 +11577,9 @@
                 "to": {
                     "startLine": 2026,
                     "startColumn": 4,
-                    "startOffset": 149327,
+                    "startOffset": 149317,
                     "endColumn": 111,
-                    "endOffset": 149434
+                    "endOffset": 149424
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11596,9 +11596,9 @@
                 "to": {
                     "startLine": 2027,
                     "startColumn": 4,
-                    "startOffset": 149439,
+                    "startOffset": 149429,
                     "endColumn": 139,
-                    "endOffset": 149574
+                    "endOffset": 149564
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11615,10 +11615,10 @@
                 "to": {
                     "startLine": 2028,
                     "startColumn": 4,
-                    "startOffset": 149579,
+                    "startOffset": 149569,
                     "endLine": 2030,
                     "endColumn": 12,
-                    "endOffset": 149775
+                    "endOffset": 149765
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11636,9 +11636,9 @@
                 "to": {
                     "startLine": 2031,
                     "startColumn": 4,
-                    "startOffset": 149780,
+                    "startOffset": 149770,
                     "endColumn": 91,
-                    "endOffset": 149867
+                    "endOffset": 149857
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11655,10 +11655,10 @@
                 "to": {
                     "startLine": 2032,
                     "startColumn": 4,
-                    "startOffset": 149872,
+                    "startOffset": 149862,
                     "endLine": 2034,
                     "endColumn": 12,
-                    "endOffset": 150046
+                    "endOffset": 150036
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11676,10 +11676,10 @@
                 "to": {
                     "startLine": 2035,
                     "startColumn": 4,
-                    "startOffset": 150051,
+                    "startOffset": 150041,
                     "endLine": 2037,
                     "endColumn": 12,
-                    "endOffset": 150214
+                    "endOffset": 150204
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11697,10 +11697,10 @@
                 "to": {
                     "startLine": 2038,
                     "startColumn": 4,
-                    "startOffset": 150219,
+                    "startOffset": 150209,
                     "endLine": 2040,
                     "endColumn": 12,
-                    "endOffset": 150389
+                    "endOffset": 150379
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11718,10 +11718,10 @@
                 "to": {
                     "startLine": 2041,
                     "startColumn": 4,
-                    "startOffset": 150394,
+                    "startOffset": 150384,
                     "endLine": 2044,
                     "endColumn": 12,
-                    "endOffset": 150642
+                    "endOffset": 150632
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11739,10 +11739,10 @@
                 "to": {
                     "startLine": 2045,
                     "startColumn": 4,
-                    "startOffset": 150647,
+                    "startOffset": 150637,
                     "endLine": 2049,
                     "endColumn": 12,
-                    "endOffset": 150933
+                    "endOffset": 150923
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -11760,9 +11760,9 @@
                 "to": {
                     "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 150938,
+                    "startOffset": 150928,
                     "endColumn": 67,
-                    "endOffset": 151001
+                    "endOffset": 150991
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11779,9 +11779,9 @@
                 "to": {
                     "startLine": 2051,
                     "startColumn": 4,
-                    "startOffset": 151006,
+                    "startOffset": 150996,
                     "endColumn": 72,
-                    "endOffset": 151074
+                    "endOffset": 151064
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11798,9 +11798,9 @@
                 "to": {
                     "startLine": 2052,
                     "startColumn": 4,
-                    "startOffset": 151079,
+                    "startOffset": 151069,
                     "endColumn": 73,
-                    "endOffset": 151148
+                    "endOffset": 151138
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11817,9 +11817,9 @@
                 "to": {
                     "startLine": 2053,
                     "startColumn": 4,
-                    "startOffset": 151153,
+                    "startOffset": 151143,
                     "endColumn": 72,
-                    "endOffset": 151221
+                    "endOffset": 151211
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11836,9 +11836,9 @@
                 "to": {
                     "startLine": 2054,
                     "startColumn": 4,
-                    "startOffset": 151226,
+                    "startOffset": 151216,
                     "endColumn": 73,
-                    "endOffset": 151295
+                    "endOffset": 151285
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11855,10 +11855,10 @@
                 "to": {
                     "startLine": 2055,
                     "startColumn": 4,
-                    "startOffset": 151300,
+                    "startOffset": 151290,
                     "endLine": 2056,
                     "endColumn": 12,
-                    "endOffset": 151441
+                    "endOffset": 151431
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11876,10 +11876,10 @@
                 "to": {
                     "startLine": 2057,
                     "startColumn": 4,
-                    "startOffset": 151446,
+                    "startOffset": 151436,
                     "endLine": 2058,
                     "endColumn": 12,
-                    "endOffset": 151585
+                    "endOffset": 151575
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11897,10 +11897,10 @@
                 "to": {
                     "startLine": 2059,
                     "startColumn": 4,
-                    "startOffset": 151590,
+                    "startOffset": 151580,
                     "endLine": 2060,
                     "endColumn": 12,
-                    "endOffset": 151723
+                    "endOffset": 151713
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11918,9 +11918,9 @@
                 "to": {
                     "startLine": 2061,
                     "startColumn": 4,
-                    "startOffset": 151728,
+                    "startOffset": 151718,
                     "endColumn": 65,
-                    "endOffset": 151789
+                    "endOffset": 151779
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11937,9 +11937,9 @@
                 "to": {
                     "startLine": 2062,
                     "startColumn": 4,
-                    "startOffset": 151794,
+                    "startOffset": 151784,
                     "endColumn": 89,
-                    "endOffset": 151879
+                    "endOffset": 151869
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11956,9 +11956,9 @@
                 "to": {
                     "startLine": 2063,
                     "startColumn": 4,
-                    "startOffset": 151884,
+                    "startOffset": 151874,
                     "endColumn": 75,
-                    "endOffset": 151955
+                    "endOffset": 151945
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11975,9 +11975,9 @@
                 "to": {
                     "startLine": 2064,
                     "startColumn": 4,
-                    "startOffset": 151960,
+                    "startOffset": 151950,
                     "endColumn": 103,
-                    "endOffset": 152059
+                    "endOffset": 152049
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -11994,9 +11994,9 @@
                 "to": {
                     "startLine": 2065,
                     "startColumn": 4,
-                    "startOffset": 152064,
+                    "startOffset": 152054,
                     "endColumn": 89,
-                    "endOffset": 152149
+                    "endOffset": 152139
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12013,9 +12013,9 @@
                 "to": {
                     "startLine": 2066,
                     "startColumn": 4,
-                    "startOffset": 152154,
+                    "startOffset": 152144,
                     "endColumn": 101,
-                    "endOffset": 152251
+                    "endOffset": 152241
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12032,9 +12032,9 @@
                 "to": {
                     "startLine": 2067,
                     "startColumn": 4,
-                    "startOffset": 152256,
+                    "startOffset": 152246,
                     "endColumn": 107,
-                    "endOffset": 152359
+                    "endOffset": 152349
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12051,9 +12051,9 @@
                 "to": {
                     "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 152364,
+                    "startOffset": 152354,
                     "endColumn": 107,
-                    "endOffset": 152467
+                    "endOffset": 152457
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12070,9 +12070,9 @@
                 "to": {
                     "startLine": 2069,
                     "startColumn": 4,
-                    "startOffset": 152472,
+                    "startOffset": 152462,
                     "endColumn": 99,
-                    "endOffset": 152567
+                    "endOffset": 152557
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12089,9 +12089,9 @@
                 "to": {
                     "startLine": 2070,
                     "startColumn": 4,
-                    "startOffset": 152572,
+                    "startOffset": 152562,
                     "endColumn": 79,
-                    "endOffset": 152647
+                    "endOffset": 152637
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12108,9 +12108,9 @@
                 "to": {
                     "startLine": 2071,
                     "startColumn": 4,
-                    "startOffset": 152652,
+                    "startOffset": 152642,
                     "endColumn": 91,
-                    "endOffset": 152739
+                    "endOffset": 152729
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12127,9 +12127,9 @@
                 "to": {
                     "startLine": 2072,
                     "startColumn": 4,
-                    "startOffset": 152744,
+                    "startOffset": 152734,
                     "endColumn": 97,
-                    "endOffset": 152837
+                    "endOffset": 152827
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12146,10 +12146,10 @@
                 "to": {
                     "startLine": 2073,
                     "startColumn": 4,
-                    "startOffset": 152842,
+                    "startOffset": 152832,
                     "endLine": 2074,
                     "endColumn": 12,
-                    "endOffset": 152947
+                    "endOffset": 152937
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12167,9 +12167,9 @@
                 "to": {
                     "startLine": 2075,
                     "startColumn": 4,
-                    "startOffset": 152952,
+                    "startOffset": 152942,
                     "endColumn": 77,
-                    "endOffset": 153025
+                    "endOffset": 153015
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12186,9 +12186,9 @@
                 "to": {
                     "startLine": 2076,
                     "startColumn": 4,
-                    "startOffset": 153030,
+                    "startOffset": 153020,
                     "endColumn": 105,
-                    "endOffset": 153131
+                    "endOffset": 153121
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12205,9 +12205,9 @@
                 "to": {
                     "startLine": 2077,
                     "startColumn": 4,
-                    "startOffset": 153136,
+                    "startOffset": 153126,
                     "endColumn": 91,
-                    "endOffset": 153223
+                    "endOffset": 153213
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12224,9 +12224,9 @@
                 "to": {
                     "startLine": 2078,
                     "startColumn": 4,
-                    "startOffset": 153228,
+                    "startOffset": 153218,
                     "endColumn": 103,
-                    "endOffset": 153327
+                    "endOffset": 153317
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12243,9 +12243,9 @@
                 "to": {
                     "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 153332,
+                    "startOffset": 153322,
                     "endColumn": 109,
-                    "endOffset": 153437
+                    "endOffset": 153427
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12262,10 +12262,10 @@
                 "to": {
                     "startLine": 2080,
                     "startColumn": 4,
-                    "startOffset": 153442,
+                    "startOffset": 153432,
                     "endLine": 2081,
                     "endColumn": 12,
-                    "endOffset": 153559
+                    "endOffset": 153549
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12283,10 +12283,10 @@
                 "to": {
                     "startLine": 2082,
                     "startColumn": 4,
-                    "startOffset": 153564,
+                    "startOffset": 153554,
                     "endLine": 2085,
                     "endColumn": 12,
-                    "endOffset": 153722
+                    "endOffset": 153712
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12304,10 +12304,10 @@
                 "to": {
                     "startLine": 2086,
                     "startColumn": 4,
-                    "startOffset": 153727,
+                    "startOffset": 153717,
                     "endLine": 2089,
                     "endColumn": 12,
-                    "endOffset": 153879
+                    "endOffset": 153869
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12325,10 +12325,10 @@
                 "to": {
                     "startLine": 2090,
                     "startColumn": 4,
-                    "startOffset": 153884,
+                    "startOffset": 153874,
                     "endLine": 2092,
                     "endColumn": 12,
-                    "endOffset": 154033
+                    "endOffset": 154023
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12346,10 +12346,10 @@
                 "to": {
                     "startLine": 2093,
                     "startColumn": 4,
-                    "startOffset": 154038,
+                    "startOffset": 154028,
                     "endLine": 2097,
                     "endColumn": 12,
-                    "endOffset": 154391
+                    "endOffset": 154381
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12367,10 +12367,10 @@
                 "to": {
                     "startLine": 2098,
                     "startColumn": 4,
-                    "startOffset": 154396,
+                    "startOffset": 154386,
                     "endLine": 2100,
                     "endColumn": 12,
-                    "endOffset": 154558
+                    "endOffset": 154548
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12388,10 +12388,10 @@
                 "to": {
                     "startLine": 2101,
                     "startColumn": 4,
-                    "startOffset": 154563,
+                    "startOffset": 154553,
                     "endLine": 2105,
                     "endColumn": 12,
-                    "endOffset": 154928
+                    "endOffset": 154918
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12409,10 +12409,10 @@
                 "to": {
                     "startLine": 2106,
                     "startColumn": 4,
-                    "startOffset": 154933,
+                    "startOffset": 154923,
                     "endLine": 2109,
                     "endColumn": 12,
-                    "endOffset": 155088
+                    "endOffset": 155078
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12430,10 +12430,10 @@
                 "to": {
                     "startLine": 2110,
                     "startColumn": 4,
-                    "startOffset": 155093,
+                    "startOffset": 155083,
                     "endLine": 2113,
                     "endColumn": 12,
-                    "endOffset": 155242
+                    "endOffset": 155232
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -12451,9 +12451,9 @@
                 "to": {
                     "startLine": 2114,
                     "startColumn": 4,
-                    "startOffset": 155247,
+                    "startOffset": 155237,
                     "endColumn": 79,
-                    "endOffset": 155322
+                    "endOffset": 155312
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12470,9 +12470,9 @@
                 "to": {
                     "startLine": 2115,
                     "startColumn": 4,
-                    "startOffset": 155327,
+                    "startOffset": 155317,
                     "endColumn": 99,
-                    "endOffset": 155422
+                    "endOffset": 155412
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12489,9 +12489,9 @@
                 "to": {
                     "startLine": 2116,
                     "startColumn": 4,
-                    "startOffset": 155427,
+                    "startOffset": 155417,
                     "endColumn": 89,
-                    "endOffset": 155512
+                    "endOffset": 155502
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12508,9 +12508,9 @@
                 "to": {
                     "startLine": 2117,
                     "startColumn": 4,
-                    "startOffset": 155517,
+                    "startOffset": 155507,
                     "endColumn": 109,
-                    "endOffset": 155622
+                    "endOffset": 155612
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12527,9 +12527,9 @@
                 "to": {
                     "startLine": 2118,
                     "startColumn": 4,
-                    "startOffset": 155627,
+                    "startOffset": 155617,
                     "endColumn": 93,
-                    "endOffset": 155716
+                    "endOffset": 155706
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12546,9 +12546,9 @@
                 "to": {
                     "startLine": 2119,
                     "startColumn": 4,
-                    "startOffset": 155721,
+                    "startOffset": 155711,
                     "endColumn": 105,
-                    "endOffset": 155822
+                    "endOffset": 155812
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12565,9 +12565,9 @@
                 "to": {
                     "startLine": 2120,
                     "startColumn": 4,
-                    "startOffset": 155827,
+                    "startOffset": 155817,
                     "endColumn": 91,
-                    "endOffset": 155914
+                    "endOffset": 155904
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12584,10 +12584,10 @@
                 "to": {
                     "startLine": 2121,
                     "startColumn": 4,
-                    "startOffset": 155919,
+                    "startOffset": 155909,
                     "endLine": 2122,
                     "endColumn": 12,
-                    "endOffset": 156014
+                    "endOffset": 156004
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12605,10 +12605,10 @@
                 "to": {
                     "startLine": 2123,
                     "startColumn": 4,
-                    "startOffset": 156019,
+                    "startOffset": 156009,
                     "endLine": 2124,
                     "endColumn": 12,
-                    "endOffset": 156126
+                    "endOffset": 156116
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12626,10 +12626,10 @@
                 "to": {
                     "startLine": 2125,
                     "startColumn": 4,
-                    "startOffset": 156131,
+                    "startOffset": 156121,
                     "endLine": 2126,
                     "endColumn": 12,
-                    "endOffset": 156240
+                    "endOffset": 156230
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12647,10 +12647,10 @@
                 "to": {
                     "startLine": 2127,
                     "startColumn": 4,
-                    "startOffset": 156245,
+                    "startOffset": 156235,
                     "endLine": 2128,
                     "endColumn": 12,
-                    "endOffset": 156356
+                    "endOffset": 156346
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12668,10 +12668,10 @@
                 "to": {
                     "startLine": 2129,
                     "startColumn": 4,
-                    "startOffset": 156361,
+                    "startOffset": 156351,
                     "endLine": 2130,
                     "endColumn": 12,
-                    "endOffset": 156472
+                    "endOffset": 156462
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12689,9 +12689,9 @@
                 "to": {
                     "startLine": 2131,
                     "startColumn": 4,
-                    "startOffset": 156477,
+                    "startOffset": 156467,
                     "endColumn": 93,
-                    "endOffset": 156566
+                    "endOffset": 156556
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12708,9 +12708,9 @@
                 "to": {
                     "startLine": 2132,
                     "startColumn": 4,
-                    "startOffset": 156571,
+                    "startOffset": 156561,
                     "endColumn": 113,
-                    "endOffset": 156680
+                    "endOffset": 156670
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12727,9 +12727,9 @@
                 "to": {
                     "startLine": 2133,
                     "startColumn": 4,
-                    "startOffset": 156685,
+                    "startOffset": 156675,
                     "endColumn": 111,
-                    "endOffset": 156792
+                    "endOffset": 156782
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12746,10 +12746,10 @@
                 "to": {
                     "startLine": 2134,
                     "startColumn": 4,
-                    "startOffset": 156797,
+                    "startOffset": 156787,
                     "endLine": 2135,
                     "endColumn": 12,
-                    "endOffset": 156894
+                    "endOffset": 156884
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12767,10 +12767,10 @@
                 "to": {
                     "startLine": 2136,
                     "startColumn": 4,
-                    "startOffset": 156899,
+                    "startOffset": 156889,
                     "endLine": 2137,
                     "endColumn": 12,
-                    "endOffset": 157014
+                    "endOffset": 157004
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12788,10 +12788,10 @@
                 "to": {
                     "startLine": 2138,
                     "startColumn": 4,
-                    "startOffset": 157019,
+                    "startOffset": 157009,
                     "endLine": 2139,
                     "endColumn": 12,
-                    "endOffset": 157136
+                    "endOffset": 157126
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12809,9 +12809,9 @@
                 "to": {
                     "startLine": 2140,
                     "startColumn": 4,
-                    "startOffset": 157141,
+                    "startOffset": 157131,
                     "endColumn": 81,
-                    "endOffset": 157218
+                    "endOffset": 157208
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12828,9 +12828,9 @@
                 "to": {
                     "startLine": 2141,
                     "startColumn": 4,
-                    "startOffset": 157223,
+                    "startOffset": 157213,
                     "endColumn": 103,
-                    "endOffset": 157322
+                    "endOffset": 157312
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12847,9 +12847,9 @@
                 "to": {
                     "startLine": 2142,
                     "startColumn": 4,
-                    "startOffset": 157327,
+                    "startOffset": 157317,
                     "endColumn": 119,
-                    "endOffset": 157442
+                    "endOffset": 157432
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12866,9 +12866,9 @@
                 "to": {
                     "startLine": 2143,
                     "startColumn": 4,
-                    "startOffset": 157447,
+                    "startOffset": 157437,
                     "endColumn": 125,
-                    "endOffset": 157568
+                    "endOffset": 157558
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12885,9 +12885,9 @@
                 "to": {
                     "startLine": 2144,
                     "startColumn": 4,
-                    "startOffset": 157573,
+                    "startOffset": 157563,
                     "endColumn": 97,
-                    "endOffset": 157666
+                    "endOffset": 157656
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12904,9 +12904,9 @@
                 "to": {
                     "startLine": 2145,
                     "startColumn": 4,
-                    "startOffset": 157671,
+                    "startOffset": 157661,
                     "endColumn": 93,
-                    "endOffset": 157760
+                    "endOffset": 157750
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12923,9 +12923,9 @@
                 "to": {
                     "startLine": 2146,
                     "startColumn": 4,
-                    "startOffset": 157765,
+                    "startOffset": 157755,
                     "endColumn": 87,
-                    "endOffset": 157848
+                    "endOffset": 157838
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12942,9 +12942,9 @@
                 "to": {
                     "startLine": 2147,
                     "startColumn": 4,
-                    "startOffset": 157853,
+                    "startOffset": 157843,
                     "endColumn": 111,
-                    "endOffset": 157960
+                    "endOffset": 157950
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12961,9 +12961,9 @@
                 "to": {
                     "startLine": 2148,
                     "startColumn": 4,
-                    "startOffset": 157965,
+                    "startOffset": 157955,
                     "endColumn": 115,
-                    "endOffset": 158076
+                    "endOffset": 158066
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12980,9 +12980,9 @@
                 "to": {
                     "startLine": 2149,
                     "startColumn": 4,
-                    "startOffset": 158081,
+                    "startOffset": 158071,
                     "endColumn": 121,
-                    "endOffset": 158198
+                    "endOffset": 158188
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -12999,9 +12999,9 @@
                 "to": {
                     "startLine": 2150,
                     "startColumn": 4,
-                    "startOffset": 158203,
+                    "startOffset": 158193,
                     "endColumn": 111,
-                    "endOffset": 158310
+                    "endOffset": 158300
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13018,10 +13018,10 @@
                 "to": {
                     "startLine": 2151,
                     "startColumn": 4,
-                    "startOffset": 158315,
+                    "startOffset": 158305,
                     "endLine": 2153,
                     "endColumn": 12,
-                    "endOffset": 158485
+                    "endOffset": 158475
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13039,9 +13039,9 @@
                 "to": {
                     "startLine": 2154,
                     "startColumn": 4,
-                    "startOffset": 158490,
+                    "startOffset": 158480,
                     "endColumn": 115,
-                    "endOffset": 158601
+                    "endOffset": 158591
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13058,9 +13058,9 @@
                 "to": {
                     "startLine": 2155,
                     "startColumn": 4,
-                    "startOffset": 158606,
+                    "startOffset": 158596,
                     "endColumn": 85,
-                    "endOffset": 158687
+                    "endOffset": 158677
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13077,9 +13077,9 @@
                 "to": {
                     "startLine": 2156,
                     "startColumn": 4,
-                    "startOffset": 158692,
+                    "startOffset": 158682,
                     "endColumn": 91,
-                    "endOffset": 158779
+                    "endOffset": 158769
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13096,10 +13096,10 @@
                 "to": {
                     "startLine": 2157,
                     "startColumn": 4,
-                    "startOffset": 158784,
+                    "startOffset": 158774,
                     "endLine": 2158,
                     "endColumn": 12,
-                    "endOffset": 158891
+                    "endOffset": 158881
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13117,10 +13117,10 @@
                 "to": {
                     "startLine": 2159,
                     "startColumn": 4,
-                    "startOffset": 158896,
+                    "startOffset": 158886,
                     "endLine": 2160,
                     "endColumn": 12,
-                    "endOffset": 159015
+                    "endOffset": 159005
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13138,9 +13138,9 @@
                 "to": {
                     "startLine": 2161,
                     "startColumn": 4,
-                    "startOffset": 159020,
+                    "startOffset": 159010,
                     "endColumn": 66,
-                    "endOffset": 159082
+                    "endOffset": 159072
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13157,10 +13157,10 @@
                 "to": {
                     "startLine": 2162,
                     "startColumn": 4,
-                    "startOffset": 159087,
+                    "startOffset": 159077,
                     "endLine": 2163,
                     "endColumn": 12,
-                    "endOffset": 159208
+                    "endOffset": 159198
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13178,9 +13178,9 @@
                 "to": {
                     "startLine": 2164,
                     "startColumn": 4,
-                    "startOffset": 159213,
+                    "startOffset": 159203,
                     "endColumn": 67,
-                    "endOffset": 159276
+                    "endOffset": 159266
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13197,10 +13197,10 @@
                 "to": {
                     "startLine": 2165,
                     "startColumn": 4,
-                    "startOffset": 159281,
+                    "startOffset": 159271,
                     "endLine": 2166,
                     "endColumn": 12,
-                    "endOffset": 159404
+                    "endOffset": 159394
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13218,10 +13218,10 @@
                 "to": {
                     "startLine": 2167,
                     "startColumn": 4,
-                    "startOffset": 159409,
+                    "startOffset": 159399,
                     "endLine": 2168,
                     "endColumn": 12,
-                    "endOffset": 159548
+                    "endOffset": 159538
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13239,10 +13239,10 @@
                 "to": {
                     "startLine": 2169,
                     "startColumn": 4,
-                    "startOffset": 159553,
+                    "startOffset": 159543,
                     "endLine": 2170,
                     "endColumn": 12,
-                    "endOffset": 159676
+                    "endOffset": 159666
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13260,9 +13260,9 @@
                 "to": {
                     "startLine": 2171,
                     "startColumn": 4,
-                    "startOffset": 159681,
+                    "startOffset": 159671,
                     "endColumn": 68,
-                    "endOffset": 159745
+                    "endOffset": 159735
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13279,9 +13279,9 @@
                 "to": {
                     "startLine": 2172,
                     "startColumn": 4,
-                    "startOffset": 159750,
+                    "startOffset": 159740,
                     "endColumn": 94,
-                    "endOffset": 159840
+                    "endOffset": 159830
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13298,9 +13298,9 @@
                 "to": {
                     "startLine": 2173,
                     "startColumn": 4,
-                    "startOffset": 159845,
+                    "startOffset": 159835,
                     "endColumn": 114,
-                    "endOffset": 159955
+                    "endOffset": 159945
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13317,9 +13317,9 @@
                 "to": {
                     "startLine": 2174,
                     "startColumn": 4,
-                    "startOffset": 159960,
+                    "startOffset": 159950,
                     "endColumn": 112,
-                    "endOffset": 160068
+                    "endOffset": 160058
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13336,9 +13336,9 @@
                 "to": {
                     "startLine": 2175,
                     "startColumn": 4,
-                    "startOffset": 160073,
+                    "startOffset": 160063,
                     "endColumn": 98,
-                    "endOffset": 160167
+                    "endOffset": 160157
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13355,9 +13355,9 @@
                 "to": {
                     "startLine": 2176,
                     "startColumn": 4,
-                    "startOffset": 160172,
+                    "startOffset": 160162,
                     "endColumn": 108,
-                    "endOffset": 160276
+                    "endOffset": 160266
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13374,9 +13374,9 @@
                 "to": {
                     "startLine": 2177,
                     "startColumn": 4,
-                    "startOffset": 160281,
+                    "startOffset": 160271,
                     "endColumn": 110,
-                    "endOffset": 160387
+                    "endOffset": 160377
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13393,9 +13393,9 @@
                 "to": {
                     "startLine": 2178,
                     "startColumn": 4,
-                    "startOffset": 160392,
+                    "startOffset": 160382,
                     "endColumn": 110,
-                    "endOffset": 160498
+                    "endOffset": 160488
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13412,9 +13412,9 @@
                 "to": {
                     "startLine": 2179,
                     "startColumn": 4,
-                    "startOffset": 160503,
+                    "startOffset": 160493,
                     "endColumn": 100,
-                    "endOffset": 160599
+                    "endOffset": 160589
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13431,9 +13431,9 @@
                 "to": {
                     "startLine": 2180,
                     "startColumn": 4,
-                    "startOffset": 160604,
+                    "startOffset": 160594,
                     "endColumn": 104,
-                    "endOffset": 160704
+                    "endOffset": 160694
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13450,9 +13450,9 @@
                 "to": {
                     "startLine": 2181,
                     "startColumn": 4,
-                    "startOffset": 160709,
+                    "startOffset": 160699,
                     "endColumn": 99,
-                    "endOffset": 160804
+                    "endOffset": 160794
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13469,10 +13469,10 @@
                 "to": {
                     "startLine": 2182,
                     "startColumn": 4,
-                    "startOffset": 160809,
+                    "startOffset": 160799,
                     "endLine": 2183,
                     "endColumn": 12,
-                    "endOffset": 160934
+                    "endOffset": 160924
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13490,9 +13490,9 @@
                 "to": {
                     "startLine": 2184,
                     "startColumn": 4,
-                    "startOffset": 160939,
+                    "startOffset": 160929,
                     "endColumn": 90,
-                    "endOffset": 161025
+                    "endOffset": 161015
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13509,9 +13509,9 @@
                 "to": {
                     "startLine": 2185,
                     "startColumn": 4,
-                    "startOffset": 161030,
+                    "startOffset": 161020,
                     "endColumn": 122,
-                    "endOffset": 161148
+                    "endOffset": 161138
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13528,9 +13528,9 @@
                 "to": {
                     "startLine": 2186,
                     "startColumn": 4,
-                    "startOffset": 161153,
+                    "startOffset": 161143,
                     "endColumn": 93,
-                    "endOffset": 161242
+                    "endOffset": 161232
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13547,10 +13547,10 @@
                 "to": {
                     "startLine": 2187,
                     "startColumn": 4,
-                    "startOffset": 161247,
+                    "startOffset": 161237,
                     "endLine": 2188,
                     "endColumn": 12,
-                    "endOffset": 161354
+                    "endOffset": 161344
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13568,9 +13568,9 @@
                 "to": {
                     "startLine": 2189,
                     "startColumn": 4,
-                    "startOffset": 161359,
+                    "startOffset": 161349,
                     "endColumn": 85,
-                    "endOffset": 161440
+                    "endOffset": 161430
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13587,9 +13587,9 @@
                 "to": {
                     "startLine": 2190,
                     "startColumn": 4,
-                    "startOffset": 161445,
+                    "startOffset": 161435,
                     "endColumn": 103,
-                    "endOffset": 161544
+                    "endOffset": 161534
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13606,9 +13606,9 @@
                 "to": {
                     "startLine": 2191,
                     "startColumn": 4,
-                    "startOffset": 161549,
+                    "startOffset": 161539,
                     "endColumn": 95,
-                    "endOffset": 161640
+                    "endOffset": 161630
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13625,9 +13625,9 @@
                 "to": {
                     "startLine": 2192,
                     "startColumn": 4,
-                    "startOffset": 161645,
+                    "startOffset": 161635,
                     "endColumn": 74,
-                    "endOffset": 161715
+                    "endOffset": 161705
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13644,9 +13644,9 @@
                 "to": {
                     "startLine": 2193,
                     "startColumn": 4,
-                    "startOffset": 161720,
+                    "startOffset": 161710,
                     "endColumn": 69,
-                    "endOffset": 161785
+                    "endOffset": 161775
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13663,9 +13663,9 @@
                 "to": {
                     "startLine": 2194,
                     "startColumn": 4,
-                    "startOffset": 161790,
+                    "startOffset": 161780,
                     "endColumn": 87,
-                    "endOffset": 161873
+                    "endOffset": 161863
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13682,10 +13682,10 @@
                 "to": {
                     "startLine": 2195,
                     "startColumn": 4,
-                    "startOffset": 161878,
+                    "startOffset": 161868,
                     "endLine": 2196,
                     "endColumn": 12,
-                    "endOffset": 161991
+                    "endOffset": 161981
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13703,10 +13703,10 @@
                 "to": {
                     "startLine": 2197,
                     "startColumn": 4,
-                    "startOffset": 161996,
+                    "startOffset": 161986,
                     "endLine": 2198,
                     "endColumn": 12,
-                    "endOffset": 162095
+                    "endOffset": 162085
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13724,10 +13724,10 @@
                 "to": {
                     "startLine": 2199,
                     "startColumn": 4,
-                    "startOffset": 162100,
+                    "startOffset": 162090,
                     "endLine": 2200,
                     "endColumn": 12,
-                    "endOffset": 162199
+                    "endOffset": 162189
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13745,10 +13745,10 @@
                 "to": {
                     "startLine": 2201,
                     "startColumn": 4,
-                    "startOffset": 162204,
+                    "startOffset": 162194,
                     "endLine": 2202,
                     "endColumn": 12,
-                    "endOffset": 162325
+                    "endOffset": 162315
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13766,9 +13766,9 @@
                 "to": {
                     "startLine": 2203,
                     "startColumn": 4,
-                    "startOffset": 162330,
+                    "startOffset": 162320,
                     "endColumn": 87,
-                    "endOffset": 162413
+                    "endOffset": 162403
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13785,9 +13785,9 @@
                 "to": {
                     "startLine": 2204,
                     "startColumn": 4,
-                    "startOffset": 162418,
+                    "startOffset": 162408,
                     "endColumn": 107,
-                    "endOffset": 162521
+                    "endOffset": 162511
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13804,9 +13804,9 @@
                 "to": {
                     "startLine": 2205,
                     "startColumn": 4,
-                    "startOffset": 162526,
+                    "startOffset": 162516,
                     "endColumn": 99,
-                    "endOffset": 162621
+                    "endOffset": 162611
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13823,9 +13823,9 @@
                 "to": {
                     "startLine": 2206,
                     "startColumn": 4,
-                    "startOffset": 162626,
+                    "startOffset": 162616,
                     "endColumn": 89,
-                    "endOffset": 162711
+                    "endOffset": 162701
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13842,9 +13842,9 @@
                 "to": {
                     "startLine": 2207,
                     "startColumn": 4,
-                    "startOffset": 162716,
+                    "startOffset": 162706,
                     "endColumn": 109,
-                    "endOffset": 162821
+                    "endOffset": 162811
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13861,9 +13861,9 @@
                 "to": {
                     "startLine": 2208,
                     "startColumn": 4,
-                    "startOffset": 162826,
+                    "startOffset": 162816,
                     "endColumn": 83,
-                    "endOffset": 162905
+                    "endOffset": 162895
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13880,9 +13880,9 @@
                 "to": {
                     "startLine": 2209,
                     "startColumn": 4,
-                    "startOffset": 162910,
+                    "startOffset": 162900,
                     "endColumn": 101,
-                    "endOffset": 163007
+                    "endOffset": 162997
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13899,9 +13899,9 @@
                 "to": {
                     "startLine": 2210,
                     "startColumn": 4,
-                    "startOffset": 163012,
+                    "startOffset": 163002,
                     "endColumn": 83,
-                    "endOffset": 163091
+                    "endOffset": 163081
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13918,9 +13918,9 @@
                 "to": {
                     "startLine": 2211,
                     "startColumn": 4,
-                    "startOffset": 163096,
+                    "startOffset": 163086,
                     "endColumn": 53,
-                    "endOffset": 163145
+                    "endOffset": 163135
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13937,9 +13937,9 @@
                 "to": {
                     "startLine": 2212,
                     "startColumn": 4,
-                    "startOffset": 163150,
+                    "startOffset": 163140,
                     "endColumn": 63,
-                    "endOffset": 163209
+                    "endOffset": 163199
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13956,9 +13956,9 @@
                 "to": {
                     "startLine": 2213,
                     "startColumn": 4,
-                    "startOffset": 163214,
+                    "startOffset": 163204,
                     "endColumn": 105,
-                    "endOffset": 163315
+                    "endOffset": 163305
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13975,9 +13975,9 @@
                 "to": {
                     "startLine": 2214,
                     "startColumn": 4,
-                    "startOffset": 163320,
+                    "startOffset": 163310,
                     "endColumn": 109,
-                    "endOffset": 163425
+                    "endOffset": 163415
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -13994,9 +13994,9 @@
                 "to": {
                     "startLine": 2215,
                     "startColumn": 4,
-                    "startOffset": 163430,
+                    "startOffset": 163420,
                     "endColumn": 83,
-                    "endOffset": 163509
+                    "endOffset": 163499
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -14013,9 +14013,9 @@
                 "to": {
                     "startLine": 2216,
                     "startColumn": 4,
-                    "startOffset": 163514,
+                    "startOffset": 163504,
                     "endColumn": 119,
-                    "endOffset": 163629
+                    "endOffset": 163619
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/1e82e572c8ef3f0ed4b3143ea997b50f9ef58e0d/output/res/values/values.xml",
@@ -14032,10 +14032,10 @@
                 "to": {
                     "startLine": 2217,
                     "startColumn": 4,
-                    "startOffset": 163634,
+                    "startOffset": 163624,
                     "endLine": 2218,
                     "endColumn": 12,
-                    "endOffset": 163729
+                    "endOffset": 163719
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14053,10 +14053,10 @@
                 "to": {
                     "startLine": 2219,
                     "startColumn": 4,
-                    "startOffset": 163734,
+                    "startOffset": 163724,
                     "endLine": 2222,
                     "endColumn": 12,
-                    "endOffset": 163970
+                    "endOffset": 163960
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14074,10 +14074,10 @@
                 "to": {
                     "startLine": 2223,
                     "startColumn": 4,
-                    "startOffset": 163975,
+                    "startOffset": 163965,
                     "endLine": 2229,
                     "endColumn": 12,
-                    "endOffset": 164405
+                    "endOffset": 164395
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14095,10 +14095,10 @@
                 "to": {
                     "startLine": 2230,
                     "startColumn": 4,
-                    "startOffset": 164410,
+                    "startOffset": 164400,
                     "endLine": 2233,
                     "endColumn": 12,
-                    "endOffset": 164612
+                    "endOffset": 164602
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14116,10 +14116,10 @@
                 "to": {
                     "startLine": 2234,
                     "startColumn": 4,
-                    "startOffset": 164617,
+                    "startOffset": 164607,
                     "endLine": 2236,
                     "endColumn": 12,
-                    "endOffset": 164771
+                    "endOffset": 164761
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14137,10 +14137,10 @@
                 "to": {
                     "startLine": 2237,
                     "startColumn": 4,
-                    "startOffset": 164776,
+                    "startOffset": 164766,
                     "endLine": 2245,
                     "endColumn": 12,
-                    "endOffset": 165336
+                    "endOffset": 165326
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14158,10 +14158,10 @@
                 "to": {
                     "startLine": 2246,
                     "startColumn": 4,
-                    "startOffset": 165341,
+                    "startOffset": 165331,
                     "endLine": 2251,
                     "endColumn": 12,
-                    "endOffset": 165697
+                    "endOffset": 165687
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14179,10 +14179,10 @@
                 "to": {
                     "startLine": 2252,
                     "startColumn": 4,
-                    "startOffset": 165702,
+                    "startOffset": 165692,
                     "endLine": 2254,
                     "endColumn": 12,
-                    "endOffset": 165826
+                    "endOffset": 165816
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14200,10 +14200,10 @@
                 "to": {
                     "startLine": 2255,
                     "startColumn": 4,
-                    "startOffset": 165831,
+                    "startOffset": 165821,
                     "endLine": 2263,
                     "endColumn": 12,
-                    "endOffset": 166493
+                    "endOffset": 166483
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14221,10 +14221,10 @@
                 "to": {
                     "startLine": 2264,
                     "startColumn": 4,
-                    "startOffset": 166498,
+                    "startOffset": 166488,
                     "endLine": 2267,
                     "endColumn": 12,
-                    "endOffset": 166673
+                    "endOffset": 166663
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",
@@ -14242,10 +14242,10 @@
                 "to": {
                     "startLine": 2268,
                     "startColumn": 4,
-                    "startOffset": 166678,
+                    "startOffset": 166668,
                     "endLine": 2276,
                     "endColumn": 12,
-                    "endOffset": 167382
+                    "endOffset": 167372
                 },
                 "from": {
                     "file": "/home/dhruv/.android/build-cache/8f86e4065457fa1dfdb6877830f3153c41d87b4b/output/res/values/values.xml",

@@ -1,16 +1,13 @@
 package com.example.dhruv.getplaced;
 
-import android.os.AsyncTask;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.content.Intent;
-
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
-import com.example.dhruv.getplaced.R;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -27,7 +24,7 @@ import java.net.URL;
 
 public class companylogin extends AppCompatActivity {
     public static String USERID, PASSWORD;
-    private Button login;
+    private Button login,newuser;
     private EditText userid, password;
 
     private String JSONString;
@@ -35,7 +32,7 @@ public class companylogin extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_company_login);
-
+        newuser=(Button) findViewById(R.id.newuser_button);
         login = (Button)findViewById(R.id.login_button);
         userid = (EditText)findViewById(R.id.company_userid);
         password = (EditText)findViewById(R.id.company_password);
@@ -47,6 +44,13 @@ public class companylogin extends AppCompatActivity {
                 PASSWORD = password.getText().toString();
                 new sendGet().execute();
 
+            }
+        });
+        newuser.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i=new Intent(companylogin.this,CompanyNewUser.class);
+                startActivity(i);
             }
         });
 
@@ -71,7 +75,7 @@ public class companylogin extends AppCompatActivity {
     public class sendGet extends AsyncTask<String,String,String>{
         @Override
         protected String doInBackground(String...params){
-            String url = "http://192.168.0.109:8000/login/company/?format=json";
+            String url = "http://192.168.0.105:8000/login/company/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

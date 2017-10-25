@@ -104,7 +104,7 @@ public class CompanyListFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.109:8000/offers/offer/?format=json";
+            String url = "http://192.168.0.105:8000/offers/offer/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

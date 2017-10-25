@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a0710338bcc54af43227fc87e09eb84cc8637c5f">
+        sha1="fe7c3bcd06c4b44d26bf0a5c0a002937985cc117">
         <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_078e79cc6f4237281db1535d4dd3d2f5ee107465/classes.dex" />
     </item>
     <item
@@ -18,6 +18,15 @@
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1617add787cbe2fd561d31c08d47979f622ecde4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhruv/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/dhruv/AndroidStudioProjects/GetPlaced/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_973c77a94c9b7fa1a6d6c6a4df4d9b16534bc57e/classes.dex" />
     </item>
 
 </items>

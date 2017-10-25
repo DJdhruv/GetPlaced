@@ -73,7 +73,7 @@ public class JobofferFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.109:8000/companies/company/?format=json&?q="+USERID;
+            String url = "http://192.168.0.105:8000/companies/company/?format=json&?q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
@@ -129,7 +129,8 @@ public class JobofferFragment extends Fragment {
             for(int i=0; i<JsonOffers.length(); i++){
                 try {
                     listofoffers.add(new String[] {JsonOffers.getJSONObject(i).getString("role"),JsonOffers.getJSONObject(i).getString("requirements"),
-                            JsonOffers.getJSONObject(i).getString("job_description"), JsonOffers.getJSONObject(i).getString("allowed_branches")});
+                            JsonOffers.getJSONObject(i).getString("job_description"), JsonOffers.getJSONObject(i).getString("allowed_branches"),
+                            JsonOffers.getJSONObject(i).getString("interested_students"),JsonOffers.getJSONObject(i).getString("shortlisted_students")});
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
@@ -138,6 +139,7 @@ public class JobofferFragment extends Fragment {
             OfferAdaptor offerAdaptor=new OfferAdaptor(getContext(),listofoffers);
 
             offers.setAdapter(offerAdaptor);
+
             offers.setOnItemClickListener(new OnItemClickListener() {
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                     String[] OfferList=listofoffers.get(position);

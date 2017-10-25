@@ -11,7 +11,6 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,12 +34,13 @@
             android:name=".comitemclick"
             android:label="@string/title_activity_comitemclick"
             android:theme="@style/AppTheme" />
-
         <activity android:name=".OfferDetails" />
         <activity android:name=".StudentProfileForCompany" />
-        <activity android:name=".ResumeMaker"
-            android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".ResumeSettings"></activity>
+        <activity
+            android:name=".ResumeMaker"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".ResumeSettings" />
+        <activity android:name=".CompanyNewUser"></activity>
     </application>
 
 </manifest>

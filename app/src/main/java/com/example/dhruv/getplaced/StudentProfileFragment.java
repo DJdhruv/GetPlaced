@@ -9,7 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.squareup.picasso.Picasso;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -30,7 +33,8 @@ public class StudentProfileFragment extends Fragment {
     public TextView name;
     public TextView userid;
     public TextView email;
-    public TextView contact;
+    public TextView contact,program,department;
+    public ImageView profilepic;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -40,6 +44,15 @@ public class StudentProfileFragment extends Fragment {
         userid = (TextView)rootView.findViewById(R.id.userid);
         contact = (TextView)rootView.findViewById(R.id.contactnumber);
         email = (TextView)rootView.findViewById(R.id.emailaddress);
+        program=(TextView)rootView.findViewById(R.id.Program);
+        department=(TextView)rootView.findViewById(R.id.Department);
+        profilepic=(ImageView)rootView.findViewById(R.id.profilepicture);
+
+
+        Picasso.with(getContext()).load("http://192.168.0.105:8000/media/media/students/images/" +
+                USERID+".jpg").fit().into(profilepic);
+
+
         new sendGet().execute();
         makeresume.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view) {
@@ -61,7 +74,7 @@ public class StudentProfileFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.109:8000/students/student/?format=json&q="+USERID;
+            String url = "http://192.168.0.105:8000/students/student/?format=json&q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
@@ -108,6 +121,8 @@ public class StudentProfileFragment extends Fragment {
                 userid.setText(jsonObject.getString("userid").toString());
                 contact.setText(jsonObject.getString("contact_number").toString());
                 email.setText(jsonObject.getString("email").toString());
+                program.setText(jsonObject.getString("program").toString());
+                department.setText(jsonObject.getString("department").toString());
             } catch (JSONException e) {
                 Log.e("teesfs","sdfsfds");
             }

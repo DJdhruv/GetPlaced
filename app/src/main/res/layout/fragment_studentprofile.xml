@@ -14,11 +14,12 @@
 
 
         <ImageView
-            android:id="@+id/imageView3"
+            android:id="@+id/profilepicture"
             android:layout_width="150dp"
             android:layout_height="200dp"
+            android:scaleType="fitCenter"
             android:layout_weight="1"
-            app:srcCompat="@drawable/add" />
+             />
 
     </LinearLayout>
 
@@ -56,6 +57,22 @@
         android:layout_marginTop="23dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/emailaddress"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+    <TextView
+        android:id="@+id/Department"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/contactnumber"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="40dp" />
+    <TextView
+        android:id="@+id/Program"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Department"
         android:layout_alignParentStart="true"
         android:layout_marginStart="40dp" />
 
