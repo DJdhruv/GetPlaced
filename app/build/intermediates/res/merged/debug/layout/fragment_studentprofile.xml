@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ScrollView02"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="none">
+<RelativeLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -8,7 +14,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="250dp"
         android:background="#0077B5"
         android:id="@+id/linearLayout">
 
@@ -16,7 +22,7 @@
         <ImageView
             android:id="@+id/profilepicture"
             android:layout_width="150dp"
-            android:layout_height="200dp"
+            android:layout_height="250dp"
             android:scaleType="fitCenter"
             android:layout_weight="1"
              />
@@ -28,7 +34,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="55dp"
-        android:textSize="15dp"
         android:layout_below="@+id/linearLayout"
         android:layout_alignStart="@+id/emailaddress" />
 
@@ -78,13 +83,28 @@
 
     <Button
         android:id="@+id/createresume"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginBottom="13dp"
-        android:layout_marginEnd="13dp"
+        android:layout_below="@+id/Program"
+        android:layout_marginTop="20dp"
+        android:background="#0077B5"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
         android:text="Create Resume" />
+    <Button
+        android:id="@+id/logout"
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/createresume"
+        android:background="#ffffff"
+        android:textColor="#0077B5"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="13dp"
+        android:text="Logout" />
 
 
 </RelativeLayout>
+    </ScrollView>

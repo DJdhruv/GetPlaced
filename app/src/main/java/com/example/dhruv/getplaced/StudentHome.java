@@ -1,9 +1,12 @@
 package com.example.dhruv.getplaced;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class StudentHome extends AppCompatActivity {
 
@@ -20,8 +23,9 @@ public class StudentHome extends AppCompatActivity {
         /*
         setting logo for tab layout
          */
-        tabLayout.getTabAt(2).setIcon(R.mipmap.logo);
+        //tabLayout.getTabAt(2).setIcon(R.mipmap.logo);
     }
+
 }
 
 

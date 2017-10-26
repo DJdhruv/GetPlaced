@@ -23,5 +23,10 @@ public class companyhome extends AppCompatActivity {
 
     }
 
-
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        finish();
+        startActivity(getIntent());
+    }
 }

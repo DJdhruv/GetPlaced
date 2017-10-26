@@ -123,7 +123,7 @@ public class AddOffer extends AppCompatActivity {
                         Industry + "\", \"job_description\":\""+Description+"\", \"requirements\":\""+Requirements+
                         "\",\"role\":\""+Role+"\",\"salary\":\""+Salary+"\",\"recruitment_procedure\":\"" + Procedure
                         + "\",\"allowed_branches\":\""+Branches+"\",\"company_id\":\""+USERID
-                        +"\"}";
+                        +"\",\"interested_students\":\""+""+"\", \"shortlisted_students\":\"" +""+ "\"}";
 
                 con.setDoOutput(true);
                 con.setDoInput(true);
@@ -168,9 +168,9 @@ public class AddOffer extends AppCompatActivity {
         protected void onPostExecute(String result) {
             super.onPostExecute(result);
             Toast.makeText(AddOffer.this, "Offer Added Sucessfully", Toast.LENGTH_SHORT).show();
-            Intent i = new Intent(AddOffer.this, companyhome.class);
-            i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            Intent i=new Intent(AddOffer.this,companyhome.class);
             startActivity(i);
+
             return;
         }
     }

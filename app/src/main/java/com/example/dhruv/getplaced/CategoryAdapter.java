@@ -17,20 +17,20 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         if(position==0)return new StudentProfileFragment();
         else if(position==1)return new StudentQueryFragment();
-        else if (position==2)return new StudentNotificationFragment();
+
         else return new CompanyListFragment();
     }
 
     @Override
     public int getCount() {
-        return 4;
+        return 3;
     }
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) return "profile";
         else if(position==1) return "query";
-        else if (position==2) return null;
-        else return "list";
+
+        else return "Offers";
     }
 
 }

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/company.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/company.png"
-    },
-    {
         "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-xxhdpi/next.png",
         "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-xxhdpi/next.png"
     },

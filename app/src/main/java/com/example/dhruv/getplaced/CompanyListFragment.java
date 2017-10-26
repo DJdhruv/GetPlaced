@@ -16,6 +16,8 @@ import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -42,10 +44,12 @@ public class CompanyListFragment extends Fragment {
     public TextView check;
     public JSONObject jobj;
     public String temp;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
       final View rootView = inflater.inflate(R.layout.fragment_companylist, container, false);
         companies = (ListView) rootView.findViewById(R.id.companylist);
+
         companyNames=new ArrayList<String[]>();
         new sendGet().execute();
         //companyNames.add(new String[]{"dfdb","dndjf"});
@@ -90,12 +94,17 @@ public class CompanyListFragment extends Fragment {
         @Override
         public View getView(int i, View view, ViewGroup viewgroup) {
             view = inflter.inflate(R.layout.company_listitem, null);
-            TextView country = (TextView)   view.findViewById(R.id.company_name);
-            TextView industry=(TextView) view.findViewById(R.id.industry);
+
+            TextView company = (TextView)   view.findViewById(R.id.company_name);
+            TextView offertype =(TextView) view.findViewById(R.id.offertype);
             ImageView icon = (ImageView) view.findViewById(R.id.company_icon);
-            industry.setText(companylist.get(i)[0]);
-            country.setText(companylist.get(i)[1]);
+            TextView description = (TextView) view.findViewById(R.id.description);
+            offertype.setText(companylist.get(i)[2]);
+            company.setText(companylist.get(i)[0]);
             icon.setImageResource(logo[0]);
+            description.setText(companylist.get(i)[3]);
+            Picasso.with(context).load("http://"+getResources().getString(R.string.ip_address)+"/media/media/company/" +
+                    companylist.get(i)[0]+".png").fit().into(icon);
             return view;
         }
     }
@@ -159,7 +168,7 @@ public class CompanyListFragment extends Fragment {
                     //temp =jobj.getString("company_id");
                     companyNames.add(new String[]{jobj.getString("company_id"),jobj.getString("industry"),jobj.getString("offer_type"),jobj.getString("job_description")
                     ,jobj.getString("requirements"),jobj.getString("role"),jobj.getString("salary"),jobj.getString("recruitment_procedure"),
-                    jobj.getString("allowed_branches")});
+                    jobj.getString("allowed_branches"),jobj.getString("id")});
                     CompanyListAdapter listAdapter = new CompanyListAdapter(getActivity(), companyNames, logo);
                     companies.setAdapter(listAdapter);
                     companies.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -191,6 +200,7 @@ public class CompanyListFragment extends Fragment {
                             i.putExtra("salary",companyNames.get(position)[6]);
                             i.putExtra("recuritment_procedure",companyNames.get(position)[7]);
                             i.putExtra("allowed_branches",companyNames.get(position)[8]);
+                            i.putExtra("offerid",companyNames.get(position)[9]);
                             startActivity(i);
 
                         }

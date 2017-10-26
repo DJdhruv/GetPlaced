@@ -1,7 +1,9 @@
 package com.example.dhruv.getplaced;
 
 import android.app.Dialog;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.http.SslError;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -42,7 +44,6 @@ import javax.net.ssl.SSLSession;
 import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
-
 public class studentlogin extends AppCompatActivity {
     private String URL;
     private String AUTHORIZATION_CODE;
@@ -54,10 +55,23 @@ public class studentlogin extends AppCompatActivity {
     private Button login,newuser;
     public static String USERID, PASSWORD;
     private String JSONString;
+    SharedPreferences sharedpreferences;
+    Context context;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        SessionManager session;
+        session = new SessionManager(getApplicationContext());
+
+        if (session.isLoggedIn()) {
+            startActivity(new Intent(getApplicationContext(), StudentHome.class));
+            finish();
+        }
+
+         context = this;
+
         setContentView(R.layout.activity_student_login);
         newuser=(Button) findViewById(R.id.newuser);
         login=(Button) findViewById(R.id.login_button);
@@ -422,6 +436,8 @@ public class studentlogin extends AppCompatActivity {
 
 
     public class sendGetLogin extends AsyncTask<String,String,String>{
+
+
         @Override
         protected String doInBackground(String...params){
             String url = "http://"+getResources().getString(R.string.ip_address)+"/students/student/?format=json";
@@ -472,7 +488,12 @@ public class studentlogin extends AppCompatActivity {
                     Toast.makeText(studentlogin.this, "Login Successful", Toast.LENGTH_SHORT).show();
                     Intent i = new Intent(studentlogin.this, StudentHome.class);
                     i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+
+
                     startActivity(i);
+
+
+
                 }
                 else{
                     Toast.makeText(studentlogin.this, "Login Unsuccessful", Toast.LENGTH_SHORT).show();

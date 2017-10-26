@@ -174,7 +174,7 @@ public class ResumeMaker extends AppCompatActivity {
                                 headinglist.get(i + 1).equals("Technical Skills") ||
                                 headinglist.get(i + 1).equals("Key Courses Undertaken") ||
                                 headinglist.get(i + 1).equals("Positions Of Responsibility")) {
-                            latexcode = latexcode + codelist.get(i) + "\\vspace{-5pt}\n";
+                            latexcode = latexcode + codelist.get(i) + "\\vspace{-7pt}\n";
                         } else {
                             latexcode = latexcode + codelist.get(i) + "\\end{itemize}\n" + "\\vspace{-18pt}";
                         }
@@ -502,7 +502,7 @@ public class ResumeMaker extends AppCompatActivity {
                     save.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            codelist.set(i - 1, codelist.get(i - 1) + "\\item " + details.getText().toString() + "\n\\end{itemize}\\vspace{-18pt}");
+                            codelist.set(i - 1, codelist.get(i - 1) + "\\item " + details.getText().toString() + "\n\\end{itemize}\\vspace{-5pt}");
                             points.set(i, points.get(i) + details.getText() + "\n");
                             Points.setText(points.get(i));
                             details.setText("");
@@ -528,7 +528,7 @@ public class ResumeMaker extends AppCompatActivity {
                             for (int j = 0; j < temp.length; j++) {
                                 if (temp[j].contains("    ")) {
                                     if(j!=0){
-                                        newcode=newcode+"\\end{itemize}\n";
+                                        newcode=newcode+"\\end{itemize}\\vspace{-5pt}\n";
                                     }
                                     newcode = newcode + "\\textbf{" + temp[j].substring(0, temp[j].indexOf("    ")) + "} ";
                                     newcode = newcode + "\\hfill{\\sl \\small " + temp[j].substring(temp[j].indexOf("    ") + 4) + "}\\\\\n\\vspace{-18pt}" + "\n"
@@ -537,7 +537,7 @@ public class ResumeMaker extends AppCompatActivity {
                                     newcode = newcode + "\\item " + temp[j] + "\n";
                                 }
                             }
-                            newcode=newcode+"\\end{itemize}\n";
+                            newcode=newcode+"\\end{itemize}\\vspace{-5 pt}\n";
                             codelist.set(i - 1, newcode);
                             details.setVisibility(View.GONE);
                             discard.setVisibility(View.GONE);
@@ -603,7 +603,7 @@ public class ResumeMaker extends AppCompatActivity {
                             points.set(i, points.get(i)+ Hint[2]+": " + details.getText().toString() + "\n");
                             Points.setText(points.get(i));
                             details.setText("");
-                            Add.setVisibility(View.VISIBLE);
+                            Add.setVisibility(View.GONE);
                             details.setVisibility(View.GONE);
                             discard.setVisibility(View.GONE);
                             save.setVisibility(View.GONE);
@@ -616,26 +616,35 @@ public class ResumeMaker extends AppCompatActivity {
                     saveedit.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            points.set(i, details.getText().toString());
-                            Points.setText(points.get(i));
-                            details.setText("");
-                            String temp[] = points.get(i).split("\n");
-                            String newcode = "\\section*{ "+headings.get(i)+"\\xfilll[0pt]{0.5pt}}\n" +
-                                    "\\vspace{-7pt}\n\\renewcommand{\\arraystretch}{1.1}\n" +
-                                    "\t\\begin{tabular}{ p{4.7cm}  p{12cm} }\n";
-                            newcode = newcode + "\\textbf{" + Hint[0] + " : } & " + temp[0].substring(Hint[0].length()+2) + "\\\\\n";
-                            newcode = newcode + "\\textbf{" + Hint[1] + " : } & " + temp[1].substring(Hint[1].length()+2) + "\\\\\n";
-                            newcode = newcode + "\\textbf{" + Hint[2] + " : } & " + temp[2].substring(Hint[2].length()+2) + "\n\\end{tabular}";
+                            if (points.get(i) != "") {
+                                points.set(i, details.getText().toString());
+                                Points.setText(points.get(i));
+                                details.setText("");
+                                String temp[] = points.get(i).split("\n");
+                                String newcode = "\\section*{ " + headings.get(i) + "\\xfilll[0pt]{0.5pt}}\n" +
+                                        "\\vspace{-7pt}\n\\renewcommand{\\arraystretch}{1.1}\n" +
+                                        "\t\\begin{tabular}{ p{4.7cm}  p{12cm} }\n";
+                                newcode = newcode + "\\textbf{" + Hint[0] + " : } & " + temp[0].substring(Hint[0].length() + 2) + "\\\\\n";
+                                newcode = newcode + "\\textbf{" + Hint[1] + " : } & " + temp[1].substring(Hint[1].length() + 2) + "\\\\\n";
+                                newcode = newcode + "\\textbf{" + Hint[2] + " : } & " + temp[2].substring(Hint[2].length() + 2) + "\n\\end{tabular}";
 
 
-                            codelist.set(i-1,newcode);
-                            details.setVisibility(View.GONE);
-                            discard.setVisibility(View.GONE);
-                            saveedit.setVisibility(View.GONE);
-                            edit.setVisibility(View.VISIBLE);
-                            Add.setVisibility(View.VISIBLE);
-                            HideKeyboard();
-
+                                codelist.set(i - 1, newcode);
+                                details.setVisibility(View.GONE);
+                                discard.setVisibility(View.GONE);
+                                saveedit.setVisibility(View.GONE);
+                                edit.setVisibility(View.VISIBLE);
+                                Add.setVisibility(View.VISIBLE);
+                                HideKeyboard();
+                            } else {
+                                details.setVisibility(View.GONE);
+                                discard.setVisibility(View.GONE);
+                                saveedit.setVisibility(View.GONE);
+                                edit.setVisibility(View.VISIBLE);
+                                Add.setVisibility(View.VISIBLE);
+                                HideKeyboard();
+                                Toast.makeText(getApplicationContext(), "First add a skill before editing", Toast.LENGTH_SHORT).show();
+                            }
                         }
                     });
 

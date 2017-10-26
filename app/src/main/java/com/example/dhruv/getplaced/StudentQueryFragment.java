@@ -78,9 +78,10 @@ public class StudentQueryFragment extends Fragment {
                         .setPositiveButton("OK",
                                 new DialogInterface.OnClickListener() {
                                     public void onClick(DialogInterface dialog,int id) {
-                                        Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+                                        Date currentTime = Calendar.getInstance().getTime();
+                                        //Timestamp timestamp = new Timestamp(System.currentTimeMillis());
                                         Query=userquery.getText().toString();
-                                        Datetime=timestamp.toString();
+                                        Datetime=currentTime.toString().substring(0,19);
                                         new sendGet1().execute();
 
                                         list.add(new queritem(USERID,Query,Datetime));
@@ -97,6 +98,7 @@ public class StudentQueryFragment extends Fragment {
 
                 alertDialog.show();
 
+
             }
 
         });
@@ -107,7 +109,7 @@ public class StudentQueryFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://192.168.0.105:8000/queries/query/?format=json";
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/queries/query/?format=json";
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {

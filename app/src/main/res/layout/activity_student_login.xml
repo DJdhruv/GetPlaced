@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:background="#0077B5"
     tools:context="com.example.dhruv.getplaced.studentlogin">
+
+
     <RelativeLayout
         android:layout_width="250dp"
         android:layout_height="400dp"
@@ -58,8 +60,9 @@
             android:textColor="#ffffff"
             android:background="#0077B5"
             android:layout_above="@+id/newuser"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="11dp" />
+            android:layout_marginBottom="11dp"
+            android:layout_alignStart="@+id/password"
+            android:layout_alignEnd="@+id/password" />
         <Button
             android:id="@+id/newuser"
             android:layout_width="wrap_content"
@@ -71,5 +74,25 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true" />
     </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#ffffff"
+        android:text="GetPlaced"
+        android:layout_marginTop="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:srcCompat="@drawable/pic"
+        android:layout_alignTop="@+id/relativeLayout"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

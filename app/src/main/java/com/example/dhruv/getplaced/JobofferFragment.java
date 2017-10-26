@@ -60,6 +60,7 @@ public class JobofferFragment extends Fragment {
         listofoffers = new ArrayList<String[]>();
 
         new sendGet().execute();
+        Log.e("Updated", "Update ho gya");
 
         dialog = ProgressDialog.show(getContext(), "",
                 "Loading. Please wait...", true);
@@ -74,7 +75,7 @@ public class JobofferFragment extends Fragment {
         @Override
         protected String doInBackground(String...params){
 
-            String url = "http://"+getResources().getString(R.string.ip_address)+"/companies/company/?format=json&q="+USERID;
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/offers/offer/?format=json&q="+USERID;
             HttpURLConnection con = null;
             BufferedReader in = null;
             try {
@@ -118,10 +119,8 @@ public class JobofferFragment extends Fragment {
             super.onPostExecute(result);
 
             try {
+
                 JsonOffers = new JSONArray(result);
-                JsonCompany = JsonOffers.getJSONObject(0);
-                Temp = JsonCompany.getString("offers");
-                JsonOffers = new JSONArray(Temp);
             } catch (JSONException e) {
                 Log.e("JSON", "CRASHES");
             }
@@ -131,7 +130,8 @@ public class JobofferFragment extends Fragment {
                 try {
                     listofoffers.add(new String[] {JsonOffers.getJSONObject(i).getString("role"),JsonOffers.getJSONObject(i).getString("requirements"),
                             JsonOffers.getJSONObject(i).getString("job_description"), JsonOffers.getJSONObject(i).getString("allowed_branches"),
-                            JsonOffers.getJSONObject(i).getString("interested_students"),JsonOffers.getJSONObject(i).getString("shortlisted_students")});
+                            JsonOffers.getJSONObject(i).getString("interested_students"),JsonOffers.getJSONObject(i).getString("shortlisted_students"),JsonOffers.getJSONObject(i).getString("id")});
+                            System.out.println(JsonOffers.getJSONObject(i).getString("shortlisted_students"));
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
@@ -148,6 +148,7 @@ public class JobofferFragment extends Fragment {
                     Bundle b = new Bundle();
                     b.putStringArray("OfferList",OfferList);
                     myIntent.putExtras(b);
+
                     startActivity(myIntent);
                 }
             });
@@ -187,8 +188,10 @@ public class JobofferFragment extends Fragment {
         @Override
         public View getView(int i, View view, ViewGroup viewgroup) {
             view = inflter.inflate(R.layout.company_offer_item, null);
-            TextView name = (TextView) view.findViewById(R.id.offeritem);
-            name.setText(Offer.get(i)[0]+"\n"+Offer.get(i)[1]);
+            TextView name = (TextView) view.findViewById(R.id.role);
+            TextView requirement=(TextView) view.findViewById(R.id.requirement);
+            requirement.setText(Offer.get(i)[0]);
+            name.setText(Offer.get(i)[1]);
 
             return view;
         }

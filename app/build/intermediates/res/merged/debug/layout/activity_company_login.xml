@@ -12,9 +12,9 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="35dp"
         android:textColor="#ffffff"
-        android:textSize="40dp"
+        android:textSize="45dp"
         android:text="Hire Fresh Talent"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
@@ -24,9 +24,9 @@
         android:layout_height="400dp"
         android:background="#ffffff"
         android:id="@+id/relativeLayout"
-        android:layout_marginTop="45dp"
-        android:layout_alignTop="@+id/company_logo"
-        android:layout_centerHorizontal="true">
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="53dp">
         <TextView
             android:id="@+id/comment"
             android:layout_width="wrap_content"
@@ -71,8 +71,9 @@
             android:textColor="#ffffff"
             android:background="#0077B5"
             android:layout_above="@+id/newuser_button"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="11dp" />
+            android:layout_marginBottom="11dp"
+            android:layout_alignStart="@+id/company_password"
+            android:layout_alignEnd="@+id/company_password" />
         <Button
             android:id="@+id/newuser_button"
             android:layout_width="wrap_content"
@@ -86,15 +87,13 @@
     </RelativeLayout>
 
     <ImageView
-        android:id="@+id/company_logo"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        app:srcCompat="@drawable/company"
-        android:layout_marginTop="15dp"
-        android:layout_below="@+id/textView2"
+        android:id="@+id/imageView4"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        app:srcCompat="@drawable/comp"
+        android:layout_marginTop="29dp"
+        android:layout_alignTop="@+id/relativeLayout"
         android:layout_centerHorizontal="true" />
-
-
 
 
 </RelativeLayout>

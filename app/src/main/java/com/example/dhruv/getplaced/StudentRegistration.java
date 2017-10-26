@@ -92,6 +92,7 @@ public class StudentRegistration extends AppCompatActivity {
                 }
                 else{
                     new sendGet().execute();
+                    new sendGet1().execute();
                 }
             }
         });
@@ -220,6 +221,69 @@ public class StudentRegistration extends AppCompatActivity {
             Intent i = new Intent(StudentRegistration.this, studentlogin.class);
             i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(i);
+            return;
+        }
+    }
+    public class sendGet1 extends AsyncTask<String,String,String> {
+        @Override
+        protected String doInBackground(String... params) {
+            String url = "http://"+getResources().getString(R.string.ip_address)+"/applicant_details/applicant_detail/";
+            HttpURLConnection con = null;
+            InputStream in = null;
+            try {
+
+                URL obj = new URL(url);
+                con = (HttpURLConnection) obj.openConnection();
+
+
+                con.setRequestMethod("PUT");
+                con.setRequestProperty("Content-Type", "application/json");
+                System.out.println("1");
+                String urlParameters = "{\"userid\":\""+Userid+"\",\"name\":\""+Firstname+" "+Lastname+ "\"}";
+
+                con.setDoOutput(true);
+                con.setDoInput(true);
+                DataOutputStream wr = new DataOutputStream(con.getOutputStream());
+                System.out.println(urlParameters);
+                wr.writeBytes(urlParameters);
+                wr.flush();
+                wr.close();
+                System.out.println("3");
+                int responseCode = con.getResponseCode();
+
+                System.out.println("4");
+                in =new BufferedInputStream(con.getInputStream());
+                int inputLine;
+                StringBuffer response = new StringBuffer();
+                System.out.println("5");
+                in.read();
+                in.close();
+                System.out.println("6");
+                return response.toString();
+
+            } catch (MalformedURLException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            } finally {
+                if (con != null) {
+                    con.disconnect();
+                }
+                try {
+                    if (in != null) {
+                        in.close();
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(String result) {
+            super.onPostExecute(result);
+
             return;
         }
     }
