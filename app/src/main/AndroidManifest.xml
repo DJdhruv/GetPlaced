@@ -18,29 +18,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".companylogin" />
-        <activity android:name=".companyhome" />
-        <activity android:name=".StudentHome" />
-        <activity android:name=".AddOffer" />
-        <activity android:name=".studentlogin">
+        <activity android:name=".Company.CompanyLogin" />
+        <activity android:name=".Company.CompanyHome" />
+        <activity android:name=".Student.StudentHome" />
+        <activity android:name=".Company.AddOffer" />
+        <activity android:name=".Student.StudentLogin">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StudentRegistration" />
+        <activity android:name=".Student.StudentRegistration" />
         <activity
-            android:name=".comitemclick"
+            android:name=".Student.comitemclick"
             android:label="@string/title_activity_comitemclick"
             android:theme="@style/AppTheme" />
-        <activity android:name=".OfferDetails" />
-        <activity android:name=".StudentProfileForCompany" />
+        <activity android:name=".Company.OfferDetails" />
+        <activity android:name=".Company.StudentProfileForCompany" />
         <activity
-            android:name=".ResumeMaker"
+            android:name=".Resume.ResumeMaker"
             android:windowSoftInputMode="adjustPan" />
-        <activity android:name=".ResumeSettings" />
-        <activity android:name=".CompanyNewUser"></activity>
+        <activity android:name=".Resume.ResumeSettings" />
+        <activity android:name=".Company.CompanyNewUser"></activity>
     </application>
 
 </manifest>

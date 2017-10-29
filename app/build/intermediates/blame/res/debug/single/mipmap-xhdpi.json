@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/logo.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/mipmap-xhdpi/logo.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]

@@ -1,17 +1,25 @@
 package com.example.dhruv.getplaced;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.dhruv.getplaced.Company.CompanyLogin;
+import com.example.dhruv.getplaced.Student.StudentLogin;
+
+/**
+ * The first activity of our application.
+ */
 public class MainActivity extends AppCompatActivity {
     private Button companyLogin;
     private Button studentLogin;
-
+    //! Called automatically when activity launches
+    /**
+     * Sets the layout of the activity
+     * Contains two buttons, one for Student Login and other for Company Login
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         companyLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(MainActivity.this, companylogin.class);
+                Intent i=new Intent(MainActivity.this, CompanyLogin.class);
 
                 /*i.putExtra("FontSize","10");
                 i.putExtra("HeadingSize","Large");
@@ -33,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         studentLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(MainActivity.this, studentlogin.class);
+                Intent i=new Intent(MainActivity.this, StudentLogin.class);
 
                 i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(i);

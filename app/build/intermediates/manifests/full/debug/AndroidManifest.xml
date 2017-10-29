@@ -33,29 +33,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.dhruv.getplaced.companylogin" />
-        <activity android:name="com.example.dhruv.getplaced.companyhome" />
-        <activity android:name="com.example.dhruv.getplaced.StudentHome" />
-        <activity android:name="com.example.dhruv.getplaced.AddOffer" />
-        <activity android:name="com.example.dhruv.getplaced.studentlogin" >
+        <activity android:name="com.example.dhruv.getplaced.Company.CompanyLogin" />
+        <activity android:name="com.example.dhruv.getplaced.Company.CompanyHome" />
+        <activity android:name="com.example.dhruv.getplaced.Student.StudentHome" />
+        <activity android:name="com.example.dhruv.getplaced.Company.AddOffer" />
+        <activity android:name="com.example.dhruv.getplaced.Student.StudentLogin" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.dhruv.getplaced.StudentRegistration" />
+        <activity android:name="com.example.dhruv.getplaced.Student.StudentRegistration" />
         <activity
-            android:name="com.example.dhruv.getplaced.comitemclick"
+            android:name="com.example.dhruv.getplaced.Student.comitemclick"
             android:label="@string/title_activity_comitemclick"
             android:theme="@style/AppTheme" />
-        <activity android:name="com.example.dhruv.getplaced.OfferDetails" />
-        <activity android:name="com.example.dhruv.getplaced.StudentProfileForCompany" />
+        <activity android:name="com.example.dhruv.getplaced.Company.OfferDetails" />
+        <activity android:name="com.example.dhruv.getplaced.Company.StudentProfileForCompany" />
         <activity
-            android:name="com.example.dhruv.getplaced.ResumeMaker"
+            android:name="com.example.dhruv.getplaced.Resume.ResumeMaker"
             android:windowSoftInputMode="adjustPan" />
-        <activity android:name="com.example.dhruv.getplaced.ResumeSettings" />
-        <activity android:name="com.example.dhruv.getplaced.CompanyNewUser" />
+        <activity android:name="com.example.dhruv.getplaced.Resume.ResumeSettings" />
+        <activity android:name="com.example.dhruv.getplaced.Company.CompanyNewUser" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

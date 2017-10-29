@@ -1,46 +1,46 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/color-v23/design_tint_password_toggle.xml"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/dell/.android/build-cache/801ca77557c3ab3a2f9c3986782fbe23fce4ef0b/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/dell/.android/build-cache/f393c026961f3ac9038d9b607a1d57ba6b1487b4/output/res/color-v23/abc_tint_edittext.xml"
     }
 ]

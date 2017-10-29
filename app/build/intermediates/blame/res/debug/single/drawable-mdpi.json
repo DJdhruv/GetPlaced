@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/edit.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/edit.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/next.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/drawable-mdpi/next.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/next.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/next.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/drawable-mdpi/add.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/settings.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/drawable-mdpi/settings.png"
     },
     {
-        "merged": "/home/dell/AndroidStudioProjects/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
-        "source": "/home/dell/AndroidStudioProjects/GetPlaced/app/src/main/res/drawable-mdpi/add.png"
+        "merged": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/build/intermediates/res/merged/debug/drawable-mdpi/edit.png",
+        "source": "/home/dell/Desktop/Code/Android-app/GetPlaced/app/src/main/res/drawable-mdpi/edit.png"
     }
 ]

@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="250dp"
         android:background="#0077B5"
         android:id="@+id/linearLayout1">
 
@@ -17,7 +17,7 @@
 
             android:id="@+id/Profilepicture"
             android:layout_width="150dp"
-            android:layout_height="200dp"
+            android:layout_height="250dp"
             android:scaleType="fitCenter"
             android:layout_weight="1"
             />
